@@ -260,8 +260,7 @@ https://wpsu-ice.streamguys1.com/wpsu3
 #extinf:-1,group-title="Music",WPSU FM 91.5 News & Classical 
 https://wpsu-ice.streamguys1.com/wpsu1
 
-#extinf:-1,group-title="Music",** Redbox | Music **
-http://stream.revma.ihrhls.com/zc4717/hls.m3u8
+
 #extinf:-1,group-title="Music",Redbox | Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #extinf:-1,group-title="Music",Redbox | Greatest Hits
