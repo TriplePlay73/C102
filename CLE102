@@ -106,7 +106,7 @@ https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV", Skills + Thrills | Ch.3 | +2h*
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="Western",Lone Star
+#EXTINF:-1,group-title="TV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 #EXTINF:-1,group-title="TV",  MovieSphere | HD
 https://moviesphere-plex.amagi.tv/playlist.m3u8
