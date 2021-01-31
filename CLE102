@@ -8,15 +8,15 @@ https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
-#EXTINF:-1  group-title="TV-Test Channels",  AMC Presents *
+#EXTINF:-1,group-title="TV",  AMC Presents *
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="TV-Test Channels",  Paramount Network *1.27.21 
+#EXTINF:-1,group-title="TV",  Paramount Network *1.27.21 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1  group-title="TV-Test Channels", CBS *1.21.21
+#EXTINF:-1,group-title="TV", CBS *1.21.21
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1  group-title="TV-Test Channels", NBC *1.27.21
+#EXTINF:-1,group-title="TV", NBC *1.27.21
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1  group-title="TV-Test Channels", MTV *1.27.21
+#EXTINF:-1,group-title="TV", MTV *1.27.21
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,group-title="TV",Charge HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
