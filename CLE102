@@ -1,20 +1,22 @@
-
 #EXTM3U
 
-#EXTINF:-1  group-title="TV", Updated 1.28.21 **
+
+
+#EXTINF:-1  group-title="TV", Updated 1.30.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
-#EXTINF:-1  group-title="TV",  AMC Presents *1.27.21 Test
+
+#EXTINF:-1  group-title="TV-Test Channels",  AMC Presents *
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  group-title="TV",  Paramount Network *1.27.21 
+#EXTINF:-1  group-title="TV-Test Channels",  Paramount Network *1.27.21 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1  group-title="TV", CBS *1.21.21 Test
+#EXTINF:-1  group-title="TV-Test Channels", CBS *1.21.21
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1  group-title="TV", NBC *1.27.21 Test
+#EXTINF:-1  group-title="TV-Test Channels", NBC *1.27.21
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1  group-title="TV", MTV *1.27.21 Test
+#EXTINF:-1  group-title="TV-Test Channels", MTV *1.27.21
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,group-title="TV",Charge HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -32,8 +34,8 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1,group-title="TV",The Asylum Movies HD
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,group-title="TV",Cozi TV 
-https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:-1,group-title="TV",Cozi TV  *Dead Link
+https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 #EXTINF:-1,group-title="TV",Circle HD 
 https://circle-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,group-title="TV",Victor Valley TV HD
@@ -42,8 +44,6 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/chunklist_b2000000.
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
 #EXTINF:-1,group-title="TV",AMG-TV 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1,group-title="TV",ABC ME
-https://c.mjh.nz/101002210224/
 #EXTINF:-1,group-title="TV",ABC
 https://c.mjh.nz/101002510251/
 #EXTINF:-1,group-title="TV",Australia Channel
@@ -73,7 +73,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1,group-title="TV",YouToo America HD
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1928000.m3u8
 #EXTINF:-1,group-title="TV",Positiv TV  HD
-https://playback.akamaized.net/streams/27460990_8973036_lsiylbuqtyzgodeapih_1/media/27460990_8973036_lsiylbuqtyzgodeapih_1@5256000pb.m3u8?dw=32&ts=1611705600&hdnts=exp=1611880368~acl=/streams/27460990_8973036_lsiylbuqtyzgodeapih_1/media*~hmac=7d1560d2e420ef99a7a1d40d5ae2bd77ca55acdf04aa01d0b936b8b27e161296
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
 #EXTINF:-1,group-title="TV",WATC-57 Too | Classic TV HD
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/chunklist_w1236601238.m3u8
 #EXTINF:-1,group-title="TV",Victorville CA HD
@@ -95,11 +95,11 @@ https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
 #EXTINF:-1,group-title="TV",Shout! Factory TV HD
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/1920x1080_4690400/chunklist.m3u8
 #EXTINF:-1,group-title="TV",RetroCrush TV HD
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/3e529300-d518-463b-bedc-8990f00f7d8f/5.m3u8
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:-1,group-title="TV",Midnight Pulp HD
-https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/79ec1242-c6a4-46b2-a2bd-a2a8acd9d081/5.m3u8
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:-1,group-title="TV", Electric Now HD
-https://stream.ads.ottera.tv/cl/506883bb-ec1d-4c69-a5f6-2b48a5fce0f3/1920x1080_3000000_4.m3u8
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
 #EXTINF:-1,group-title="TV", Skills + Thrills | Channel 1*
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV", Skills + Thrills | Ch.2 | +1h*
@@ -108,6 +108,8 @@ https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1,group-title="TV", Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1,group-title="TV",  MovieSphere | HD
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,group-title="TV", RunTime Free Movies
@@ -118,103 +120,202 @@ https://dmtv-plex.amagi.tv/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,group-title="TV", This Old House HD
 http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,group-title="TV", Comedy Dynamics
+https://comedydynamicsclean-redbox-ll.cinedigm.com/hls/amagi_hls_data_xumo-host-comedydynamicscleanredbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 
 
 
 
-
-#extinf:-1,group-title="Music", Updated 1.28.21
+#extinf:-1,group-title="Kids", Updated 1.30.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
 
 
-#extinf:-1,group-title="Music",iHeart Radio | Gen X Radio
+
+#extinf:-1,group-title="Kids",PBS Kids (Geo-USA) East HD
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#extinf:-1,group-title="Kids",PBS Kids (Geo-USA) Hawaii HD
+https://live-cdn.pbskids.org/out/u/hast.m3u8
+#extinf:-1,group-title="Kids",tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#extinf:-1,group-title="Kids",Nickelodeon
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#extinf:-1,group-title="Kids",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#extinf:-1,group-title="Kids",Totally-Turtles
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",Dora-TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",After-School-Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",Tween
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-, group-title="Kids",Kids Animation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
+#extinf:-1,group-title="Kids",Pocketwatch 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",Little-Baby-Bum
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",ABC Kids
+https://c.mjh.nz/101002210222/
+#extinf:-1,group-title="Kids",Classic Toons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
+#extinf:-1,group-title="Kids",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#extinf:-1,group-title="Kids",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#extinf:-1,group-title="Kids",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#extinf:-1,group-title="Kids",The LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#extinf:-1,group-title="Kids",HappyKids.tv
+https://happykids-roku.amagi.tv/playlist.m3u8
+#extinf:-1,group-title="Kids",Cocoro
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+#extinf:-1,group-title="Kids",Fireman Sam
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#extinf:-1,group-title="Kids",Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#extinf:-1,group-title="Kids",Yo Gabba Gabba
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#extinf:-1,group-title="Kids", Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#extinf:-1,group-title="Kids", ABC ME
+https://c.mjh.nz/101002210224/
+
+
+
+
+
+#extinf:-1,group-title="Kids",  Adult Swim live stream 
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+#extinf:-1,group-title="Kids",  Rick and Morty *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#extinf:-1,group-title="Kids", Robot Chicken *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#extinf:-1,group-title="Kids", Aqua Teen Hunger Force *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#extinf:-1,group-title="Kids", Mr. Pickles *Adult Swim
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#extinf:-1,group-title="Kids", Squidbillies *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+#extinf:-1,group-title="Kids", Metalocalypse *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#extinf:-1,group-title="Kids", Samurai Jack *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#extinf:-1,group-title="Kids", The Venture Bros. *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#extinf:-1,group-title="Kids", Dream Corp LLC *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#extinf:-1,group-title="Kids", Your Pretty Face is Going to Hell *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#extinf:-1,group-title="Kids", Last Stream on the Left *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#extinf:-1,group-title="Kids", Off The Air / Smalls *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#extinf:-1,group-title="Kids", Channel 5 *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#extinf:-1,group-title="Kids", Infomercials *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#extinf:-1,group-title="Kids", Black Jesus *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#extinf:-1,group-title="Kids", Relaxing Fish *Adult Swim
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+
+
+
+
+
+
+#extinf:-1,group-title="Music", Updated 1.30.21
+https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
+
+
+
+
+
+
+#extinf:-1,group-title="Music Video",Gran Torino
+http://stream.revma.ihrhls.com/zc6803/hls.m3u8
+#extinf:-1,group-title="Music",Gen X Radio
 http://stream.revma.ihrhls.com/zc5322/hls.m3u8
-#extinf:-1,group-title="Music",iHR | Hit Nation Junior
+#extinf:-1,group-title="Music",Hit Nation Junior
 https://stream.revma.ihrhls.com/zc6395/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Hit Nation
+#extinf:-1,group-title="Music",Hit Nation
 http://stream.revma.ihrhls.com/zc4422/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Hit Nation Top 20
+#extinf:-1,group-title="Music",Hit Nation Top 20
 http://stream.revma.ihrhls.com/zc4878/hls.m3u8
-#extinf:-1,group-title="Music",iHR Family Top 40 Countdown
+#extinf:-1,group-title="Music",Family Top 40 Countdown
 https://stream.revma.ihrhls.com/zc7013/hls.m3u8
-#extinf:-1,group-title="Music",iHRadio | Kids Hits
+#extinf:-1,group-title="Music", Kids Hits
 https://stream.revma.ihrhls.com/zc7223/hls.m3u8
-#extinf:-1,group-title="Music",iHR | Kids Club Radio
+#extinf:-1,group-title="Music",Kids Club Radio
 https://stream.revma.ihrhls.com/zc6551/hls.m3u8
-#extinf:-1,group-title="Music",iHR | iMaginate Radio
+#extinf:-1,group-title="Music",iMaginate Radio
 https://stream.revma.ihrhls.com/zc8523/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Kiss Radio
+#extinf:-1,group-title="Music",Kiss Radio
 http://stream.revma.ihrhls.com/zc7362/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Lite Rock
+#extinf:-1,group-title="Music",Lite Rock
 http://stream.revma.ihrhls.com/zc6830/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Popcorn Radio
+#extinf:-1,group-title="Music",Popcorn Radio
 http://stream.revma.ihrhls.com/zc7445/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Real Fun Beach
+#extinf:-1,group-title="Music",Real Fun Beach
 http://stream.revma.ihrhls.com/zc6221/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Rock Workout
+#extinf:-1,group-title="Music",Rock Workout
 http://stream.revma.ihrhls.com/zc7800/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Slippery When Wet
+#extinf:-1,group-title="Music",Slippery When Wet
 http://stream.revma.ihrhls.com/zc4858/hls.m3u8
-#extinf:-1,group-title="Music",The iHeartRadio Countdown
+#extinf:-1,group-title="Music",The Countdown
 http://stream.revma.ihrhls.com/zc6455/hls.m3u8
-#extinf:-1,group-title="Music",Real Oldies 60s & 70s Hits
-http://stream.revma.ihrhls.com/zc4717/hls.m3u8
-#extinf:-1,group-title="Music",iHeart 70s Radio
-http://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#extinf:-1,group-title="Music",iHeart 80s Radio
-http://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#extinf:-1,group-title="Music",iHeart 90s Radio
-http://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#extinf:-1,group-title="Music",iHeart 2000s Radio
-http://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#extinf:-1,group-title="Music",iHeart 2010s Radio
-http://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#extinf:-1,group-title="Music",Big Classic Hits 70s-90s
-http://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Lost 80's Hits
-http://stream.revma.ihrhls.com/zc7934/hls.m3u8
 #extinf:-1,group-title="Music",The Classic Rock Channel
 http://stream.revma.ihrhls.com/zc4426/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Non Stop Rock
+#extinf:-1,group-title="Music",Non Stop Rock
 http://stream.revma.ihrhls.com/zc4443/hls.m3u8
 #extinf:-1,group-title="Music",Rock Nation's Top 20
 http://stream.revma.ihrhls.com/zc4932/hls.m3u8
 #extinf:-1,group-title="Music",One Hit Wonder Radio
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
-#extinf:-1,group-title="Music",TuneIn Classic Hits
-http://rfcmedia.streamguys1.com/classichits.mp3
-#extinf:-1,group-title="Music",TuneIn | MeTV FM WXZO
-http://crystalout.surfernetwork.com:8001/WXZO_MP3
-#extinf:-1,group-title="Music",iHeart Radio | iHeart50s Radio
-http://stream.revma.ihrhls.com/zc6882/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart60s Radio
-http://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart70s Radio
-http://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart80s Radio
-https://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart90s Radio
-http://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart2000s Radio
-http://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | iHeart2010s Radio
+#extinf:-1,group-title="Music",2010s Radio
 http://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Classical Highlights
-http://stream.revma.ihrhls.com/zc6377/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Smooth Jazz
-http://stream.revma.ihrhls.com/zc4242/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | Vinyl Jazz
-http://stream.revma.ihrhls.com/zc7079/hls.m3u8
-#extinf:-1,group-title="Music",iHeart Radio | The Standard Radio
-http://stream.revma.ihrhls.com/zc6784/hls.m3u8
-#extinf:-1,group-title="Music",iHR | Country Family
+#extinf:-1,group-title="Music Video",2000s Radio
+http://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#extinf:-1,group-title="Music",90s Radio
+http://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#extinf:-1,group-title="Music",80s Radio
+http://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#extinf:-1,group-title="Music",70s Radio
+http://stream.revma.ihrhls.com/zc6843/hls.m3u8
+#extinf:-1,group-title="Music",60s Radio
+http://stream.revma.ihrhls.com/zc6873/hls.m3u8
+#extinf:-1,group-title="Music",50s Radio
+http://stream.revma.ihrhls.com/zc6882/hls.m3u8
+#extinf:-1,group-title="Music",Real Oldies 60s & 70s Hits
+http://stream.revma.ihrhls.com/zc4717/hls.m3u8
+#extinf:-1,group-title="Music",Big Classic Hits 70s-90s
+http://stream.revma.ihrhls.com/zc4455/hls.m3u8
+#extinf:-1,group-title="Music",Lost 80's Hits
+http://stream.revma.ihrhls.com/zc7934/hls.m3u8
+#extinf:-1,group-title="Music",Classic Hits
+http://rfcmedia.streamguys1.com/classichits.mp3
+#extinf:-1,group-title="Music",Country Family
 https://stream.revma.ihrhls.com/zc7014/hls.m3u8
-#extinf:-1,group-title="Music",iHR | Disney Country (Geo-USA)
+#extinf:-1,group-title="Music",Disney Country 
 https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64.m3u8
+#extinf:-1,group-title="Music",MeTV FM WXZO
+http://crystalout.surfernetwork.com:8001/WXZO_MP3
+#extinf:-1,group-title="Music",Classical Highlights
+http://stream.revma.ihrhls.com/zc6377/hls.m3u8
+#extinf:-1,group-title="Music",Smooth Jazz
+http://stream.revma.ihrhls.com/zc4242/hls.m3u8
+#extinf:-1,group-title="Music",Vinyl Jazz
+http://stream.revma.ihrhls.com/zc7079/hls.m3u8
+#extinf:-1,group-title="Music",The Standard Radio
+http://stream.revma.ihrhls.com/zc6784/hls.m3u8
 #extinf:-1,group-title="Music",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 #extinf:-1,group-title="Music",tingray Hit List
@@ -245,6 +346,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 #extinf:-1,group-title="Music",CMC | CMC Radio
 https://streamingv2.shoutcast.com/CMC
+
 #extinf:-1,group-title="Music",iHR | Radio Disney (Geo-USA)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
 #extinf:-1,group-title="Music",iHR | Build-A-Bear Radio
@@ -253,13 +355,13 @@ https://stream.revma.ihrhls.com/zc8430/hls.m3u8
 https://stream.revma.ihrhls.com/zc7249/hls.m3u8
 #extinf:-1,group-title="Music",iHR | iRead2Know Radio
 https://stream.revma.ihrhls.com/zc7101/hls.m3u8
+
 #extinf:-1,group-title="Music",WPSU Radio 2 Public Radio Mix 
 https://wpsu-ice.streamguys1.com/wpsu2
 #extinf:-1,group-title="Music",WPSU Radio 3 Jazzworks 
 https://wpsu-ice.streamguys1.com/wpsu3
 #extinf:-1,group-title="Music",WPSU FM 91.5 News & Classical 
 https://wpsu-ice.streamguys1.com/wpsu1
-
 
 #extinf:-1,group-title="Music",Redbox | Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
@@ -271,6 +373,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/pla
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 #extinf:-1,group-title="Music",Redbox | Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+
+
+
+
 
 
 
@@ -361,67 +468,13 @@ https://broadcastify.cdnstream1.com/28596
 
 
 
-#extinf:-1,group-title="Kids", Updated 1.28.21
-https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
-
-
-
-#extinf:-1,group-title="Kids",PBS Kids (Geo-USA) East HD
-https://live-cdn.pbskids.org/out/u/est.m3u8
-#extinf:-1,group-title="Kids",PBS Kids (Geo-USA) Hawaii HD
-https://live-cdn.pbskids.org/out/u/hast.m3u8
-#extinf:-1,group-title="Kids",tvo KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#extinf:-1,group-title="Kids",Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#extinf:-1,group-title="Kids",Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#extinf:-1,group-title="Kids",Totally-Turtles
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",Dora-TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",After-School-Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",Tween
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-, group-title="Kids",Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
-#extinf:-1,group-title="Kids",Pocketwatch 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",Little-Baby-Bum
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",ABC Kids
-https://c.mjh.nz/101002210222/
-#extinf:-1,group-title="Kids",Classic Toons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
-#extinf:-1,group-title="Kids",Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Kids",Toon Goggles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Kids",Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Kids",The LEGO Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#extinf:-1,group-title="Kids",HappyKids.tv
-https://happykids-roku.amagi.tv/playlist.m3u8
-#extinf:-1,group-title="Kids",Cocoro
-https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-#extinf:-1,group-title="Kids",Fireman Sam
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-#extinf:-1,group-title="Kids",Ketchup TV
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#extinf:-1,group-title="Kids",Yo Gabba Gabba
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#extinf:-1,group-title="Kids", Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 
 
 
 
-#EXTINF:-1  group-title="News", Updated 1.26.21
+
+#EXTINF:-1  group-title="News", Updated 1.30.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
@@ -503,7 +556,12 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 group-title="News",NTD News *Direct Link-1
 https://live.ntdimg.com/en01live900/playlist.m3u8
-
+#EXTINF:-1  group-title="News",C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="News",C Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="News",C Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/index_50_av-p.m3u8?sd=10&rebase=on
 
 
 
