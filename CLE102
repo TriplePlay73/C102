@@ -240,7 +240,7 @@ https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
-#extinf:-1,group-title="Music Video",Gran Torino
+#extinf:-1,group-title="Music",Gran Torino
 http://stream.revma.ihrhls.com/zc6803/hls.m3u8
 #extinf:-1,group-title="Music",Gen X Radio
 http://stream.revma.ihrhls.com/zc5322/hls.m3u8
@@ -282,7 +282,7 @@ http://stream.revma.ihrhls.com/zc4932/hls.m3u8
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
 #extinf:-1,group-title="Music",2010s Radio
 http://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#extinf:-1,group-title="Music Video",2000s Radio
+#extinf:-1,group-title="Music",2000s Radio
 http://stream.revma.ihrhls.com/zc6850/hls.m3u8
 #extinf:-1,group-title="Music",90s Radio
 http://stream.revma.ihrhls.com/zc6834/hls.m3u8
