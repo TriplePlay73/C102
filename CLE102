@@ -121,8 +121,7 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,group-title="TV", This Old House HD
 http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV", Comedy Dynamics
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/1920x1080_5420800/index.m3u8
-
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/512x288_875600/chunklist.m3u8
 
 
 
