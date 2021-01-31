@@ -347,13 +347,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/maste
 #extinf:-1,group-title="Music",CMC | CMC Radio
 https://streamingv2.shoutcast.com/CMC
 
-#extinf:-1,group-title="Music",iHR | Radio Disney (Geo-USA)
+#extinf:-1,group-title="Music",Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
-#extinf:-1,group-title="Music",iHR | Build-A-Bear Radio
+#extinf:-1,group-title="Music",Build-A-Bear Radio
 https://stream.revma.ihrhls.com/zc8430/hls.m3u8
-#extinf:-1,group-title="Music",iHR | Lullabies Radio
+#extinf:-1,group-title="Music",Lullabies Radio
 https://stream.revma.ihrhls.com/zc7249/hls.m3u8
-#extinf:-1,group-title="Music",iHR | iRead2Know Radio
+#extinf:-1,group-title="Music",iRead2Know Radio
 https://stream.revma.ihrhls.com/zc7101/hls.m3u8
 
 #extinf:-1,group-title="Music",WPSU Radio 2 Public Radio Mix 
@@ -363,15 +363,15 @@ https://wpsu-ice.streamguys1.com/wpsu3
 #extinf:-1,group-title="Music",WPSU FM 91.5 News & Classical 
 https://wpsu-ice.streamguys1.com/wpsu1
 
-#extinf:-1,group-title="Music",Redbox | Hot Country
+#extinf:-1,group-title="Music",Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Redbox | Greatest Hits
+#extinf:-1,group-title="Music",Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Redbox | Classic Rock
+#extinf:-1,group-title="Music",Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Redbox | Hit List
+#extinf:-1,group-title="Music", Hit List
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Redbox | Soul Storm
+#extinf:-1,group-title="Music",Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 
