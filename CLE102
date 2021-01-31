@@ -185,7 +185,8 @@ https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&c
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #extinf:-1,group-title="Kids", ABC ME
 https://c.mjh.nz/101002210224/
-
+#extinf:-1,group-title="Kids", GIGGLE Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
 
 
 
@@ -1439,8 +1440,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225d2d5eeee0f5a4094bf/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 #EXTINF:-1  group-title="Bumblebee Tv",  Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1  group-title="Bumblebee Tv",  Giggle Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
 #EXTINF:-1  group-title="Bumblebee Tv", Kidsongs
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22401932c8304fc4533df/playlist.m3u8
 #EXTINF:-1  group-title="Bumblebee Tv", Lego Toons
