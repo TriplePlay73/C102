@@ -111,8 +111,12 @@ https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV",Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1,group-title="TV", Popcorn Flix
+https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=60089d8df682a3002c348297/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1,group-title="TV", Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1,group-title="TV", Crackle
+https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
 #EXTINF:-1,group-title="TV",  MovieSphere | HD
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,group-title="TV", RunTime Free Movies
