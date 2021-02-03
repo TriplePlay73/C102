@@ -139,7 +139,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1,group-title="TV", The Grid
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1070837085_b1976116.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
 
-
+#EXTINF:-1,group-title="TV", Law & Crime *Direct
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
 
 
 
@@ -548,7 +549,7 @@ https://broadcastify.cdnstream1.com/28596
 
 
 
-#EXTINF:-1  group-title="News", Updated 1.30.21
+#EXTINF:-1  group-title="News", Updated 02.03.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
@@ -558,8 +559,12 @@ https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
 https://content-ause1.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c/g.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26amzniid%3DIotDJUYS0ek2agZZzh6ungUAAAF3JwpLMAEAAAzfBCcPYig%26amznp%3D1mtjgn4%26amznbid%3Dv_8blczk%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F&pbs=c281a251899047bc824a8ea1e0354ade
 #EXTINF:-1,group-title="News", WOIO News CH 19
 https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
-#EXTINF:-1  group-title="News",Americas Voice *Direct Link
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad=avnovrm&ad._debug=avtest&ad.platform=web
+#EXTINF:-1  group-title="News",Weather Nation | Webstream
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1  group-title="News",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#extinf:-1,Senate Floor *Direct
+https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
 #EXTINF:-1  group-title="News",Newsmax TV *Direct Link
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1  group-title="News",OANN
@@ -568,28 +573,17 @@ http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encores/oane_nva/OAN_Encore.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=519&ads.height=292&ads.deviceId=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=6528826b-f96d-41a5-a518-57ecb15730e1&ads.contentid=22866&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Foan-encore&ads.rnd=yamx&ads.content_duration=3600&ads.episode_id=34008&ads.show_id=1095&ads.showtitle=OAN%20Encore&ads.episodetitle=OAN%20Encore&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=143b7c03-fb93-4de3-8e49-2f0a8581e220&ads.env_u=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
 #EXTINF:-1 group-title="News",Sky News AU Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="News",NTD News *Direct Link-2 
-https://live.ntdimg.com/en02live900/playlist.m3u8
-#EXTINF:-1 group-title="News",Fox News HD *Dead Link
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1  group-title="News",Americas Voice *Direct Link
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad=avnovrm&ad._debug=avtest&ad.platform=web
 #EXTINF:-1 group-title="News", The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
 #EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
 http://sots.ohio.gov/live/stream_10/index.m3u8
-#EXTINF:-1  group-title="News",Fox News Now *Tubi
-https://lnc-fox-news-now.tubi.video/index.m3u8
-#EXTINF:-1  group-title="News",ABC NEWS LIVE *Direct
-https://abcnewslive-i.akamaihd.net/hls/live/724634-b/ABCNLive1/master.m3u8
-#EXTINF:-1  group-title="News",NBC NEWS NOW LIVE *Direct
-https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
-#EXTINF:-1  group-title="News",Law & Crime *Direct
-https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
-#EXTINF:-1  group-title="News",Cheddar 
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:-1  group-title="News",Weather Nation | Webstream
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1  group-title="News",The Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
+https://stream.viloud.tv/VjFmKzJNc1dFRkRTWGZtMWx4aHRBaFhsVjluTHBpaGRMMkh0cFR2N0lsRlIxeUE0YTNXVEJ2dEZpMHV6cTZrSy1obHBkN3Nnb0NicjVycUE5YjBRMkZ3PT0/live.m3u8
+
+
 #EXTINF:-1  group-title="News",Infowars 1 *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1  group-title="News",Alex Jones *Direct Link
@@ -604,6 +598,20 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1  group-title="News",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 group-title="News",NTD News *Direct Link-2 
+https://live.ntdimg.com/en02live900/playlist.m3u8
+#EXTINF:-1 group-title="News",Fox News HD *Audio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1  group-title="News",Fox News Now *Tubi
+https://lnc-fox-news-now.tubi.video/index.m3u8
+
+
+#EXTINF:-1  group-title="News",ABC NEWS LIVE *Direct
+https://abcnewslive-i.akamaihd.net/hls/live/724634-b/ABCNLive1/master.m3u8
+#EXTINF:-1  group-title="News",NBC NEWS NOW LIVE *Direct
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1  group-title="News",Cheddar 
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1  group-title="News",BNC
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/720x404_1425600/chunklist.m3u8
 #EXTINF:-1  group-title="News",CNN HD *Direct
@@ -636,6 +644,8 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&reb
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/index_50_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="News",C Span 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/index_50_av-p.m3u8?sd=10&rebase=on
+
+
 
 
 
