@@ -6,7 +6,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #extinf:-1,group-title="TEMP 2.6.21",  2
 http://cdn10.hhdstreams.club/live/abr_ch1/live/ch1/chunks.m3u8?nimblesessionid=14009&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjEgOTo1MzozNCBQTSZoYXNoX3ZhbHVlPVIzSHAzdkpsVjljYU54NkNPWXduZ0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE3Mi42OS41NS4yNiZzdHJtX2xlbj01
 
-
+#extinf:-1,group-title="TEMP 2.6.21",  3
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1  group-title="TV", Updated 02.01.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
