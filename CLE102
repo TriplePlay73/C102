@@ -1,34 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="TEMP", 1
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-#EXTINF:-1,group-title="TEMP", 2
-
-
-#EXTINF:-1,group-title="TEMP", 3
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1,group-title="TEMP", 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF:-1,group-title="TEMP", 5
-http://192.166.246.122/hls/ovostreamss1.m3u8
-
-#EXTINF:-1,group-title="TEMP", 6
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-
-#EXTINF:-1,group-title="TEMP", 7
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-
-#EXTINF:-1,group-title="TEMP", 8
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-#EXTINF:-1,group-title="TEMP", 9
-
-
-#EXTINF:-1,group-title="TEMP", 10
-http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
 
 
 
