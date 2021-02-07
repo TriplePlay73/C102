@@ -1,13 +1,36 @@
 #EXTM3U
 
-#extinf:-1,group-title="TEMP 2.6.21",  1
+#EXTINF:-1,group-title="TEMP", 1
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-#extinf:-1,group-title="TEMP 2.6.21",  2
-http://cdn10.hhdstreams.club/live/abr_ch1/live/ch1/chunks.m3u8?nimblesessionid=14009&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjEgOTo1MzozNCBQTSZoYXNoX3ZhbHVlPVIzSHAzdkpsVjljYU54NkNPWXduZ0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE3Mi42OS41NS4yNiZzdHJtX2xlbj01
+#EXTINF:-1,group-title="TEMP", 2
 
-#extinf:-1,group-title="TEMP 2.6.21",  3
+
+#EXTINF:-1,group-title="TEMP", 3
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1,group-title="TEMP", 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1,group-title="TEMP", 5
+http://192.166.246.122/hls/ovostreamss1.m3u8
+
+#EXTINF:-1,group-title="TEMP", 6
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1,group-title="TEMP", 7
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+#EXTINF:-1,group-title="TEMP", 8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1,group-title="TEMP", 9
+
+
+#EXTINF:-1,group-title="TEMP", 10
+http://46.174.189.50:8082/matchboec/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1  group-title="TV", Updated 02.01.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
