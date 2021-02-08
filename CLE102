@@ -550,7 +550,7 @@ https://broadcastify.cdnstream1.com/28596
 
 
 
-#EXTINF:-1  group-title="News", Updated 02.03.21
+#EXTINF:-1  group-title="News", Updated 02.08.2021
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
@@ -566,6 +566,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #extinf:-1,Senate Floor *Direct
 https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
+#EXTINF:-1,group-title="News", The Pentagon
+https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
 #EXTINF:-1  group-title="News",Newsmax TV *Direct Link
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1  group-title="News",OANN
@@ -645,6 +647,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&reb
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/index_50_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="News",C Span 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/index_50_av-p.m3u8?sd=10&rebase=on
+
 
 
 
