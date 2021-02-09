@@ -3,10 +3,12 @@
 
 
 
-#EXTINF:-1  group-title="TV", Updated 02.01.21
+#EXTINF:-1  group-title="TV", Updated 02.08.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
+#EXTINF:-1,group-title="TV", LAFF
+https://origin1.noisypeak.com/BrhEslnH5XKV2ASr5wXP/playlist.m3u8
 #EXTINF:-1,group-title="TV", AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV", Rush by AMC
