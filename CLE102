@@ -449,50 +449,68 @@ https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=nu
 
 
 
-#extinf:-1,group-title="Music Video", Updated 1.31.21
+#extinf:-1,group-title="Music Video", Updated 2.14.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
 
-#extinf:-1,group-title="Music Video", Hottest
-https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/8d005fff-0771-41b1-9d15-7f86442c45a0/5.m3u8
-#extinf:-1,group-title="Music Video",Trending
-https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/75bc3725-47b2-4781-82e4-2a1d15af3f74/5.m3u8
-#extinf:-1,group-title="Music Video",80"s
-https://4f5e5eb0064545fb96182a578bb2fe52.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_loop/eb0809ad-c8c6-4124-995a-70de4cd73dc1/5.m3u8
-#extinf:-1,group-title="Music Video",90"s
-https://f90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_loop/5196e6e0-8253-4099-9245-7d4c8b4ec0ee/5.m3u8
-#extinf:-1,group-title="Music Video",Far Out
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/6461cb56-7ee7-486d-8080-147fda20d6bc/5.m3u8
-#extinf:-1,group-title="Music Video",Yacht Rock
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/69f9797b-81bc-4bd1-822e-6251aad14116/5.m3u8
-#extinf:-1,group-title="Music Video",That's Hot
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/4bba58e5-c377-4c67-9455-73b216175297/5.m3u8
-#extinf:-1,group-title="Music Video",Flashback
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/292e42e8-312d-4d6a-bd21-49df21ed8290/5.m3u8
-#extinf:-1,group-title="Music Video",Synapse
-https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/c80a9f8f-b478-4422-8c87-7d352871c269/5.m3u8
-#extinf:-1,group-title="Music Video",Unwind
-https://c1d8b62bac24481e82f91c4445b17092.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_loop/6d00cc51-8550-4c13-8d1b-14d7205d5538/5.m3u8
-#extinf:-1,group-title="Music Video",Party
-https://fc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_loop/c6d82841-419b-42a4-a9b1-8ad2f43e30f7/5.m3u8
-#extinf:-1,group-title="Music Video",Electronica
-https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/6bb4f879-62ee-4db3-be72-84024045f6b6/5.m3u8
-#extinf:-1,group-title="Music Video",Beast
-https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/2dad7ba5-ebde-4cc9-a3db-f941cf1180b1/5.m3u8
-#extinf:-1,group-title="Music Video",Texas Tunes
-https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/b9b0ed01-babc-4858-a3f0-c0fd5c53e976/5.m3u8
-#extinf:-1,group-title="Music Video",Latin
-https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/1ab79f1b-05eb-4fc0-909b-db232e8436f6/5.m3u8
-#extinf:-1,group-title="Music Video",Bedroom
-https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/33155d15-29a1-492d-8fd1-594730675732/5.m3u8
-#extinf:-1,group-title="Music Video",R&B
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/07717898-6e6c-4015-ab80-72cf895268f1/5.m3u8
-#extinf:-1,group-title="Music Video",ALT+
-https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/4019f5bb-b756-4515-b929-4fa45f845259/5.m3u8
-#extinf:-1,group-title="Music Video",TGIF
-https://6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_loop/afe4c74d-2082-42df-892c-6a3615803691/5.m3u8
+#extinf:-1,group-title="Music Video", Hottest * 
+https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/bd22829e-277a-434b-b0a9-256b0ef9d197/5.m3u8
+
+#extinf:-1,group-title="Music Video",Trending *
+https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/20700c4c-d5e3-4960-9878-9586efbdeb0f/5.m3u8
+
+#extinf:-1,group-title="Music Video", Hip Hop *
+https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/805dd277-917b-49e2-b96f-4e1130926119/3.m3u8
+
+#extinf:-1,group-title="Music Video",TGIF *
+https://6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_loop/b8119088-403d-4579-b87b-4ec6c79d2cd9/5.m3u8
+
+#extinf:-1,group-title="Music Video",ALT+ *
+https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/9f43f72d-d7c9-471a-ac44-6140dbb2c2bb/5.m3u8
+
+#extinf:-1,group-title="Music Video",R&B *
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/49802293-9d87-4fcd-be71-62e575b7622d/5.m3u8
+
+#extinf:-1,group-title="Music Video",Bedroom *
+https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/5989d0ef-10b8-4183-b0ce-03b248880748/5.m3u8
+
+#extinf:-1,group-title="Music Video",Texas Tunes *
+https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/d8e6830d-c793-4c93-9019-fbe2939ba934/5.m3u8
+
+#extinf:-1,group-title="Music Video",Beast *
+https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/b76c8bb0-7787-4ac0-8b40-b3ab904b8697/3.m3u8
+
+#extinf:-1,group-title="Music Video",Electronica *
+https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/ddf3d60f-c956-45e6-a5bb-fce569fe8f32/5.m3u8
+
+#extinf:-1,group-title="Music Video",Party *
+https://fc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_loop/4be1d61a-84af-4598-87ea-c2ce043f3ead/5.m3u8
+
+#extinf:-1,group-title="Music Video",Unwind *
+https://c1d8b62bac24481e82f91c4445b17092.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_loop/b59409c6-a926-4aba-9ecd-c7e26f7cfb57/5.m3u8
+
+#extinf:-1,group-title="Music Video",Synapse *
+https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/4f9e910d-ce5d-4117-bbd7-b2f369d083c9/5.m3u8
+
+#extinf:-1,group-title="Music Video",Flashback *
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/c8ccf058-94e3-4f52-8f1e-93acbbad5db7/5.m3u8
+
+#extinf:-1,group-title="Music Video",That's Hot *
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/e96c3b0b-cc35-4237-a156-25e7136b9ed0/5.m3u8
+
+#extinf:-1,group-title="Music Video",90"s *
+https://f90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_loop/16ed8668-fd4e-4e60-90e3-19855cfa5136/5.m3u8
+
+#extinf:-1,group-title="Music Video",80"s *
+https://4f5e5eb0064545fb96182a578bb2fe52.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_loop/a4ff16ca-ce9e-4fe6-9a7e-ae4743d87ea6/5.m3u8
+
+#extinf:-1,group-title="Music Video",Yacht Rock *
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/ced1157f-2c94-4d3d-b826-abcf23af0f81/5.m3u8
+
+#extinf:-1,group-title="Music Video",Far Out *
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/2784644d-ea22-408c-9b2d-8b3c79133674/5.m3u8
 
 
 
