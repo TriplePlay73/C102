@@ -144,6 +144,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1,group-title="TV", The Grid
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1070837085_b1976116.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
 
+
+#EXTINF:-1,group-title="TV", Journy
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1,group-title="TV", Law & Crime *Direct
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
 
