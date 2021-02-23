@@ -531,6 +531,9 @@ https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/
 https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/master.m3u8
 
 
+#extinf:-1,group-title="Music Video", Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
 
 
 #extinf:-1,group-title="Music Video",Kiss 
