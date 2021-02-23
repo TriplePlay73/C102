@@ -534,8 +534,6 @@ https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/
 #extinf:-1,group-title="Music Video", Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-
-
 #extinf:-1,group-title="Music Video",Kiss 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
@@ -544,8 +542,55 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 #extinf:-1,group-title="Music Video",CMC-TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 
+
+
+
+#extinf:-1,group-title="Music Video", Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", MTV Biggest POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", YO' MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=90b4d0f8-758b-11eb-b224-0242ac110002&sid=90b4d0f8-758b-11eb-b224-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO R&B
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=c95fbf06-758b-11eb-8477-0242ac110002&sid=c95fbf06-758b-11eb-8477-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO 70'S
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=4a16c1e4-758c-11eb-a635-0242ac110002&sid=4a16c1e4-758c-11eb-a635-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO 80'S
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=763fa2d0-758c-11eb-a635-0242ac110002&sid=763fa2d0-758c-11eb-a635-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO 90'S
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=b4320427-758c-11eb-a635-0242ac110002&sid=b4320427-758c-11eb-a635-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO 2K
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a41123c-758d-11eb-87ba-0242ac110002&sid=0a41123c-758d-11eb-87ba-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", CMT MUSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
+
+#extinf:-1,group-title="Music Video", VEVO COUNTRY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a92781b-758c-11eb-98f7-0242ac110002&sid=0a92781b-758c-11eb-98f7-0242ac110002&userId=
+
+
 #extinf:-1,group-title="Music Video",CMC-USA Country
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+
+
+
 
 
 
