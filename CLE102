@@ -495,7 +495,7 @@ https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/
 #extinf:-1,group-title="Music Video",Beast * Loop
 https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/master.m3u8
 
-#extinf:-1,group-title="Music Video",Electronica 
+#extinf:-1,group-title="Music Video",Electronica * Loop
 https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/master.m3u8
 
 #extinf:-1,group-title="Music Video",Party * Loop
