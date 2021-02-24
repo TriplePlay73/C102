@@ -681,7 +681,9 @@ https://live.ntdimg.com/en01live900/playlist.m3u8
 #EXTINF:-1 group-title="News",NTD News *Direct Link-2 
 https://live.ntdimg.com/en02live900/playlist.m3u8
 #EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
-https://stream.viloud.tv/VjFmKzJNc1dFRkRTWGZtMWx4aHRBaFhsVjluTHBpaGRMMkh0cFR2N0lsRlIxeUE0YTNXVEJ2dEZpMHV6cTZrSy1obHBkN3Nnb0NicjVycUE5YjBRMkZ3PT0/live.m3u8
+https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
+
+
 #EXTINF:-1 group-title="News",Sky News AU Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1  group-title="News",Americas Voice *Direct Link
