@@ -709,6 +709,12 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1  group-title="News",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
+#EXTINF:-1 group-title="News",Fox News HD 
+https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
+
+
+
 #EXTINF:-1 group-title="News",Fox News HD *Audio
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1  group-title="News",Fox News Now *Tubi
