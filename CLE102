@@ -5,6 +5,22 @@
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
+
+
+
+#EXTINF:-1,group-title="TV", HBO East
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1,group-title="TV", HBO West
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1,group-title="TV", TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,group-title="TV", The CW
+https://bozztv.com/teleyupp1/teleup-cw-whp/index.m3u8
+#EXTINF:-1,group-title="TV", Discovery 
+https://bozztv.com/teleyupp/teleup-discovery/index.m3u8
+
+
 #EXTINF:-1,group-title="TV", Laff
 https://origin1.noisypeak.com/BrhEslnH5XKV2ASr5wXP/playlist.m3u8
 #EXTINF:-1,group-title="TV", AMC Presents
@@ -19,10 +35,11 @@ https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,group-title="TV",  Paramount Network *1.27.21 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1,group-title="TV", CBS *1.21.21
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1,group-title="TV", NBC *1.27.21
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+
+
+
+
+
 #EXTINF:-1,group-title="TV", MTV *1.27.21
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,group-title="TV",Charge HD
@@ -33,6 +50,7 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 
 #EXTINF:-1,group-title="TV",Comet TV HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
 #EXTINF:-1,group-title="TV",Pop HD
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1,group-title="TV", Hallmark Movies & More
@@ -745,6 +763,12 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1  group-title="News",France 24 | English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 
+
+#EXTINF:-1  group-title="News",C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+
+
 #EXTINF:-1  group-title="News",C Span
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="News",C Span 2
@@ -786,6 +810,8 @@ https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 http://213.152.161.254:8080/upl8_2.m3u8
 #EXTINF:30,group-title="Sports", ESPN 2
 https://gma2.blab.email/espn2.m3u8
+#EXTINF:30,group-title="Sports", FS1
+https://gma2.blab.email/fs1.m3u8
 #EXTINF:30,group-title="Sports", FS2 USA
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF:30,group-title="Sports", ESPN
@@ -796,6 +822,8 @@ https://gma2.blab.email/espnu.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:30,group-title="Sports", Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:30,group-title="Sports", MLB 2
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
 
 
