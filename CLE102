@@ -677,6 +677,8 @@ https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
 https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
 #EXTINF:-1,group-title="News", WOIO News CH 19
 https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
+#EXTINF:-1  group-title="News", TV 20 - Cleveland
+https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1  group-title="News",Weather Nation | Webstream
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1  group-title="News",The Weather Channel
