@@ -8,17 +8,12 @@ https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
-#EXTINF:-1,group-title="TV", HBO East
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1,group-title="TV", HBO West
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1,group-title="TV", TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1,group-title="TV", The CW
 https://bozztv.com/teleyupp1/teleup-cw-whp/index.m3u8
-#EXTINF:-1,group-title="TV", Discovery 
-https://bozztv.com/teleyupp/teleup-discovery/index.m3u8
+
 
 
 #EXTINF:-1,group-title="TV", Laff
