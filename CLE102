@@ -675,31 +675,42 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access
 #EXTINF:-1  group-title="News", TV 20 - Cleveland
 https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
-#extinf:-1,Senate Floor *Direct
-https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
-#EXTINF:-1,group-title="News", The Pentagon
-https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
-#EXTINF:-1  group-title="News",Newsmax TV *Direct Link
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1  group-title="News",OANN
-http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
-#EXTINF:-1  group-title="News",OANN Encore *Distro
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encores/oane_nva/OAN_Encore.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=519&ads.height=292&ads.deviceId=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=6528826b-f96d-41a5-a518-57ecb15730e1&ads.contentid=22866&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Foan-encore&ads.rnd=yamx&ads.content_duration=3600&ads.episode_id=34008&ads.show_id=1095&ads.showtitle=OAN%20Encore&ads.episodetitle=OAN%20Encore&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=143b7c03-fb93-4de3-8e49-2f0a8581e220&ads.env_u=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
-
-#EXTINF:-1 group-title="News",NTD News *Direct Link-1
-https://live.ntdimg.com/en01live900/playlist.m3u8
-#EXTINF:-1 group-title="News",NTD News *Direct Link-2 
-https://live.ntdimg.com/en02live900/playlist.m3u8
-#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
-https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
-
-
-#EXTINF:-1 group-title="News",Sky News AU Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1  group-title="News",Americas Voice *Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad=avnovrm&ad._debug=avtest&ad.platform=web
 #EXTINF:-1 group-title="News", The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
+#EXTINF:-1  group-title="News",OANN
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+#EXTINF:-1  group-title="News",OANN Encore *Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encores/oane_nva/OAN_Encore.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=519&ads.height=292&ads.deviceId=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=6528826b-f96d-41a5-a518-57ecb15730e1&ads.contentid=22866&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Foan-encore&ads.rnd=yamx&ads.content_duration=3600&ads.episode_id=34008&ads.show_id=1095&ads.showtitle=OAN%20Encore&ads.episodetitle=OAN%20Encore&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=143b7c03-fb93-4de3-8e49-2f0a8581e220&ads.env_u=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
+#EXTINF:-1  group-title="News",Newsmax TV *Direct Link
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+
+#EXTINF:-1 group-title="News",NTD News *Direct Link-A
+https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
+#EXTINF:-1 group-title="News",NTD News *Direct Link-B
+https://live.ntdimg.com/en01live900/playlist.m3u8
+#EXTINF:-1 group-title="News",NTD News *Direct Link-C
+https://live.ntdimg.com/en02live900/playlist.m3u8
+#EXTINF:-1 group-title="News",Sky News AU Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="News",Fox News HD 
+https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
+
+
+#extinf:-1,Senate Floor *Direct
+https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
+#EXTINF:-1,group-title="News", The Pentagon
+https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
+
+
+#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
+https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
+
+
+
+
 #EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
 http://sots.ohio.gov/live/stream_10/index.m3u8
 #EXTINF:-1  group-title="News",Infowars 1 *Direct Link
@@ -717,8 +728,6 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1  group-title="News",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 
-#EXTINF:-1 group-title="News",Fox News HD 
-https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
 
 
 
