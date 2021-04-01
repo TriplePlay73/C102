@@ -698,21 +698,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 group-title="News",Fox News HD 
 https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
 
-
-#extinf:-1,Senate Floor *Direct
-https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
-#EXTINF:-1,group-title="News", The Pentagon
-https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
-
-
 #EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
 https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
 
-
-
-
-#EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
-http://sots.ohio.gov/live/stream_10/index.m3u8
 #EXTINF:-1  group-title="News",Infowars 1 *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1  group-title="News",Alex Jones *Direct Link
@@ -727,6 +715,21 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1  group-title="News",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
+#EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
+http://sots.ohio.gov/live/stream_10/index.m3u8
+#extinf:-1,Senate Floor *Direct
+https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
+#EXTINF:-1,group-title="News", The Pentagon
+https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
+
+
+
+
+
+
+
+
 
 
 
