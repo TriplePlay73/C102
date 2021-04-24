@@ -675,6 +675,10 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access
 #EXTINF:-1  group-title="News", TV 20 - Cleveland
 https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
+#EXTINF-1, Frank Speech
+https://frnksocial.mmdlive.lldns.net/frnksocial/0bae63f27d8944e3b4dc516a75e457f8/manifest.m3u8
+
+
 #EXTINF:-1  group-title="News",Americas Voice *Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad=avnovrm&ad._debug=avtest&ad.platform=web
 #EXTINF:-1 group-title="News", The First
