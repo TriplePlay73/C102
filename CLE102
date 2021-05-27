@@ -680,7 +680,8 @@ https://frnksocial.mmdlive.lldns.net/frnksocial/0bae63f27d8944e3b4dc516a75e457f8
 
 
 #EXTINF:-1  group-title="News",Americas Voice *Direct Link
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad=avnovrm&ad._debug=avtest&ad.platform=web
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=a1ef9044-eb1e-5a9c-83e3-3d7eb06df3d0
+
 #EXTINF:-1 group-title="News", The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
 #EXTINF:-1  group-title="News",OANN
@@ -691,14 +692,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 
-#EXTINF:-1 group-title="News",NTD News *Direct Link-A
+#EXTINF:-1 group-title="News",NTD News *Direct Link
 https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
-#EXTINF:-1 group-title="News",NTD News *Direct Link-B
-https://live.ntdimg.com/en01live900/playlist.m3u8
-#EXTINF:-1 group-title="News",NTD News *Direct Link-C
-https://live.ntdimg.com/en02live900/playlist.m3u8
-#EXTINF:-1 group-title="News",Sky News AU Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+
+
 #EXTINF:-1 group-title="News",Fox News HD 
 https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
 
