@@ -676,8 +676,7 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access
 https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
 #EXTINF-1, Frank Speech
-https://frnksocial.mmdlive.lldns.net/frnksocial/0bae63f27d8944e3b4dc516a75e457f8/manifest.m3u8
-
+https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/manifest.m3u8
 
 #EXTINF:-1  group-title="News",Americas Voice *Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=a1ef9044-eb1e-5a9c-83e3-3d7eb06df3d0
