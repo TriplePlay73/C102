@@ -872,9 +872,11 @@ https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 
 #EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
 http://sots.ohio.gov/live/stream_10/index.m3u8
-#extinf:-1,Senate Floor *Direct
+
+#EXTINF:-1  group-title="News", Senate Floor *Direct
 https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
-#EXTINF:-1,group-title="News", The Pentagon
+
+#EXTINF:-1  group-title="News", The Pentagon
 https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
 
 
