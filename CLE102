@@ -690,15 +690,15 @@ https://broadcastify.cdnstream1.com/28596
 
 
 
-
-
-
-
-#EXTINF-1  group-title=News, Updated 03.7.21
+#EXTINF-1  group-title=NEWS, Updated 03.07.21
 httpssp.rmbl.wss82zWFrzWFrb.caa.1.mp4u=3&b=1
 
 
-#EXTINF-1 group-title=News, WKYC News CH 3
+
+
+
+
+#EXTINF-1  group-title=NEWS, WKYC News CH 3
 httpslivevideo01.wkyc.comhlslive2015504newscastslive-2000.m3u8
 #EXTINF-1 group-title=News, WEWS News CH 5
 httpscontent.uplynk.comchannelbb325641f6c243fdabebf1e3ade0634c.m3u8v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
