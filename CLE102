@@ -686,135 +686,139 @@ https://broadcastify.cdnstream1.com/28615
 https://broadcastify.cdnstream1.com/28596
 
 
+#EXTINF:-1  group-title="News", Updated 03.7.21
+https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
+#EXTINF:-1,group-title="News", WKYC News CH 3
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
+#EXTINF:-1,group-title="News", WEWS News CH 5
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1,group-title="News", WOIO News CH 19
+https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
+#EXTINF:-1  group-title="News", TV 20 - Cleveland
+https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
-
-#EXTINF:-1 group-title="NEWS" ,  Updated 03.07.21
-https://sp.rmbl.wss82zWFrzWFrb.caa.1.mp4u=3&b=1
-
-
-
-
-
-
-#EXTINF:-1 group-title="NEWS" , WKYC News CH 3
-https://livevideo01.wkyc.comhlslive2015504newscastslive-2000.m3u8
-#EXTINF:-1 group-title="NEWS" , WEWS News CH 5
-https://content.uplynk.comchannelbb325641f6c243fdabebf1e3ade0634c.m3u8v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
-#EXTINF:-1 group-title="NEWS" , WOIO News CH 19
-https://dai2-playlistserver.aws.syncbak.complaylist18549125master.m3u8access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
-#EXTINF:-1 group-title="NEWS" , TV 20 - Cleveland
-https://t07360-lh.akamaihd.netit07360a_1@800131master.m3u8set-akamai-hls-revision=5&set-cc-attribute=none
 
 #EXTINF-1 group-title=News, Frank Speech
-https://frnksocial.mmdlive.lldns.netfrnksocial25726d76f12b4564a75c888191e26445manifest.m3u8
+
+
+https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/manifest.m3u8
 
 #EXTINF-1  group-title=News,Americas Voice Direct Link
-https://content.uplynk.comchannel26bd482ffe364a1282bc3df28bd3c21f.m3u8ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=a1ef9044-eb1e-5a9c-83e3-3d7eb06df3d0
-
-
-#EXTINF:-1 group-title="NEWS" , The First
-https://thefirst-oando.amagi.tvhlsamagi_hls_data_thefirstd-thefirst-oandoCDNplaylist.m3u8did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
-#EXTINF:-1 group-title="NEWS" ,OANN
-https://n1.klowdtv.netlive1oan_720pchunks.m3u8
-#EXTINF:-1 group-title="NEWS" ,OANN Encore Distro
-https://d35j504z0x2vu2.cloudfront.netv1master0bc8e8376bd8417a1b6761138aa41c26c7309312encoresoane_nvaOAN_Encore.m3u8ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=519&ads.height=292&ads.deviceId=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=6528826b-f96d-41a5-a518-57ecb15730e1&ads.contentid=22866&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Foan-encore&ads.rnd=yamx&ads.content_duration=3600&ads.episode_id=34008&ads.show_id=1095&ads.showtitle=OAN%20Encore&ads.episodetitle=OAN%20Encore&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=143b7c03-fb93-4de3-8e49-2f0a8581e220&ads.env_u=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
-#EXTINF:-1 group-title="NEWS" ,Newsmax TV Direct Link
-httpsnmxlive.akamaized.nethlslive529965Live_1index_1080.m3u8
-
-
-#EXTINF:-1 group-title="NEWS" ,NTD News Direct Link
-https1117825885.rsc.cdn77.org1117825885index.m3u8
-
-
-
-#EXTINF:-1 group-title="NEWS" ,Fox News HD 
-https://bozztv.comteleyuppAsEAeOtIxzindex.m3u8
-
-#EXTINF:-1 group-title="NEWS" ,Pete Santilli @ 9am & 6pm Daily Sunday 6pm
-https://live.prd.dlive.tvhlslivedlive-52122962.m3u8
-
-#EXTINF:-1 group-title="NEWS" ,Infowars 1 Direct Link
-https://freespeech.akamaized.nethlslive2016712live1playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,Alex Jones Direct Link
-https://freespeech.akamaized.nethlslive2016712live2playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,American Journal Direct Link
-https://freespeech.akamaized.nethlslive2016873live3playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,Owen Shroyer Direct Link
-https://freespeech.akamaized.nethlslive2016873live4playlist.m3u8
-#EXTINF:-1 group-title="NEWS" ,Russia Today Live
-https://rt-news-gd.secure2.footprint.net1103_2500Kb.m3u8
-#EXTINF:-1 group-title="NEWS" ,RT America  HD
-https://rt-usa-gd.secure2.footprint.net1105_2500Kb.m3u8
-#EXTINF:-1 group-title="NEWS" ,Russia Today UK
-https://rt-uk-gd.secure2.footprint.net1106_2500Kb.m3u8
-
-#EXTINF:-1 group-title="NEWS" ,Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
-https://ots.ohio.govlivestream_10index.m3u8
-#EXTINF:-1 group-title="NEWS" ,Senate Floor Direct
-https://granicusliveus1-a.akamaihd.netsenateG0988_006chunklist.m3u8
-#EXTINF:-1 group-title="NEWS" , The Pentagon
-https://live-cdn.dvidshub.netwebcast25563master.m3u8
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=a1ef9044-eb1e-5a9c-83e3-3d7eb06df3d0
 
 
 
 
 
 
+#EXTINF:-1 group-title="News", The First
+https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
+#EXTINF:-1  group-title="News",OANN
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+#EXTINF:-1  group-title="News",OANN Encore *Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encores/oane_nva/OAN_Encore.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=519&ads.height=292&ads.deviceId=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=6528826b-f96d-41a5-a518-57ecb15730e1&ads.contentid=22866&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Foan-encore&ads.rnd=yamx&ads.content_duration=3600&ads.episode_id=34008&ads.show_id=1095&ads.showtitle=OAN%20Encore&ads.episodetitle=OAN%20Encore&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=143b7c03-fb93-4de3-8e49-2f0a8581e220&ads.env_u=6528826b-f96d-41a5-a518-57ecb15730e1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
+#EXTINF:-1  group-title="News",Newsmax TV *Direct Link
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+
+#EXTINF:-1 group-title="News",NTD News *Direct Link-A
+https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
+#EXTINF:-1 group-title="News",NTD News *Direct Link-B
+https://live.ntdimg.com/en01live900/playlist.m3u8
+#EXTINF:-1 group-title="News",NTD News *Direct Link-C
+https://live.ntdimg.com/en02live900/playlist.m3u8
+#EXTINF:-1 group-title="News",Sky News AU Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="News",Fox News HD 
+https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
+
+#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
+https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
+
+#EXTINF:-1  group-title="News",Infowars 1 *Direct Link
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1  group-title="News",Alex Jones *Direct Link
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1  group-title="News",American Journal *Direct Link
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1  group-title="News",Owen Shroyer *Direct Link
+https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
+#EXTINF:-1  group-title="News",Russia Today Live
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1  group-title="News",RT America | HD
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1  group-title="News",Russia Today UK
+https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
+#EXTINF:-1  group-title="News",Ohio Channel Broadcast (LIVE COVID-19 UPDATES Every Day At 2 PM.)
+http://sots.ohio.gov/live/stream_10/index.m3u8
+#extinf:-1,Senate Floor *Direct
+https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
+#EXTINF:-1,group-title="News", The Pentagon
+https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
 
 
 
 
 
 
-#EXTINF:-1 group-title="NEWS" ,Fox News HD Audio
-https://fnurtmp-f.akamaihd.netiFNRADIO_1@92141master.m3u8
-#EXTINF:-1 group-title="NEWS" ,Fox News Now Tubi
-https://lnc-fox-news-now.tubi.videoindex.m3u8
-#EXTINF:-1 group-title="NEWS" ,ABC NEWS LIVE Direct
-https://abcnewslive-i.akamaihd.nethlslive724634-bABCNLive1master.m3u8
-#EXTINF:-1 group-title="NEWS" ,NBC NEWS NOW LIVE Direct
-https://nbcnewshls-i.akamaihd.nethlslive1005206-bnnn_live2master.m3u8
-#EXTINF:-1 group-title="NEWS" ,Cheddar 
-https://livestream.chdrstatic.comb93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657dcheddar-42620cheddarweblivecheddarindex.m3u8
-#EXTINF:-1 group-title="NEWS" ,BNC
-https://blacknewschannel-xumo-us.amagi.tvhlsamagi_hls_data_blacknews-blacknewschannel-xumoCDN720x404_1425600chunklist.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN HD Direct
-https://turnerlive.warnermediacdn.comhlslive586495cnngocnn_slateVIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="NEWS" ,CNN SD
-http://1111296894.rsc.cdn77.orgls-54548-1tracks-v1a1mono.m3u8
-#EXTINF:-1 group-title="NEWS" ,CBSN Direct
-https://cbsn-us-cedexis.cbsnstream.cbsnews.comoutv155a8648e8f134e82a470f83d562deecamaster_7.m3u8
-#EXTINF:-1 group-title="NEWS" ,TYT 
-https://tyt-xumo-us.amagi.tvhlsamagi_hls_data_tytnetwor-tyt-xumoCDN1920x1080_5605600chunklist.m3u8
-#EXTINF:-1 group-title="NEWS" ,ET Live Showbiz News
-https://etlive-mediapackage-fastly.cbsaavideo.comdvrmanifest.m3u8iu=8264vaw-candesktopcbslocal
-#EXTINF:-1 group-title="NEWS" ,News Net  HD
-https://nrpus.bozztv.com36bay2gusa-newsnetindex.m3u8
-#EXTINF:-1 group-title="NEWS" ,Newsy  Webstream
-https://content.uplynk.comchannel4bb4901b934c4e029fd4c1abfc766c37.m3u8ad=newsyweb
-#EXTINF:-1 group-title="NEWS" ,Global News Canada
-https://live.corusdigitaldev.comgroupdlive49a91e7f-1023-430f-8d66-561055f3d0f7live.isml.m3u8
-#EXTINF:-1 group-title="NEWS" ,Euronews  HD
-https://d1mpprlbe8tn2j.cloudfront.netv1master7b67fbda7ab859400a821e9aa0deda20ab7ca3d2euronewsLive87O7AhxRUdeeIVqfewnsabren_eng.m3u8
-#EXTINF:-1 group-title="NEWS" ,Sky News  HD
-https://skynews2-plutolive-vo.akamaized.netcdhlsskynewsamericas1013latest.m3u8serverSideAds=true
-#EXTINF:-1 group-title="NEWS" ,France 24  English
-http://f24hls-i.akamaihd.nethlslive221147F24_EN_HI_HLSmaster_2000.m3u8
-
-
-#EXTINF:-1 group-title="NEWS" ,C Span
-https://skystreams-lh.akamaihd.netiSkyC1_1@500806master.m3u8
 
 
 
-#EXTINF:-1 group-title="NEWS" ,C Span
-https://skystreams-lh.akamaihd.netiSkyC1_1@500806index_50_av-p.m3u8sd=10&rebase=on
-#EXTINF:-1 group-title="NEWS" ,C Span 2
-https://skystreams-lh.akamaihd.netiSkyC2_1@500807index_50_av-p.m3u8sd=10&rebase=on
-#EXTINF:-1 group-title="NEWS" ,C Span 3
-https://skystreams-lh.akamaihd.netiSkyC3_1@500808index_50_av-p.m3u8sd=10&rebase=on
+
+
+
+#EXTINF:-1 group-title="News",Fox News HD *Audio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1  group-title="News",Fox News Now *Tubi
+https://lnc-fox-news-now.tubi.video/index.m3u8
+#EXTINF:-1  group-title="News",ABC NEWS LIVE *Direct
+https://abcnewslive-i.akamaihd.net/hls/live/724634-b/ABCNLive1/master.m3u8
+#EXTINF:-1  group-title="News",NBC NEWS NOW LIVE *Direct
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1  group-title="News",Cheddar 
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+#EXTINF:-1  group-title="News",BNC
+https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/720x404_1425600/chunklist.m3u8
+#EXTINF:-1  group-title="News",CNN HD *Direct
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1  group-title="News",CNN SD
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="News",CBSN *Direct
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1  group-title="News",TYT 
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/1920x1080_5605600/chunklist.m3u8
+#EXTINF:-1  group-title="News",ET Live Showbiz News
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1  group-title="News",News Net | HD
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/index.m3u8
+#EXTINF:-1  group-title="News",Newsy | Webstream
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1  group-title="News",Global News Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1  group-title="News",Euronews | HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1  group-title="News",Sky News | HD
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1  group-title="News",France 24 | English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+
+#EXTINF:-1  group-title="News",C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+
+
+#EXTINF:-1  group-title="News",C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="News",C Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="News",C Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/index_50_av-p.m3u8?sd=10&rebase=on
+
+
 
 
 
