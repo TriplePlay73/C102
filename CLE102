@@ -1075,12 +1075,15 @@ https://woubdt.lls.cdn.pbs.org/woubdt/4dc91f2b-0076-46d9-ba82-0c9130cde12c/prima
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
-#EXTINF:-1 group-title="Sports",   ESPN
-http://213.152.161.254:8080/upl8_2.m3u8
+#EXTINF:-1 group-title="Sports",  ESPN
+https://gma2.blab.email/fs2.m3u8 
 
 
 #EXTINF:-1 group-title="Sports",  ESPN 2
 https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 group-title="Sports",  ESPN U
+https://gma2.blab.email/espnu.m3u8
 
 
 #EXTINF:-1 group-title="Sports",   FS1
@@ -1089,14 +1092,6 @@ https://gma2.blab.email/fs1.m3u8
 
 #EXTINF:-1 group-title="Sports",   FS2 USA
 http://4.26.188.2:8081/udp/239.193.10.102:23902
-
-#EXTINF:-1 group-title="Sports",  ESPN
-https://gma2.blab.email/fs2.m3u8 
-
-
-#EXTINF:-1 group-title="Sports",  ESPN U
-https://gma2.blab.email/espnu.m3u8
-
 
 #EXTINF:-1 group-title="Sports",  Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
