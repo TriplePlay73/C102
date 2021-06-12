@@ -470,13 +470,14 @@ https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=nu
 
 
 
-#extinf-1 group-title=Music Video, Updated 2.22.21
+#EXTINF-1  group-title=Music Video, Updated 2.22.21
 httpssp.rmbl.wss82zWFrzWFrb.caa.1.mp4u=3&b=1
 
 
 
 
-#extinf-1 group-title=Music Video, Hottest  Loop
+
+#EXTINF-1  group-title=Music Video, Hottest  Loop
 httpse896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474hottest_of_the_hot_loopmaster.m3u8
 
 
