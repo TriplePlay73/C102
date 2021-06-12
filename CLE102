@@ -403,146 +403,271 @@ https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 
 
 
-#extinf:-1,group-title="Music", Updated 1.30.21
+#EXTINF:-1 group-title="Music",  Updated 1.30.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
 
 
-
-#extinf:-1,group-title="Music",Gran Torino
+#EXTINF:-1 group-title="Music", Gran Torino
 http://stream.revma.ihrhls.com/zc6803/hls.m3u8
-#extinf:-1,group-title="Music",Gen X Radio
+
+
+#EXTINF:-1 group-title="Music", Gen X Radio
 http://stream.revma.ihrhls.com/zc5322/hls.m3u8
-#extinf:-1,group-title="Music",Hit Nation Junior
+
+
+#EXTINF:-1 group-title="Music", Hit Nation Junior
 https://stream.revma.ihrhls.com/zc6395/hls.m3u8
-#extinf:-1,group-title="Music",Hit Nation
+
+
+#EXTINF:-1 group-title="Music", Hit Nation
 http://stream.revma.ihrhls.com/zc4422/hls.m3u8
-#extinf:-1,group-title="Music",Hit Nation Top 20
+
+
+#EXTINF:-1 group-title="Music", Hit Nation Top 20
 http://stream.revma.ihrhls.com/zc4878/hls.m3u8
-#extinf:-1,group-title="Music",Family Top 40 Countdown
+
+
+#EXTINF:-1 group-title="Music", Family Top 40 Countdown
 https://stream.revma.ihrhls.com/zc7013/hls.m3u8
-#extinf:-1,group-title="Music", Kids Hits
+
+
+#EXTINF:-1 group-title="Music", Kids Hits
 https://stream.revma.ihrhls.com/zc7223/hls.m3u8
-#extinf:-1,group-title="Music",Kids Club Radio
+
+
+#EXTINF:-1 group-title="Music", Kids Club Radio
 https://stream.revma.ihrhls.com/zc6551/hls.m3u8
-#extinf:-1,group-title="Music",iMaginate Radio
+
+
+#EXTINF:-1 group-title="Music", iMaginate Radio
 https://stream.revma.ihrhls.com/zc8523/hls.m3u8
-#extinf:-1,group-title="Music",Kiss Radio
+
+
+#EXTINF:-1 group-title="Music", Kiss Radio
 http://stream.revma.ihrhls.com/zc7362/hls.m3u8
-#extinf:-1,group-title="Music",Lite Rock
+
+
+#EXTINF:-1 group-title="Music", Lite Rock
 http://stream.revma.ihrhls.com/zc6830/hls.m3u8
-#extinf:-1,group-title="Music",Popcorn Radio
+
+
+#EXTINF:-1 group-title="Music", Popcorn Radio
 http://stream.revma.ihrhls.com/zc7445/hls.m3u8
-#extinf:-1,group-title="Music",Real Fun Beach
+
+
+#EXTINF:-1 group-title="Music", Real Fun Beach
 http://stream.revma.ihrhls.com/zc6221/hls.m3u8
-#extinf:-1,group-title="Music",Rock Workout
+
+
+#EXTINF:-1 group-title="Music", Rock Workout
 http://stream.revma.ihrhls.com/zc7800/hls.m3u8
-#extinf:-1,group-title="Music",Slippery When Wet
+
+
+#EXTINF:-1 group-title="Music", Slippery When Wet
 http://stream.revma.ihrhls.com/zc4858/hls.m3u8
-#extinf:-1,group-title="Music",The Countdown
+
+
+#EXTINF:-1 group-title="Music", The Countdown
 http://stream.revma.ihrhls.com/zc6455/hls.m3u8
-#extinf:-1,group-title="Music",The Classic Rock Channel
+
+
+#EXTINF:-1 group-title="Music", The Classic Rock Channel
 http://stream.revma.ihrhls.com/zc4426/hls.m3u8
-#extinf:-1,group-title="Music",Non Stop Rock
+
+
+#EXTINF:-1 group-title="Music", Non Stop Rock
 http://stream.revma.ihrhls.com/zc4443/hls.m3u8
-#extinf:-1,group-title="Music",Rock Nation's Top 20
+
+
+#EXTINF:-1 group-title="Music", Rock Nation's Top 20
 http://stream.revma.ihrhls.com/zc4932/hls.m3u8
-#extinf:-1,group-title="Music",One Hit Wonder Radio
+
+
+#EXTINF:-1 group-title="Music", One Hit Wonder Radio
 http://stream.revma.ihrhls.com/zc6669/hls.m3u8
-#extinf:-1,group-title="Music",2010s Radio
+
+
+#EXTINF:-1 group-title="Music", 2010s Radio
 http://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#extinf:-1,group-title="Music",2000s Radio
+
+
+#EXTINF:-1 group-title="Music", 2000s Radio
 http://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#extinf:-1,group-title="Music",90s Radio
+
+
+#EXTINF:-1 group-title="Music", 90s Radio
 http://stream.revma.ihrhls.com/zc6834/hls.m3u8
-#extinf:-1,group-title="Music",80s Radio
+
+
+#EXTINF:-1 group-title="Music", 80s Radio
 http://stream.revma.ihrhls.com/zc5060/hls.m3u8
-#extinf:-1,group-title="Music",70s Radio
+
+
+#EXTINF:-1 group-title="Music", 70s Radio
 http://stream.revma.ihrhls.com/zc6843/hls.m3u8
-#extinf:-1,group-title="Music",60s Radio
+
+
+#EXTINF:-1 group-title="Music", 60s Radio
 http://stream.revma.ihrhls.com/zc6873/hls.m3u8
-#extinf:-1,group-title="Music",50s Radio
+
+
+#EXTINF:-1 group-title="Music", 50s Radio
 http://stream.revma.ihrhls.com/zc6882/hls.m3u8
-#extinf:-1,group-title="Music",Real Oldies 60s & 70s Hits
+
+
+#EXTINF:-1 group-title="Music", Real Oldies 60s & 70s Hits
 http://stream.revma.ihrhls.com/zc4717/hls.m3u8
-#extinf:-1,group-title="Music",Big Classic Hits 70s-90s
+
+
+#EXTINF:-1 group-title="Music", Big Classic Hits 70s-90s
 http://stream.revma.ihrhls.com/zc4455/hls.m3u8
-#extinf:-1,group-title="Music",Lost 80's Hits
+
+
+#EXTINF:-1 group-title="Music", Lost 80's Hits
 http://stream.revma.ihrhls.com/zc7934/hls.m3u8
-#extinf:-1,group-title="Music",Classic Hits
+
+
+#EXTINF:-1 group-title="Music", Classic Hits
 http://rfcmedia.streamguys1.com/classichits.mp3
-#extinf:-1,group-title="Music",Country Family
+
+
+#EXTINF:-1 group-title="Music", Country Family
 https://stream.revma.ihrhls.com/zc7014/hls.m3u8
-#extinf:-1,group-title="Music",Disney Country 
+
+
+#EXTINF:-1 group-title="Music", Disney Country 
 https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64.m3u8
-#extinf:-1,group-title="Music",MeTV FM WXZO
+
+
+#EXTINF:-1 group-title="Music", MeTV FM WXZO
 http://crystalout.surfernetwork.com:8001/WXZO_MP3
-#extinf:-1,group-title="Music",Classical Highlights
+
+
+#EXTINF:-1 group-title="Music", Classical Highlights
 http://stream.revma.ihrhls.com/zc6377/hls.m3u8
-#extinf:-1,group-title="Music",Smooth Jazz
+
+
+
+#EXTINF:-1 group-title="Music", Smooth Jazz
 http://stream.revma.ihrhls.com/zc4242/hls.m3u8
-#extinf:-1,group-title="Music",Vinyl Jazz
+
+
+#EXTINF:-1 group-title="Music", Vinyl Jazz
 http://stream.revma.ihrhls.com/zc7079/hls.m3u8
-#extinf:-1,group-title="Music",The Standard Radio
+
+
+#EXTINF:-1 group-title="Music", The Standard Radio
 http://stream.revma.ihrhls.com/zc6784/hls.m3u8
-#extinf:-1,group-title="Music",Stingray Greatest Hits
+
+
+#EXTINF:-1 group-title="Music", Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#extinf:-1,group-title="Music",tingray Hit List
+
+
+#EXTINF:-1 group-title="Music", Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#extinf:-1,group-title="Music",Stingray Classic Rock
+
+
+#EXTINF:-1 group-title="Music",  Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#extinf:-1,group-title="Music",Stingray Rock Alternative
+
+
+#EXTINF:-1 group-title="Music",  Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#extinf:-1,group-title="Music",Stingray Pop Adult
+
+
+#EXTINF:-1 group-title="Music",  Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#extinf:-1,group-title="Music",Stingray Urban Beat
+
+
+#EXTINF:-1 group-title="Music",  Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#extinf:-1,group-title="Music",Stingray Hot Country
+
+
+#EXTINF:-1 group-title="Music",  Stingray Hot Country
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#extinf:-1,group-title="Music",Stingray Flashback 70s
+
+
+#EXTINF:-1 group-title="Music",  Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#extinf:-1,group-title="Music",Stingray Everything 80s
+
+
+#EXTINF:-1 group-title="Music",  Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#extinf:-1,group-title="Music",Stingray Today's Latin Pop
+
+
+#EXTINF:-1 group-title="Music",  Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#extinf:-1,group-title="Music",Stingray Soul Storm
+
+
+#EXTINF:-1 group-title="Music",  Stingray Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
-#extinf:-1,group-title="Music",Stingray Qello Concerts
+
+
+#EXTINF:-1 group-title="Music",  Stingray Qello Concerts
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
-#extinf:-1,group-title="Music",Stingray Karaoke
+
+#EXTINF:-1 group-title="Music",  Stingray Karaoke
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#extinf:-1,group-title="Music",Stingray Naturescape
+
+#EXTINF:-1 group-title="Music",  Stingray Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-#extinf:-1,group-title="Music",CMC | CMC Radio
+
+
+#EXTINF:-1 group-title="Music",  CMC | CMC Radio
 https://streamingv2.shoutcast.com/CMC
 
-#extinf:-1,group-title="Music",Radio Disney
+
+
+#EXTINF:-1 group-title="Music",  Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
-#extinf:-1,group-title="Music",Build-A-Bear Radio
+
+
+#EXTINF:-1 group-title="Music",  Build-A-Bear Radio
 https://stream.revma.ihrhls.com/zc8430/hls.m3u8
-#extinf:-1,group-title="Music",Lullabies Radio
+
+
+#EXTINF:-1 group-title="Music",  Lullabies Radio
 https://stream.revma.ihrhls.com/zc7249/hls.m3u8
-#extinf:-1,group-title="Music",iRead2Know Radio
+
+
+#EXTINF:-1 group-title="Music",  iRead2Know Radio
 https://stream.revma.ihrhls.com/zc7101/hls.m3u8
 
-#extinf:-1,group-title="Music",WPSU Radio 2 Public Radio Mix 
+
+
+#EXTINF:-1 group-title="Music",  WPSU Radio 2 Public Radio Mix 
 https://wpsu-ice.streamguys1.com/wpsu2
-#extinf:-1,group-title="Music",WPSU Radio 3 Jazzworks 
+
+
+#EXTINF:-1 group-title="Music",  WPSU Radio 3 Jazzworks 
 https://wpsu-ice.streamguys1.com/wpsu3
-#extinf:-1,group-title="Music",WPSU FM 91.5 News & Classical 
+
+
+#EXTINF:-1 group-title="Music",  WPSU FM 91.5 News & Classical 
 https://wpsu-ice.streamguys1.com/wpsu1
 
-#extinf:-1,group-title="Music",Hot Country
+
+#EXTINF:-1 group-title="Music",  Hot Country
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Greatest Hits
+
+
+#EXTINF:-1 group-title="Music",  Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Classic Rock
+
+
+#EXTINF:-1 group-title="Music",  Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music", Hit List
+
+
+#EXTINF:-1 group-title="Music",  Hit List
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#extinf:-1,group-title="Music",Soul Storm
+
+
+#EXTINF:-1 group-title="Music",  Soul Storm
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
 
 
