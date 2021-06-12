@@ -724,159 +724,135 @@ httpssp.rmbl.wss82zWFrzWFrb.caa.1.mp4u=3&b=1
 
 
 
-#EXTINF:-1 group-title="Music Video",  Hottest  Loop
-httpse896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474hottest_of_the_hot_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Trending  Loop
-https9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474trending_loopmaster.m3u8
 
 
 
-#EXTINF:-1 group-title="Music Video",  Hip Hop  Loop
-https43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474hip_hop_bangers_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",   Hottest * Loop
+https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/master.m3u8
 
 
-#EXTINF:-1 group-title="Music Video",  TGIF  Loop
-https6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474friday_feels_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  Trending * Loop
+https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/master.m3u8
 
 
-#EXTINF:-1 group-title="Music Video",  ALT+  Loop
-httpsbf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474alt_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",   Hip Hop * Loop
+https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  TGIF * Loop
+https://6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  ALT+ * Loop
+https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  R&B * Loop
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Bedroom * Loop
+https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Texas Tunes * Loop
+https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/master.m3u8
 
 
-#EXTINF:-1 group-title="Music Video",  R&B  Loop
-https42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474hot_rnb_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  Beast * Loop
+https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/master.m3u8
 
+#EXTINF:-1 group-title="Music Video",  Electronica * Loop
+https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/master.m3u8
 
-#EXTINF:-1 group-title="Music Video",  Bedroom  Loop
-https0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474bedroom_beats_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  Party * Loop
+https://fc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_loop/master.m3u8
 
+#EXTINF:-1 group-title="Music Video",  Unwind * Loop
+https://c1d8b62bac24481e82f91c4445b17092.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_loop/master.m3u8
 
-#EXTINF:-1 group-title="Music Video",  Texas Tunes  Loop
-https931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474texas_sized_hits_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  Synapse * Loop
+https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/master.m3u8
 
+#EXTINF:-1 group-title="Music Video",  Flashback * Loop
+https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/master.m3u8
 
-
-#EXTINF:-1 group-title="Music Video",  Beast  Loop
-https4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474beast_mode_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Electronica  Loop
-https1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474electro_anthems_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Party  Loop
-httpsfc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474party_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Unwind  Loop
-httpsc1d8b62bac24481e82f91c4445b17092.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474unwind_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Synapse  Loop
-httpsd6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474neural_focused_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Flashback  Loop
-https80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474like_yesterday_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  That's Hot  Loop
-https0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474thats_hot_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  That's Hot * Loop
+https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/master.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Music Video",  90s Loop
-httpsf90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c547490s_kids_loopmaster.m3u8
-
+#EXTINF:-1 group-title="Music Video",  90"s *Loop
+https://f90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_loop/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Music Video",  80s  Loop
-https4f5e5eb0064545fb96182a578bb2fe52.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c547480s_party_loopmaster.m3u8
+#EXTINF:-1 group-title="Music Video",  80"s * Loop
+https://4f5e5eb0064545fb96182a578bb2fe52.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_loop/master.m3u8
+
+
+#EXTINF:-1 group-title="Music Video",  Yacht Rock * Loop
+https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Far Out * Loop
+https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/master.m3u8
+
+
+#EXTINF:-1 group-title="Music Video",  tingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Kiss 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
 
 
-#EXTINF:-1 group-title="Music Video",  Yacht Rock  Loop
-httpse9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474yacht_rock_loopmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",   Far Out  Loop
-httpse59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.comv1master6b8beeb9ed833d048c8c8155a25a28fe617c5474that_70s_channel_loopmaster.m3u8
-
-
-
-#EXTINF:-1 group-title="Music Video",  Stingray Karaoke
-httpsdai.google.comlinearhlsevent5bqbG8j7T_6_qMONC1SDsgmaster.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",   Kiss 
-httpcsm-e.tm.yospace.comcsmextliveboxplus01,kiss-inapp.m3u8yo.up=http%3aboxtv-origin-elb.cds1.yospace.comuploadskiss
-
-
-
-
-#EXTINF:-1 group-title="Music Video",   CMC-TV
-httpscmctv.ios.internapcdn.netcmctv_vitalstream_comlive_1CMC-TVplaylist.m3u8
-
+#EXTINF:-1 group-title="Music Video",  CMC-TV
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Music Video",  Live Music Replay
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5873fc21cad696fb37aa9054master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
 
+#EXTINF:-1 group-title="Music Video",  MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Music Video",   MTV Block Party
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5d3609cd6a6c78d7672f2a81master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
+#EXTINF:-1 group-title="Music Video",  MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
 
+#EXTINF:-1 group-title="Music Video",   MTV Biggest POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Music Video",   MTV Spankin New
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5d14fdb8ca91eedee1633117master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
+#EXTINF:-1 group-title="Music Video",  YO' MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
 
+#EXTINF:-1 group-title="Music Video",  VEVO POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=90b4d0f8-758b-11eb-b224-0242ac110002&sid=90b4d0f8-758b-11eb-b224-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Music Video",  MTV Biggest POP
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5d14fd1a252d35decbc4080cmaster.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
-
-
-#EXTINF:-1 group-title="Music Video",   YO' MTV
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5d14fc31252d35decbc4080bmaster.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
-
-
-#EXTINF:-1 group-title="Music Video",   VEVO POP
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5d93b635b43dd1a399b39eeemaster.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=90b4d0f8-758b-11eb-b224-0242ac110002&sid=90b4d0f8-758b-11eb-b224-0242ac110002&userId=
-
-
-#EXTINF:-1 group-title="Music Video",  VEVO R&B
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5da0d83f66c9700009b96d0emaster.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=c95fbf06-758b-11eb-8477-0242ac110002&sid=c95fbf06-758b-11eb-8477-0242ac110002&userId=
-
+#EXTINF:-1 group-title="Music Video",   VEVO R&B
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=c95fbf06-758b-11eb-8477-0242ac110002&sid=c95fbf06-758b-11eb-8477-0242ac110002&userId=
 
 #EXTINF:-1 group-title="Music Video",   VEVO 70'S
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5f32f26bcd8aea00071240e5master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=4a16c1e4-758c-11eb-a635-0242ac110002&sid=4a16c1e4-758c-11eb-a635-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=4a16c1e4-758c-11eb-a635-0242ac110002&sid=4a16c1e4-758c-11eb-a635-0242ac110002&userId=
 
+#EXTINF:-1 group-title="Music Video",  VEVO 80'S
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=763fa2d0-758c-11eb-a635-0242ac110002&sid=763fa2d0-758c-11eb-a635-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Music Video",   VEVO 80'S
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5fd7b8bf927e090007685853master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=763fa2d0-758c-11eb-a635-0242ac110002&sid=763fa2d0-758c-11eb-a635-0242ac110002&userId=
-
-
-#EXTINF:-1 group-title="Music Video",  VEVO 90'S
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5fd7bb1f86d94a000796e2c2master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=b4320427-758c-11eb-a635-0242ac110002&sid=b4320427-758c-11eb-a635-0242ac110002&userId=
-
+#EXTINF:-1 group-title="Music Video",  , VEVO 90'S
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=b4320427-758c-11eb-a635-0242ac110002&sid=b4320427-758c-11eb-a635-0242ac110002&userId=
 
 #EXTINF:-1 group-title="Music Video",   VEVO 2K
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5fd7bca3e0a4ee0007a38e8cmaster.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a41123c-758d-11eb-87ba-0242ac110002&sid=0a41123c-758d-11eb-87ba-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a41123c-758d-11eb-87ba-0242ac110002&sid=0a41123c-758d-11eb-87ba-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Music Video",  CMT MUSIC
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5f68f53eb1e5800007390bf8master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
+#EXTINF:-1 group-title="Music Video",   CMT MUSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
 
 #EXTINF:-1 group-title="Music Video",   VEVO COUNTRY
-httpsservice-stitcher.clusters.pluto.tvstitchhlschannel5da0d75e84830900098a1ea0master.m3u8advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a92781b-758c-11eb-98f7-0242ac110002&sid=0a92781b-758c-11eb-98f7-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=0a92781b-758c-11eb-98f7-0242ac110002&sid=0a92781b-758c-11eb-98f7-0242ac110002&userId=
 
 
 #EXTINF:-1 group-title="Music Video",  CMC-USA Country
-httpscmctv.ios.internapcdn.netcmctv_vitalstream_comlive_1CMCU-92playlist.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+
+
+
 
 
 
