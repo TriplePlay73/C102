@@ -950,13 +950,21 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="News",NTD News *Direct
 https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="News",Sky News AU Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="News",Fox News HD 
 https://bozztv.com/teleyupp/AsEAeOtIxz/index.m3u8
+
+
+#EXTINF:-1 group-title="News", Sky News Extra -AU
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?__nn__=5663227763001&hdnea=st=1623531600~exp=1623535200~acl=/hls/live/2002689/*~hmac=a028e43ee4683c901502dd24d7d6993b636c7dbda5cc3b4b8670af2428c9b1a8
+#EXTINF:-1 group-title="News", Sky News Extra 2 -AU
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?__nn__=5663227763001&hdnea=st=1623533400~exp=1623537000~acl=/hls/live/2002690/*~hmac=8ba10a9a3825dc05d64844304077ba2e5535f4a7a7598358b2cc7880a6c49c5c
+#EXTINF:-1 group-title="News", Sky News Extra 3 -AU
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 group-title="News", Sky News Radio -AU
+https://ais-arn.streamguys1.com/au_033/playlist.m3u8?streamid=8319&zip=44144&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&listenerId=6d9e22455c83ad9253c133fd8e580a22&modTime=1623533734085&pname=OrganicWeb&profileid=1551770094&territory=US&uid=d174b15b-46d3-4ac6-a679-f9d33f94b2b2&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1623533734&terminalid=159&companionAds=true&playedFrom=60&us_privacy=1-N-&callLetters=KDNT-FL&devicename=web-mobile&stationid=8319&dist=iheart&aw_0_1st.ccaud=
+
+
 
 #EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
 https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
