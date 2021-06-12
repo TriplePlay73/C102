@@ -1,170 +1,292 @@
 #EXTM3U
 
 
-#EXTINF:-1,  group-title="TV", Updated 03.09.21
+#EXTINF:-1 group-title="TV",  Updated 03.09.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
 
 
-
-#EXTINF:-1,group-title="TV", TNT
+#EXTINF:-1 group-title="TV", TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1,group-title="TV", The CW
+
+#EXTINF:-1 group-title="TV", The CW
 https://bozztv.com/teleyupp1/teleup-cw-whp/index.m3u8
 
 
 
-#EXTINF:-1,group-title="TV", Laff
+#EXTINF:-1 group-title="TV", Laff
 https://origin1.noisypeak.com/BrhEslnH5XKV2ASr5wXP/playlist.m3u8
-#EXTINF:-1,group-title="TV", AMC Presents
+
+
+#EXTINF:-1 group-title="TV", AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Rush by AMC
+
+#EXTINF:-1 group-title="TV", Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", IFC Film Picks
+
+#EXTINF:-1 group-title="TV", IFC Film Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Slightly Off by IFC
+
+#EXTINF:-1 group-title="TV", Slightly Off by IFC
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Absolute Reality by We TV
+
+#EXTINF:-1 group-title="TV", Absolute Reality by We TV
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV",  Paramount Network *1.27.21 
+
+#EXTINF:-1 group-title="TV",  Paramount Network *1.27.21 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1,group-title="TV", MTV *1.27.21
+#EXTINF:-1 group-title="TV", MTV *1.27.21
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1,group-title="TV",Charge HD
+
+
+#EXTINF:-1 group-title="TV", Charge HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1,group-title="TV", Electric Now HD
+
+#EXTINF:-1 group-title="TV", Electric Now HD
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 
 
-#EXTINF:-1,group-title="TV",Comet TV HD
+
+#EXTINF:-1 group-title="TV", Comet TV HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-#EXTINF:-1,group-title="TV",Pop HD
+
+#EXTINF:-1 group-title="TV", Pop HD
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1,group-title="TV", Hallmark Movies & More
+
+
+#EXTINF:-1 group-title="TV", Hallmark Movies & More
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
-#EXTINF:-1,group-title="TV",ION Plus HD
+
+
+#EXTINF:-1 group-title="TV", ION Plus HD
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1,group-title="TV",  &Flix *Movies
+
+
+#EXTINF:-1 group-title="TV",  &Flix *Movies
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1,group-title="TV",  Sony Movies Action *Movies
+
+
+#EXTINF:-1 group-title="TV",  Sony Movies Action *Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1,group-title="TV",Dust HD
+
+
+#EXTINF:-1 group-title="TV", Dust HD
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1,group-title="TV",The Asylum Movies HD
+
+
+#EXTINF:-1 group-title="TV", The Asylum Movies HD
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,group-title="TV",Cozi TV  *Dead Link
+
+
+#EXTINF:-1 group-title="TV",Cozi TV  *Dead Link
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
-#EXTINF:-1,group-title="TV",Circle HD 
+
+
+#EXTINF:-1 group-title="TV", Circle HD 
 https://circle-roku.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,group-title="TV",Victor Valley TV HD
+
+
+#EXTINF:-1 group-title="TV", Victor Valley TV HD
 https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/chunklist_b2000000.m3u8
-#EXTINF:-1,group-title="TV",Victor Valley TV-3 | Movies HD 
+
+#EXTINF:-1 group-title="TV", Victor Valley TV-3 | Movies HD 
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
-#EXTINF:-1,group-title="TV",AMG-TV 
+
+
+#EXTINF:-1 group-title="TV", AMG-TV 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1,group-title="TV",ABC Australia
+
+
+#EXTINF:-1 group-title="TV", ABC Australia
 https://c.mjh.nz/101002510251/
-#EXTINF:-1,group-title="TV",Australia Channel
+
+
+#EXTINF:-1 group-title="TV", Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1,group-title="TV",Court TV HD
+
+
+#EXTINF:-1 group-title="TV", Court TV HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
-#EXTINF:-1,group-title="TV",Crime + Investigation
+
+
+#EXTINF:-1 group-title="TV", Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1,group-title="TV",ITV
+
+
+#EXTINF:-1 group-title="TV", ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1,group-title="TV",ITV2
+
+
+#EXTINF:-1 group-title="TV", ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1,group-title="TV",ITV3
+
+#EXTINF:-1 group-title="TV", ITV3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1,group-title="TV",ITV4
+
+
+#EXTINF:-1 group-title="TV", ITV4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1,group-title="TV",CITV
+
+
+#EXTINF:-1 group-title="TV", CITV
 http://51.52.156.22:8888/http/001
-#EXTINF:-1,group-title="TV",CONtv HD
+
+
+#EXTINF:-1 group-title="TV", CONtv HD
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF:-1,group-title="TV",Buzzr HD
+
+
+#EXTINF:-1 group-title="TV", Buzzr HD
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="TV",YouToo America HD
+
+
+#EXTINF:-1 group-title="TV", YouToo America HD
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1928000.m3u8
-#EXTINF:-1,group-title="TV",Positiv TV  HD
+
+
+#EXTINF:-1 group-title="TV", Positiv TV  HD
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
-#EXTINF:-1,group-title="TV",WATC-57 Too | Classic TV HD
+
+
+#EXTINF:-1 group-title="TV", WATC-57 Too | Classic TV HD
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/chunklist_w1236601238.m3u8
-#EXTINF:-1,group-title="TV",Victorville CA HD
+
+
+#EXTINF:-1 group-title="TV", Victorville CA HD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b3500000.m3u8
-#EXTINF:-1,group-title="TV",NBCLX HD
+
+
+#EXTINF:-1 group-title="TV", NBCLX HD
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,group-title="TV",Z Living HD
+
+
+#EXTINF:-1 group-title="TV", Z Living HD
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="TV",PBS | KET HD
+
+
+#EXTINF:-1 group-title="TV", PBS | KET HD
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_DVR.m3u8
-#EXTINF:-1,group-title="TV",TBD Channel HD
+
+
+
+#EXTINF:-1 group-title="TV", TBD Channel HD
 https://content-ausc3.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5/g.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a&pbs=76b0e052ece74467892464adfdc4d1c1
-#EXTINF:-1,group-title="TV",NewsNet
+
+
+#EXTINF:-1 group-title="TV", NewsNet
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/chunks.m3u8?nimblesessionid=36000301
-#EXTINF:-1,group-title="TV",WeatherNation  HD
+
+
+#EXTINF:-1 group-title="TV", WeatherNation  HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/chunklist_b2192000.m3u8
-#EXTINF:-1,group-title="TV",The Film Detective HD
+
+
+#EXTINF:-1 group-title="TV", The Film Detective HD
 https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
-#EXTINF:-1,group-title="TV",Shout! Factory TV HD
+
+
+#EXTINF:-1 group-title="TV", Shout! Factory TV HD
 https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/1920x1080_4690400/chunklist.m3u8
-#EXTINF:-1,group-title="TV",RetroCrush TV HD
+
+
+#EXTINF:-1 group-title="TV", RetroCrush TV HD
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1,group-title="TV",Midnight Pulp HD
+
+
+#EXTINF:-1 group-title="TV", Midnight Pulp HD
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:-1,group-title="TV", Skills + Thrills | Channel 1*
+
+
+#EXTINF:-1 group-title="TV",  Skills + Thrills | Channel 1*
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Skills + Thrills | Ch.2 | +1h*
+
+
+#EXTINF:-1 group-title="TV",  Skills + Thrills | Ch.2 | +1h*
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Skills + Thrills | Ch.3 | +2h*
+
+
+#EXTINF:-1 group-title="TV", Skills + Thrills | Ch.3 | +2h*
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV",Lone Star
+
+
+
+#EXTINF:-1 group-title="TV", Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
-#EXTINF:-1,group-title="TV", Popcorn Flix
+
+
+#EXTINF:-1 group-title="TV",  Popcorn Flix
 https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=60089d8df682a3002c348297/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1,group-title="TV", Popcorn Flix Action
+
+
+#EXTINF:-1 group-title="TV", Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1,group-title="TV", Crackle
+
+
+#EXTINF:-1 group-title="TV", Crackle
 https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
-#EXTINF:-1,group-title="TV",  MovieSphere | HD
+
+
+#EXTINF:-1 group-title="TV",  MovieSphere | HD
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="TV", RunTime Free Movies
+
+
+#EXTINF:-1 group-title="TV",  RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="TV", Dark Matter TV
+
+
+#EXTINF:-1 group-title="TV", Dark Matter TV
 https://dmtv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="TV", TWiT 
+
+
+#EXTINF:-1 group-title="TV", TWiT 
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,group-title="TV", This Old House HD
+
+
+#EXTINF:-1 group-title="TV",  This Old House HD
 http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,group-title="TV", Comedy Dynamics
+
+
+#EXTINF:-1 group-title="TV", Comedy Dynamics
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/512x288_875600/chunklist.m3u8
-#EXTINF:-1,group-title="TV", Movie Kingdom *Distro
+
+
+#EXTINF:-1 group-title="TV",  Movie Kingdom *Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
-#EXTINF:-1,group-title="TV", Monarch Channel 
+
+
+#EXTINF:-1 group-title="TV",  Monarch Channel 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/d5246bbf-bc71-4dda-89be-5e92b256b7b8/1.m3u8
-#EXTINF:-1,group-title="TV", Dove
+
+
+#EXTINF:-1 group-title="TV",  Dove
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/4344dc35-b45b-43a2-b690-dffa02f1bbb3/1.m3u8
-#EXTINF:-1,group-title="TV", The Grid
+
+
+#EXTINF:-1 group-title="TV", The Grid
 https://edge2.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1070837085_b1976116.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
 
 
-#EXTINF:-1,group-title="TV", Journy
+#EXTINF:-1 group-title="TV", Journy
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1,group-title="TV", Law & Crime *Direct
+#EXTINF:-1 group-title="TV", Law & Crime *Direct
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
+
+
+
+
 
 
 
