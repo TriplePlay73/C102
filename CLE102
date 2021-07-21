@@ -1118,6 +1118,10 @@ https://granicusliveus1-a.akamaihd.net/senate/G0988_005/chunklist.m3u8
 #EXTINF:-1  group-title="News", Senate Floor *Direct_006
 https://granicusliveus1-a.akamaihd.net/senate/G0988_006/chunklist.m3u8
 
+#EXTINF:-1, House Floor *Direct *Must Update Daily
+https://houseliveprod.streaming.mediaservices.windows.net/64313697-b3d5-4666-a487-ffb407150a18/f8bcdd85-1543-4b2e-b103-38715b64757a.ism/manifest(format=mpd-time-csf)
+
+
 #EXTINF:-1  group-title="News", The Pentagon
 https://live-cdn.dvidshub.net/webcast/25563/master.m3u8
 
