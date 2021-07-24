@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="TV",  Updated 03.09.21
+#EXTINF:-1 group-title="TV",  Updated 07.23.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
@@ -437,9 +437,30 @@ https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1 group-title="Kids", Updated 1.30.21
+#EXTINF:-1 group-title="Kids", Updated 7.23.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
+
+#EXTINF:-1 group-title="Kids",Boomerang
+https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Jr
+https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nicktoons
+https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney XD
+https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nickelodeon
+https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
 
 
 
