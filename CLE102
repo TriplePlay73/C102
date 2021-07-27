@@ -1217,6 +1217,11 @@ https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445
 #EXTINF:-1 group-title="News",Americas Voice Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=7224174e-bf5e-5cd6-9375-173abcd5a536
 
+#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Vidloud
+https://stream.viloud.tv/bS9oenJSd1E1ZnpSa0dORnF6Q3Q4aER1UWZna2toWEM1b2RVRmRIek03NHZKOWpucE5GVm1qOVhybWtNbTBRdy1yV2tvc2hsSTNhbTBxcmpLV0hiamxBPT0/live.m3u8
+
+#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm DLive
+https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
 
 
 
@@ -1248,10 +1253,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 #EXTINF:-1 group-title="News", Sky News Radio -AU
 https://ais-arn.streamguys1.com/au_033/playlist.m3u8?streamid=8319&zip=44144&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&listenerId=6d9e22455c83ad9253c133fd8e580a22&modTime=1623533734085&pname=OrganicWeb&profileid=1551770094&territory=US&uid=d174b15b-46d3-4ac6-a679-f9d33f94b2b2&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1623533734&terminalid=159&companionAds=true&playedFrom=60&us_privacy=1-N-&callLetters=KDNT-FL&devicename=web-mobile&stationid=8319&dist=iheart&aw_0_1st.ccaud=
 
-
-
-#EXTINF:-1  group-title="News", Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
-https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8
 
 #EXTINF:-1  group-title="News",Infowars 1 *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
