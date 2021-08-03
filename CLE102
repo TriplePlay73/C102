@@ -285,6 +285,11 @@ https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
 
 
+#EXTINF:-1 group-title="TV", University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="USTVGO", ABC
 https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
