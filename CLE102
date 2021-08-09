@@ -446,6 +446,9 @@ https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
+#EXTINF:-1 group-title="Kids",TVS Pinball Network (1080p)  
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+
 #EXTINF:-1 group-title="Kids",Boomerang
 https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
 
