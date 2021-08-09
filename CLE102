@@ -1731,131 +1731,124 @@ https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  group-title="Roku TV", Samuel Goldwyn Channel
 https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Samul Goldwyn Classics
+#EXTINF:-1 group-title="Roku TV", Samul Goldwyn Classics
 https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Xplore
+#EXTINF:-1 group-title="Roku TV", Xplore
 https://xplore-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Skills + Thrills
+#EXTINF:-1 group-title="Roku TV", Skills + Thrills
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Hi-YAH!
+#EXTINF:-1 group-title="Roku TV", Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Maverick Black Cinema
+#EXTINF:-1 group-title="Roku TV", Maverick Black Cinema
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Bloody Disgusting (1)
+#EXTINF:-1 group-title="Roku TV", Bloody Disgusting (1)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku1
-#EXTINF:-1,  group-title="Roku TV", FTF (For the Fans)
+#EXTINF:-1 group-title="Roku TV", FTF (For the Fans)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Pac-12 Insider
+#EXTINF:-1 group-title="Roku TV", Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Players.tv
+#EXTINF:-1 group-title="Roku TV", Players.tv
 https://playerstv-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Unbeaten
+#EXTINF:-1 group-title="Roku TV", Unbeaten
 https://unbeaten-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", WhistleTV
+#EXTINF:-1 group-title="Roku TV", WhistleTV
 https://whistletv-roku-ingest.cinedigm.com/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", beIN Sports XTRA
+#EXTINF:-1 group-title="Roku TV", beIN Sports XTRA
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Game Show Central
+#EXTINF:-1 group-title="Roku TV", Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Deal Or No Deal
+#EXTINF:-1 group-title="Roku TV", Deal Or No Deal
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Family Feud
+#EXTINF:-1 group-title="Roku TV", Family Feud
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Global Got Talent
+#EXTINF:-1 group-title="Roku TV", Global Got Talent
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Wipeout Xtra
+#EXTINF:-1 group-title="Roku TV", Wipeout Xtra
 https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Pluto TV CMT
+#EXTINF:-1 group-title="Roku TV", Pluto TV CMT
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=0adc72cd87e45d3491f8e47e54bbcc98&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
-#EXTINF:-1,  group-title="Roku TV", Tastemade En Espanol
+#EXTINF:-1 group-title="Roku TV", Tastemade En Espanol
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Gusto TV
+#EXTINF:-1 group-title="Roku TV", Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", The Craftistry
+#EXTINF:-1 group-title="Roku TV", The Craftistry
 https://studio71-craftistry-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", iFood.tv
+#EXTINF:-1 group-title="Roku TV", iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", FilmRise Cooking (1)
+#EXTINF:-1 group-title="Roku TV", FilmRise Cooking (1)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS?Roku1
-#EXTINF:-1,  group-title="Roku TV", The Design Network
+#EXTINF:-1 group-title="Roku TV", The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Moviesphere
+#EXTINF:-1 group-title="Roku TV", Moviesphere
 https://moviesphere-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", FilmRise Cooking (2)
+#EXTINF:-1 group-title="Roku TV", FilmRise Cooking (2)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=filmrise&channelStore=us&tags=ROKU_CONTENT_TAGS?Roku2
-#EXTINF:-1,  group-title="Roku TV", A+E Crime 360
+#EXTINF:-1 group-title="Roku TV", A+E Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Horrify
+#EXTINF:-1 group-title="Roku TV", Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", Juntos
+#EXTINF:-1 group-title="Roku TV", Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", Top Cine
+#EXTINF:-1 group-title="Roku TV", Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", Cine Sureno
+#EXTINF:-1 group-title="Roku TV", Cine Sureno
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", RunTime Espanol
+#EXTINF:-1 group-title="Roku TV", RunTime Espanol
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Sony Canal Novelas
+#EXTINF:-1 group-title="Roku TV", Sony Canal Novelas
 https://sony-novelas-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Sony Canal Comedias
+#EXTINF:-1 group-title="Roku TV", Sony Canal Comedias
 https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Sony Competencias
+#EXTINF:-1 group-title="Roku TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Estrella TV
+#EXTINF:-1 group-title="Roku TV", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Estrella News
+#EXTINF:-1 group-title="Roku TV", Estrella News
 https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV",  Euronews | ES
+#EXTINF:-1 group-title="Roku TV",  Euronews | ES
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV",  Circle
+#EXTINF:-1 group-title="Roku TV",  Circle
 https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", nosey
+#EXTINF:-1 group-title="Roku TV", nosey
 https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", real nosey
+#EXTINF:-1 group-title="Roku TV", real nosey
 https://nosey-realnosey-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Just For Laughs Gags
+#EXTINF:-1 group-title="Roku TV", Just For Laughs Gags
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,  group-title="Roku TV", The LEGO Channel
+#EXTINF:-1 group-title="Roku TV", The LEGO Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", HappyKids.tv
+#EXTINF:-1 group-title="Roku TV", HappyKids.tv
 https://happykids-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Cocoro
+#EXTINF:-1 roup-title="Roku TV", Cocoro
 https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Fireman Sam
+#EXTINF:-1 group-title="Roku TV", Fireman Sam
 https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Ketchup TV
+#EXTINF:-1 group-title="Roku TV", Ketchup TV
 https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Yo Gabba Gabba
+#EXTINF:-1 group-title="Roku TV", Yo Gabba Gabba
 https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Fox Soul
+#EXTINF:-1 group-title="Roku TV", Fox Soul
 https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Made in Hollywood
+#EXTINF:-1 group-title="Roku TV", Made in Hollywood
 https://connection3-ent.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", VENN
+#EXTINF:-1 group-title="Roku TV", VENN
 https://venntv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Dust
+#EXTINF:-1 group-title="Roku TV", Dust
 https://dustx-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", The Asylum
+#EXTINF:-1 group-title="Roku TV", The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", FilmRise Sci-Fi
+#EXTINF:-1 group-title="Roku TV", FilmRise Sci-Fi
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1,  group-title="Roku TV", Bloody Disgusting (2)
+#EXTINF:-1 group-title="Roku TV", Bloody Disgusting (2)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8?Roku2
-#EXTINF:-1,  group-title="Roku TV", MST3K
+#EXTINF:-1 group-title="Roku TV", MST3K
 https://mst3k-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Midnight Pulp
+#EXTINF:-1 group-title="Roku TV", Midnight Pulp
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,  group-title="Roku TV", Science & Nature **
+#EXTINF:-1 group-title="Roku TV", Science & Nature **
 https://od.lk/s/MF8yMjE2NTkzNDVf/Roku_Boot-Animation_2017.mp4?ScienceNature
-#EXTINF:-1,  group-title="Roku TV", WeatherSpy
+#EXTINF:-1 group-title="Roku TV", WeatherSpy
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1  group-title="Redbox TV", Updated 1.28.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
