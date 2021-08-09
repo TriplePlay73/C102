@@ -1417,157 +1417,98 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 
 
 
-#EXTINF:-1, group-title="Pluto TV",  Updated 1.28.21
+#EXTINF:-1 group-title="Pluto TV",  Updated 1.28.21
 https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
 
 
-
-
-
-#EXTINF:-1 , group-title="Pluto TV",  The Price is right
+#EXTINF:-1 group-title="Pluto TV",  The Price is right
 https://tpir-plutolive-vo.akamaized.net/m/hlslive/tpir/3/tpir.m3u8?profID=386&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjcwZmQ5ZmFjLTU3M2QtNDk3Zi1iZGNkLTJmMzU0MjNkNTUyOSIsImRldmljZVZlcnNpb24iOiI4Ny4wLjQyODAuODgiLCJhcHBWZXJzaW9uIjoiNS4xMy4wLWI1YTlkMjNiMDk5NzM0OGY4MzZmMDBjM2ZhZTdhNzg1OThmODAwMDciLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlTWFrZSI6IkNocm9tZSIsImFkdmVydGlzaW5nSWQiOiIiLCJkZXZpY2VMYXQiOiI0MS40NDUzIiwiZGV2aWNlTG9uIjoiLTgxLjY5OTEiLCJkZXZpY2VNb2RlbCI6IndlYiIsInVzZXJJZCI6IiIsImFwcE5hbWUiOiJ3ZWIiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40OS4zIiwic3RpdGNoZXJSZXFJZCI6ImM0NDc0ODU2LWY5MmUtNGExNC1hZWJiLTUwYmM3NTQzZTczZiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiNzUuMTg4LjE4NS4xODkiLCJkZXZpY2VETlQiOjAsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ny4wLjQyODAuMTQxIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6IjkyYTAzN2VlLTFlNzItNDkyNS1iYzViLWJhMTI4MTA0Njk5YyIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ny4wLjQyODAuMTQxIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiI3NS4xODguMTg1LjE4OSIsImNoSWQiOiI1Zjc3OTFiODM3MmRhOTAwMDdmZDQ1ZTYiLCJ0aW1lbGluZUlkIjoiNjAwOWIyYjdiNWNkNGYwMDA3YzJmZGYwIiwiY2xpcElkIjoiNWZiODYzOGUwMzdhMzAwMDA3MzE4NDMyIiwic2Vzc2lvbklkIjoiYTFhZGEzNzEtNWVkMy0xMWViLWEzMGEtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWZlZDAyOWIzMzc2NjAwMDA3YTYyYjJkIiwicGFydG5lckNvZGUiOiJGcmVtYW50bGUgKFRQSVIpIiwicGFydG5lcl9pZCI6IjVmYjgzYjRkNjFkYWQyMDAwNzEyM2M5OCIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D&adsid=AXc4J8iRYqNfACfVXLUh&chname=tpir&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=tpir-plutolive-vo.akamaized.net%2Fm
-
-
-#EXTINF:-1,group-title="Pluto TV", Stories By AMC
+#EXTINF:-1 group-title="Pluto TV", Stories By AMC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=3053e2d1-b24b-4567-8093-8b28d8a46194&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Paramount Movies
+#EXTINF:-1 group-title="Pluto TV", Paramount Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-
-
-#EXTINF:-1,group-title="Pluto TV", Paramount
+#EXTINF:-1 group-title="Pluto TV", Paramount
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=52f9ab42-abcf-4c94-8b80-d0f4179637ee&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Game Show Central
+#EXTINF:-1 group-title="Pluto TV", Game Show Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=9ebae2bb-3852-4078-9947-938e659f338e&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Shout! Factory TV
+#EXTINF:-1 group-title="Pluto TV", Shout! Factory TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Spike TV's COPS
+#EXTINF:-1 group-title="Pluto TV", Spike TV's COPS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=p&deviceModel=p&deviceType=web&deviceVersion=73.0&sid=2132596c-cc5b-4ade-9176-ff22db50c538
-
-
-#EXTINF:-1,group-title="Pluto TV", Addams Family
+#EXTINF:-1 group-title="Pluto TV", Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=bbd0c6b7-7b9a-425e-b152-2c18ca181523&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Hell's Kicthen
+#EXTINF:-1 group-title="Pluto TV", Hell's Kicthen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=c0b2e29b-1e63-43ed-9c2f-fb9bad8e9676&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", WPT 24/7
+#EXTINF:-1 group-title="Pluto TV", WPT 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=7e3a9d02-2569-4654-a0ed-61f585680a7b&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", This Old House
+#EXTINF:-1 group-title="Pluto TV", This Old House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=dc57b957-bb62-4f17-99f4-4ad596370a2b&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", TV Land Sitcoms
+#EXTINF:-1 group-title="Pluto TV", TV Land Sitcoms
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=27e3faa0-183f-4eeb-a242-ae9fcec9553b&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", One Day At A Time
+#EXTINF:-1 group-title="Pluto TV", One Day At A Time
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e4ee1c1f8928000093d0425/master.m3u8?advertisingId=&appName=web&appVersion=5.2.1-d19549533cb54cf5375d4b2c1075ca1f96b4246b&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.97&includeExtendedEvents=false&sid=b0fb2e29-515f-4b24-895c-ad99488de2b8&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Frontdoor
+#EXTINF:-1 group-title="Pluto TV", Frontdoor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=e3bbcb59-8202-4f5b-a3fe-db059307fae5&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", AWE Encore
+#EXTINF:-1 group-title="Pluto TV", AWE Encore
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7cf6608c805600078872f2/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=37b177da-9dc4-48a0-9789-827140b8198a&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", 007
+#EXTINF:-1 group-title="Pluto TV", 007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=9598bcc7-f8d8-4dbd-90bd-71d210767181&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.66&includeExtendedEvents=false&marketingRegion=US&sid=672d8ad5-3468-11eb-8335-0242ac110002&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", TV Spotlight
+#EXTINF:-1 group-title="Pluto TV", TV Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=5ebdbcd1-9613-4a04-baa5-d08ba278f1e2&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", TV Action
+#EXTINF:-1 group-title="Pluto TV", TV Action
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.53&includeExtendedEvents=false&sid=83fd15bc-80bd-4466-8b60-d6f95c67d858&userId=&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", Comedy Central
+#EXTINF:-1 group-title="Pluto TV", Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=ee6c38a2-6194-4a05-9987-c5d66f1a75df&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-
-#EXTINF:-1,group-title="Pluto TV", TV Romance
+#EXTINF:-1 group-title="Pluto TV", TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=405ff5fd-b490-466c-9f29-607c48b1fbe3&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Drama
+#EXTINF:-1 group-title="Pluto TV", TV Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=c9296782-a5b0-4e36-9a1a-64c3b45ff6b9&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=33.4532&deviceLon=-112.0749&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Horror
+#EXTINF:-1 group-title="Pluto TV", TV Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.53&includeExtendedEvents=false&sid=2d6f755c-59e0-4248-9df5-b14944d74716&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Terror
+#EXTINF:-1 group-title="Pluto TV", TV Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appVersion=5.0.1-308be7403c61c8b9a22474dfd29d14e05c5bb65b&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=4ae44aee-f14a-4379-8fa2-273abe5fdb01&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Thriller
+#EXTINF:-1 group-title="Pluto TV", TV Thriller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.53&includeExtendedEvents=false&sid=5578b0c6-3b28-4e74-b844-0487bda12217&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", CMT Westerns
+#EXTINF:-1 group-title="Pluto TV", CMT Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=1ef9774d-6704-4ce3-ba95-4741eacfbe3b&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Eighties Rewind
+#EXTINF:-1 group-title="Pluto TV", Eighties Rewind
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=&appName=web&appVersion=5.0.1-308be7403c61c8b9a22474dfd29d14e05c5bb65b&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.103&includeExtendedEvents=false&sid=17880877-50b9-4bc8-854d-a6a4e5c299f9&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Cult Films
+#EXTINF:-1 group-title="Pluto TV", Cult Films
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=83562521-7256-43fc-a3c2-69b0d568f44d&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Flicks of Fury
+#EXTINF:-1 group-title="Pluto TV", Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=ef90aaae-c6e3-48d3-a3d7-b3164fc7a8bd&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", The Asylum
+#EXTINF:-1 group-title="Pluto TV", The Asylum
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=a4ee8f13-03fd-4912-830f-316e6adc5b7d&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Election 2020
+#EXTINF:-1 group-title="Pluto TV", Election 2020
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bc4d687da4f1f096e217e25/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=6833083e-9094-4912-8dca-3670f2a08e0d&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Pluto TV News
+#EXTINF:-1 group-title="Pluto TV", Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=e13efed7-7ac6-488c-8d55-fcdfaad18650&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Sports
+#EXTINF:-1 group-title="Pluto TV", TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV History
+#EXTINF:-1 group-title="Pluto TV", TV History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7930&deviceLon=-74.0247&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.53&includeExtendedEvents=false&sid=3d2013c6-49cb-4c6e-b353-c8497472483d&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", TV Conspiracy
+#EXTINF:-1 group-title="Pluto TV", TV Conspiracy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=c90ca210-501c-484a-a4a9-2382f371751a&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Food TV
+#EXTINF:-1 group-title="Pluto TV", Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=ec670265-365a-496a-bdaf-f7b5a4b79f64&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Sci-Fi
+#EXTINF:-1 group-title="Pluto TV", Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=abc3436f-89ee-4c67-bdd5-816b39164d78&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Science
+#EXTINF:-1 group-title="Pluto TV", Science
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4153fbb1-d0b0-4029-87aa-bc01b1465576&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", Gamer
+#EXTINF:-1 group-title="Pluto TV", Gamer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=0ffcaa52-84ea-11ea-bc55-0242ac130003&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", CNet News
+#EXTINF:-1 group-title="Pluto TV", CNet News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", IGN
+#EXTINF:-1 group-title="Pluto TV", IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=32.8137&deviceLon=-96.8704&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=899b2906-84ea-11ea-bc55-0242ac130003&userId=&serverSideAds=true
-
-#EXTINF:-1,group-title="Pluto TV", NASA TV
+#EXTINF:-1 group-title="Pluto TV", NASA TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ee5ea872c1cbb844546d3f/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=a13fc5f6-addb-4b28-82e3-70f1348ab775&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Pluto TV", The First
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
-#EXTINF:-1,group-title="Pluto TV", The First
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=faffa498-c73f-4ddf-8d47-904e2bfda2e8&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=97befc27-351c-11eb-a786-0242ac110002&userId=&serverSideAds=true
+
+
+
 
 
 
