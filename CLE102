@@ -1218,7 +1218,8 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access
 https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 
 #EXTINF:-1 group-title="News", RSBN *1080 
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
+
 
 
 #EXTINF:-1 group-title="News", Frank Speech *1080
