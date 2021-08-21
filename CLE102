@@ -74,8 +74,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 group-title="TV",  Sony Movies Action *Movies
-http://51.52.156.22:8888/http/009
 
 
 #EXTINF:-1 group-title="TV", Dust HD
@@ -86,8 +84,7 @@ https://dust.sinclair.wurl.com/manifest/3000.m3u8
 https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 
 
-#EXTINF:-1 group-title="TV",Cozi TV  *Dead Link
-https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
+
 
 
 #EXTINF:-1 group-title="TV", Circle HD 
@@ -121,23 +118,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=
 http://203.154.243.31:15001
 
 
-#EXTINF:-1 group-title="TV", ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-
-#EXTINF:-1 group-title="TV", ITV2
-http://51.52.156.22:8888/http/005
-
-#EXTINF:-1 group-title="TV", ITV3
-http://51.52.156.22:8888/http/006
-
-
-#EXTINF:-1 group-title="TV", ITV4
-http://51.52.156.22:8888/http/007
-
-
-#EXTINF:-1 group-title="TV", CITV
-http://51.52.156.22:8888/http/001
 
 
 #EXTINF:-1 group-title="TV", CONtv HD
