@@ -24,6 +24,13 @@ https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-rev
 https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
 
 
+
+
+#EXTINF:-1 group-title="News" , Updated 08.21.21
+https://sp.rmbl.ws/s8/2/z/W/F/r/zWFrb.caa.1.mp4?u=3&b=1
+
+
+
 #EXTINF:-1 group-title="News" ,Americas Voice Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=7224174e-bf5e-5cd6-9375-173abcd5a536
 
