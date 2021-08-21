@@ -1441,12 +1441,19 @@ https://ais-arn.streamguys1.com/au_033/playlist.m3u8?streamid=8319&zip=44144&at=
 
 #EXTINF:-1  group-title="News",Infowars 1 *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+
+
 #EXTINF:-1  group-title="News",Alex Jones *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+
 #EXTINF:-1  group-title="News",American Journal *Direct Link
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+
+
 #EXTINF:-1  group-title="News",Owen Shroyer *Direct Link
-https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
 #EXTINF:-1  group-title="News",Russia Today Live
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1  group-title="News",RT America | HD
