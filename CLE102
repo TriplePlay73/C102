@@ -35,15 +35,10 @@ https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV", Absolute Reality by We TV
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TV",  Paramount Network *1.27.21 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 
 
 
-
-#EXTINF:-1 group-title="TV", MTV *1.27.21
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 
 #EXTINF:-1 group-title="TV", Charge HD
@@ -76,8 +71,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TV", Dust HD
-https://dust.sinclair.wurl.com/manifest/3000.m3u8
 
 
 #EXTINF:-1 group-title="TV", The Asylum Movies HD
@@ -91,8 +84,7 @@ https://asylum-stirr.amagi.tv/playlist1080p.m3u8
 https://circle-roku.amagi.tv/playlistR1080p.m3u8
 
 
-#EXTINF:-1 group-title="TV", Victor Valley TV HD
-https://2-fss-2.streamhoster.com/pl_120/amlst:201794-1288810/chunklist_b2000000.m3u8
+
 
 #EXTINF:-1 group-title="TV", Victor Valley TV-3 | Movies HD 
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
@@ -102,27 +94,15 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="TV", ABC Australia
-https://c.mjh.nz/101002510251/
 
 
-#EXTINF:-1 group-title="TV", Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
 
 
 #EXTINF:-1 group-title="TV", Court TV HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 
 
-#EXTINF:-1 group-title="TV", Crime + Investigation
-http://203.154.243.31:15001
-
-
-
-
-
-#EXTINF:-1 group-title="TV", CONtv HD
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="TV", Buzzr HD
@@ -133,8 +113,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1928000.m3u8
 
 
-#EXTINF:-1 group-title="TV", Positiv TV  HD
-https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?Faith
+
 
 
 #EXTINF:-1 group-title="TV", WATC-57 Too | Classic TV HD
@@ -158,24 +137,11 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_
 
 
 
-#EXTINF:-1 group-title="TV", TBD Channel HD
-https://content-ausc3.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5/g.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a&pbs=76b0e052ece74467892464adfdc4d1c1
-
-
-#EXTINF:-1 group-title="TV", NewsNet
-https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/chunks.m3u8?nimblesessionid=36000301
-
-
-#EXTINF:-1 group-title="TV", WeatherNation  HD
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/chunklist_b2192000.m3u8
 
 
 #EXTINF:-1 group-title="TV", The Film Detective HD
 https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
 
-
-#EXTINF:-1 group-title="TV", Shout! Factory TV HD
-https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/1920x1080_4690400/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="TV", RetroCrush TV HD
@@ -243,16 +209,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
 
 
-#EXTINF:-1 group-title="TV",  Monarch Channel 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/d5246bbf-bc71-4dda-89be-5e92b256b7b8/1.m3u8
 
-
-#EXTINF:-1 group-title="TV",  Dove
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/4344dc35-b45b-43a2-b690-dffa02f1bbb3/1.m3u8
-
-
-#EXTINF:-1 group-title="TV", The Grid
-https://edge2.tikilive.com:8443/unrestricted_tikilive/56436/amlst:dw0N76Va7nRJ/chunklist_w1070837085_b1976116.m3u8?i=YXBwTmFtZT1VbnJlc3RyaWN0ZWQmY0lEPTU2NDM2JmNOYW1lPVRoZUdyaWQrTmV0d29yayZvSUQ9ODQwODA2Jm9OYW1lPWNqMzM%3D
 
 
 #EXTINF:-1 group-title="TV", Journy
