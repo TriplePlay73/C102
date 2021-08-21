@@ -1388,7 +1388,10 @@ https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
 
 #EXTINF:-1 group-title="News", Frank Speech *1080
-https://frnksocial.mmdlive.lldns.net/frnksocial/5d9ea07faa964dec8f1a2ca71a9af4b3/chunklist_b732000.m3u8
+https://cdn1.frankspeech.com/api/video/v1/us-east-1.050612665769.channel.Qh5B2m1YCbwZ.m3u8
+
+
+
 
 #EXTINF:-1 group-title="News",Americas Voice Direct Link
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad._debug=vdms_publica_web&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=7224174e-bf5e-5cd6-9375-173abcd5a536
