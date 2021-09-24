@@ -1,7 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="", BOS AZ *TEMP LINK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631946263/ei/tzFFYfyHFOfv8gS0846wCw/ip/75.188.185.189/id/gR3HWIggi20.1/source/yt_live_broadcast/requiressl/yes/tx/24067854/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJnDhfEUEl-m5ynRzaYToUkU5VM_w6tvtF6HCUyspxDoCIQDH8fPrU4DbXgjBD2pQXI_lYrMILoARM-3tF2Z06rclAg%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
+https://www.azleg.gov/videoplayer|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
+https://player.invintus.com?clientID=6361162879&eventID=2021091005|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Audit", One America News Network
+https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Audit",Audit AZ *RSBN
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
+
+
+
+#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
+https://cdn3.wowza.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/sy7p9bm1/640/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Weather", AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=04e3c54b739b5f58bdad839baa854bb5&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=accuweather&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
