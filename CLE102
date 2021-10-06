@@ -1,24 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
-https://www.azleg.gov/videoplayer|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
-https://player.invintus.com?clientID=6361162879&eventID=2021091005|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Audit", One America News Network
-https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Audit",Audit AZ *RSBN
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
-
-
-
-#EXTINF:-1 group-title="Audit",Audit AZ *TEMP LINK
-https://cdn3.wowza.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/sy7p9bm1/640/chunklist.m3u8
-
 
 
 
@@ -59,7 +40,6 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.form
 
 
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
-https://h4.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIxIDg6NTE6MDUgUE0maGFzaF92YWx1ZT1CY3djRFdmTmNHa1g2QWdzOElUL3FnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 
@@ -73,14 +53,13 @@ https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 
 
 
-#EXTINF:-1 group-title="News" ,Fox News HD
+#EXTINF:-1 group-title="News", Fox News Temp Link
+https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDEyOjEyOjA4IEFNJmhhc2hfdmFsdWU9bHdtUG9sekhZWm11SXQ3ZlFEazJGQT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 group-title="News", Fox News
 https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="News", Fox News Temp Link
-https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDEyOjEyOjA4IEFNJmhhc2hfdmFsdWU9bHdtUG9sekhZWm11SXQ3ZlFEazJGQT09JnZhbGlkbWludXRlcz0yNDA=
 
 
 #EXTINF:-1 group-title="News", The Gateway Pundit LIVE *Rumble
@@ -144,8 +123,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 
 
 
-#EXTINF:-1 group-title="News" , C-SPAN (720p)  (Legislative)
-https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
+
 #EXTINF:-1 group-title="News" ,C Span
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 group-title="News" ,C Span
@@ -165,9 +143,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?__nn__=5663227763001&hdnea=st=1623533400~exp=1623537000~acl=/hls/live/2002690/*~hmac=8ba10a9a3825dc05d64844304077ba2e5535f4a7a7598358b2cc7880a6c49c5c
 #EXTINF:-1 group-title="News" , Sky News Extra 3 -AU
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
-
-
 
 #EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 
 http://sots.ohio.gov/live/stream_10/index.m3u8
@@ -404,11 +379,6 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w470525938.m3u8
 
 
 
-#EXTINF:-1 group-title="TV2", Bounce (720p)  (General)
-https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
-
-#EXTINF:-1 group-title="TV2", C-SPAN (720p)  (Legislative)
-https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 
 #EXTINF:-1 group-title="TV2", Chef Champion (720p)  (Cooking)
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
@@ -421,36 +391,11 @@ https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 #EXTINF:-1 group-title="TV2", Classic Cinema (240p)  (Classic)
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 
-#EXTINF:-1 group-title="TV2", Court TV Mystery  (Entertainment)
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV2", FOX News (720p)  (News)
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV2", Freeform  (Entertainment)
-https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
-
-#EXTINF:-1 group-title="TV2", FX  (Entertainment)
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV2", GetTV  (Entertainment)
-https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
-
-
 #EXTINF:-1 group-title="TV2", Golden TV (240p)  (Classic)
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
-#EXTINF:-1 group-title="TV2", Grit
-https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
 
-#EXTINF:-1 group-title="TV2", KTLA 5 (Los Angeles) (720p)  (Local)
-https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
 
-#EXTINF:-1 group-title="TV2", Laff (720p)  (Comedy)
-https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 
 #EXTINF:-1 group-title="TV2", Lifestyle  (Lifestyle)
 https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
@@ -459,11 +404,7 @@ https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV2", MavTV HD  (Sports)
-https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV2", My9 WCTX My Network TV (Connecticut)
-https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV2", Mythos (720p)  (Movies)
@@ -473,16 +414,13 @@ https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV2", Revolt
-https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV2", Sent TV Global Network (720p)  (General)
 https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
 
 
-#EXTINF:-1 group-title="TV2", SYFY  (Entertainment)
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="TV2", TVS Boxing (720p)  (Sports)
@@ -504,8 +442,14 @@ https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8
 #EXTINF:-1 group-title="TV2", TVS Drive In Movie (360p)  (Movies)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 
+
+
+
 #EXTINF:-1 group-title="TV2", TVS Family Channel (360p)  (Family)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="TV2", TVS Film Noir Network (360p)  (Movies)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
@@ -516,8 +460,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
 #EXTINF:-1 group-title="TV2", TVS Hi Tops (490p)  (Kids)
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 
-#EXTINF:-1 group-title="TV2", TVS Hollywood History (408p)  (Classic)
-https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
+
 
 #EXTINF:-1 group-title="TV2", TVS Horror Network (480p)  (Classic)
 https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
@@ -541,8 +484,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 group-title="TV2", TVS Select Network (720p)  (General)
 https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 group-title="TV2", TVS Silo Discount Network (720p)  (Shop)
-https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
+
+
 #EXTINF:-1 group-title="TV2", TVS Sports (960p)  (Sports)
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="TV2", TVS Sports Bureau (720p)  (Sports)
@@ -564,14 +507,11 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="TV2", TVS Women Sports (480p)  (Sports)
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
-#EXTINF:-1 group-title="TV2", WCTX  (Local)
-https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV2", WGN 9 (Chicago)  (Local)
-https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
 
-#EXTINF:-1 group-title="TV2", Xcorps (720p)  (Series)
-https://rpn1.bozztv.com/36bay2/gusa-xcorps/playlist.m3u8
+
+
+#
 
 
 
