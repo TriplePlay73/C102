@@ -69,15 +69,18 @@ https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="News" ,NTD News *Direct
 https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="News" ,Fox News HD
-https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="News", Fox News
 https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="News", Fox News Temp Link
-https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIxIDg6NTA6MDQgUE0maGFzaF92YWx1ZT02WlhWWUtWRG12WUxmaHRSUGdXNWx3PT0mdmFsaWRtaW51dGVzPTI0MA==
-
+https://h3.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIxIDEyOjEyOjA4IEFNJmhhc2hfdmFsdWU9bHdtUG9sekhZWm11SXQ3ZlFEazJGQT09JnZhbGlkbWludXRlcz0yNDA=
 
 
 #EXTINF:-1 group-title="News", The Gateway Pundit LIVE *Rumble
@@ -106,12 +109,7 @@ https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/
 
 
 
-#EXTINF:-1 group-title="News" ,RT  Live
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="News" ,RT America | HD
-https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 group-title="News" ,RT UK
-https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
 
 
 
