@@ -1212,30 +1212,54 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 
 #EXTINF:-1  group-title="Local Radio", 92.3
 https://22203.live.streamtheworld.com/WKRKFMAAC_SC?sbmid=259c873c-b99d-47be-a0af-a32bdb35f1fd&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-#EXTINF:-1  group-title="Local Radio", 93.1 WZAK
+
+#EXTINF:-1  group-title="Local Radio", 93.1 WZAK **d**o*w**n
 https://14153.live.streamtheworld.com/WZAKFMAAC.aac?dist=onlineradiobox
+
 #EXTINF:-1  group-title="Local Radio", 94.9 WQMX
 http://17333.live.streamtheworld.com/WQMXFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=ab45f8e9-5514-4be5-c2ca-8e2c54447ab6 
 #EXTINF:-1  group-title="Local Radio", 96..5 Kiss FM
 https://ample.revma.ihrhls.com/zc1729/43_17z684qjpds3y02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WAKS-FM&streamid=1729&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727922601&aw_0_1st.skey=1611727922&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1729
-#EXTINF:-1  group-title="Local Radio", 97.5 WONE
+
+
+
+#EXTINF:-1  group-title="Local Radio", 97.5 WONE**d**o*w**n
 http://17553.live.streamtheworld.com/WONEFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=155cfa58-957d-4631-9cdc-111ad9afda09
+
+
+
+
 #EXTINF:-1  group-title="Local Radio", 98.5 WNCX
 https://22203.live.streamtheworld.com/WNCXFMAAC_SC?sbmid=b1cc4c48-1787-4baf-bfcd-fdf1dd3f5028&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
 #EXTINF:-1  group-title="Local Radio", 99.5 WGAR
 https://ample.revma.ihrhls.com/zc1733/24_1xg0xfvz2uykl02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WGAR-FM&streamid=1733&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611788246433&aw_0_1st.skey=1611788246&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1733
 #EXTINF:-1  group-title="Local Radio", 100.7 WMMS
 https://ample.revma.ihrhls.com/zc1741/11_13wyblfgttmxu02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMMS-FM&streamid=1741&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611728008221&aw_0_1st.skey=1611728008&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1741
-#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK
+
+
+
+#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK**d**o*w**n
 https://14223.live.streamtheworld.com/WDOKFMAAC_SC?sbmid=5290f878-76a9-4c12-804a-65532edd93ed&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-#EXTINF:-1  group-title="Local Radio", Q104 
+
+
+
+#EXTINF:-1  group-title="Local Radio", Q104 **d**o*w**n
 https://17643.live.streamtheworld.com/WQALFMAAC_SC?sbmid=259d668e-4ad4-4962-9756-1ba7e38c00c2&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+
+
+
 #EXTINF:-1  group-title="Local Radio", Magic 105.7
 https://ample.revma.ihrhls.com/zc1737/2_1s0gedjcvcuc802/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMJI-FM&streamid=1737&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1737
 #EXTINF:-1  group-title="Local Radio", 106.5 The Lake
 https://ample.revma.ihrhls.com/zc4958/20_zuztq4795pfs02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WHLK-FM&streamid=4958&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=4958
-#EXTINF:-1  group-title="Local Radio", Z-107.9
+
+
+
+#EXTINF:-1  group-title="Local Radio", Z-107.9**d**o*w**n
 http://18073.live.streamtheworld.com:3690/WENZFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&tdsdk=js-2.9&banners=300x250&st=6d808641-53ab-45e2-8d0f-c15ea8dbd27e&sbmid=fd063053-bfc0-417a-83a9-43a69d01d4c9
+
+
+
 #EXTINF:-1  group-title="Local Radio", WTAM 1100 AM
 https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=34bf6987-2ed9-466b-a073-bb5143bf1921&clientType=web&profileid=3604227962&host=webapp.US&zip=44109&callLetters=WTAM-AM&streamid=1749&campid=header&pname=1263&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&listenerId=c3b9b1e763f89cf40dcdb007611f95ac&at=0&birthYear=null&modTime=1611779452710&aw_0_1st.skey=1611779452&us_privacy=1-N-&devicename=web-desktop&playedFrom=59&age=null&cid=index.html&territory=US&stationid=1749
 
