@@ -40,11 +40,13 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8?ad.form
 
 
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
-
+https://h2.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIxIDU6Mzc6MjcgUE0maGFzaF92YWx1ZT01U24xQU00R1Q4cC9QdzdQTG9aS1ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1 group-title="News", One America News Network
 https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="News" ,Newsmax TV *Direct Link
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="News" ,NTD News *Direct
