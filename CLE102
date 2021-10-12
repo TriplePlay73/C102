@@ -335,8 +335,7 @@ https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV",  Skills + Thrills | Ch.2 | +1h*
-https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
-
+https://d52b00c640c34d7e9ea9b89430bbaae7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.bmodel=bm1&ads.channelStore=us&ads.content=033f6b475bcc5f96b4f3261b3b439e4d&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=96922739-9ad5-5c74-854d-94b58992bde5&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F94.0.4606.81+Safari%2F537.36&is_lat=1&bmodel=bm1&content=033f6b475bcc5f96b4f3261b3b439e4d&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=96922739-9ad5-5c74-854d-94b58992bde5&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TV14&studio_id=ae&channel_id=151908&channelStore=us
 
 #EXTINF:-1 group-title="TV", Skills + Thrills | Ch.3 | +2h*
 https://aenetworks-skills-thrills-1-us.samsung.wurl.tv/playlist.m3u8
