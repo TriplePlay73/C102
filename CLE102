@@ -932,6 +932,9 @@ http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 group-title="Kids",  Squidbillies *Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 
+#EXTINF:-1 group-title="Kids",  Zoo Moo (720p)  (Kids)
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Kids",  Metalocalypse *Adult Swim
