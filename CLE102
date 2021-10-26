@@ -243,7 +243,14 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp
 
 
 #EXTINF:-1 group-title="TV", Pop HD
+http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="TV", Pop HD
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+
 
 
 #EXTINF:-1 group-title="TV", Hallmark Movies & More
