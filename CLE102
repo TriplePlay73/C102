@@ -108,7 +108,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
 
 #EXTINF:-1 group-title="News" ,Americas Voice Direct Link
-https://api2.p1.media/api/v1/projects/5ac62a8225e1b/livefeed/main-stream.m3u8?device_type_slug=web&token=f7OoLYL4YIy64W7uyrST
+https://content-auso1.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6/e.m3u8?tc=1&exp=1638416264&rn=1352717017&ct=c&cid=c60462c9f81949369aeaffbfb8e9f7d6&ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=222be282-27b9-5fec-bbb0-2a159ad46814&ad.ip=76.92.32.125&ad.content_channel=Real+Americas+Voice&ad.content_network=Real+Americas+Voice&ad.genre_id=News&ad.content_dist_name=Real+Americas+Voice&sig=931ba351f59fa7df62f522929e9ccfedd5b2b67f4bdadc4fd62a3d7a4c967f80&pbs=1d456eb7d77b49d3a660a7e0a3d1732f
 
 
 
