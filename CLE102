@@ -108,7 +108,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
 
 #EXTINF:-1 group-title="News" ,Americas Voice Direct Link
-https://content-ausw1-up-1.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6/e.m3u8?tc=1&exp=1638416840&rn=1018735577&ct=c&cid=c60462c9f81949369aeaffbfb8e9f7d6&ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=222be282-27b9-5fec-bbb0-2a159ad46814&ad.ip=76.92.32.125&ad.content_channel=Real+Americas+Voice&ad.content_network=Real+Americas+Voice&ad.genre_id=News&ad.content_dist_name=Real+Americas+Voice&sig=375e4793f6c40ff12bb8d0500c2af1ef7f5ac93301020161f0d00f50b305dcfd&pbs=3467c3bd26af4220b4981c397b846115
+https://content-ause1-up-1.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6/e.m3u8?tc=1&exp=1638494978&rn=2006633741&ct=c&cid=c60462c9f81949369aeaffbfb8e9f7d6&ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=222be282-27b9-5fec-bbb0-2a159ad46814&ad.ip=76.92.32.125&ad.content_channel=Real+Americas+Voice&ad.content_network=Real+Americas+Voice&ad.genre_id=News&ad.content_dist_name=Real+Americas+Voice&sig=3bd73d704afed76f41ab18209511b4369bab1c63bca9fd37a4991f646f00ac20&pbs=f71bfe170f5f4dbdac95431759d75cd5
+
+#EXTINF:-1 group-title="News" ,Americas Voice Direct Link
+https://api2.p1.media/api/v1/projects/5ac62a8225e1b/livefeed/main-stream.m3u8?device_type_slug=web&token=rzEml0oS3yR8HQrDc1J7
 
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
 
