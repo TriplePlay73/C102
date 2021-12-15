@@ -120,7 +120,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
 
 #EXTINF:-1 group-title="News" ,Americas Voice Direct Link
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4137224153001/380e3fe4-3b39-47d5-b7a5-da80476d0326/10s/master.m3u8?fastly_token=NjFiOTZhYjNfZDg0YmQ5NjVlZmY4NDQ5Mzc2YTk5NjVhNzQxYjdiYjNiOWI1MDJjMWJkOWNlYjYxNDcyMTFhZDM4YzZjM2NmNg%3D%3D
+https://content-ausc1.uplynk.com/channel/c60462c9f81949369aeaffbfb8e9f7d6/e.m3u8?tc=1&exp=1639530695&rn=1941502365&ct=c&cid=c60462c9f81949369aeaffbfb8e9f7d6&ad.format=vast&livestream=1&ad.pod_duration=120&ad.platform=web&ad=wn_publica&ad.player_width=1280&ad.player_height=720&ad.site_id=6283&ad.site_page=americasvoicenews.com&ad.did=9d373f92-50fb-5beb-96f5-d4d5c4c2ed15&ad.ip=98.157.92.112&ad.content_channel=Real+Americas+Voice&ad.content_network=Real+Americas+Voice&ad.genre_id=News&ad.content_dist_name=Real+Americas+Voice&sig=98397cc5148ce33d89bad6eaf2ce582f775baa0094c6ad791b6dfad37e96f28f&pbs=0528335a8dc6436991c4207385a0296a
+
 
 
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
