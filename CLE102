@@ -79,7 +79,8 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 #EXTINF:-1 group-title="Westerns", TVS Hi Tops
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-
+#EXTINF:-1 group-title="Westerns", TVS Classic Movies (480p)  (Classic)
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 
 
 #EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
