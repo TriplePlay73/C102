@@ -1454,7 +1454,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decb
 #EXTINF:-1 group-title="Music Video",  Yo! MTV 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=8c49ad00fb2f544f94b7b41e43ab9027&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
 
-EXTINF:-1 group-title="Music Video",   MTV Biggest POP
+#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
 
 #EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 2
