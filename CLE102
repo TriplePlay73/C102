@@ -3,7 +3,8 @@ Video On Demand
 
 
 
-
+#EXTINF:-1 group-title="Fireplace" , Fireplace - Naturescape
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 #EXTINF:-1 group-title="Fireplace" , Crackling Fireplace 
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=552c1365-7787-41b7-a47b-25b7b8898a4e&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=552c1365-7787-41b7-a47b-25b7b8898a4e&deviceLat=41.4722&deviceLon=-81.7450&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=96.0.4664&marketingRegion=US&serverSideAds=true&sessionID=49b6d050-62af-11ec-98f3-0242ac110003&sid=49b6d050-62af-11ec-98f3-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiMTU5MTNjLWRjYjUtNDc3OC1iZmU4LWI1NDcyOWI1ODVmNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0OWI2ZDA1MC02MmFmLTExZWMtOThmMy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk4LjE1Ny45Mi4xMTIiLCJjaXR5IjoiQ2xldmVsYW5kIiwicG9zdGFsQ29kZSI6IjQ0MTAyIiwiY291bnRyeSI6IlVTIiwiZG1hIjo1MTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0Ijo0MS40NzIyLCJkZXZpY2VMb24iOi04MS43NDUsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk2LjAuNDY2NCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDYuMC1mM2UyYWM0OGQxZGJlODE4OWRjNzg0Nzc3MTA4YjcyNWI0YmU2YmUyIiwiY2xpZW50SUQiOiI1NTJjMTM2NS03Nzg3LTQxYjctYTQ3Yi0yNWI3Yjg4OThhNGUiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9OZXdfWW9yayIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiWFk2Mzk1c0lEcy1hc29fTVpNSTJBSFpHcEZmbUl3THlQV18tZlFJaVFVb2h5cGRhcyIsImZ3VmNJRDJDb3BwYSI6IjU1MmMxMzY1LTc3ODctNDFiNy1hNDdiLTI1YjdiODg5OGE0ZSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiNTUyYzEzNjUtNzc4Ny00MWI3LWE0N2ItMjViN2I4ODk4YTRlIiwiZm1zX3ZjaWQydHlwZSI6ImxpdmVyYW1wIiwiZm1zX3JhbXBfaWQiOiJYWTYzOTVzSURzLWFzb19NWk1JMkFIWkdwRmZtSXdMeVBXXy1mUUlpUVVvaHlwZGFzIiwiZm1zX2hoX3JhbXBfaWQiOiJoWTYzOTVDb1A5bnh6bVlJaUNDVWE3MmttUUFyMzcwX0s1ZFVKalhNWllRV25jOTB3In19LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQwMTU1MzUzLCJqdGkiOiI2MmNmYTljYS05MzcyLTQ4NjItOWIzZC04MjAzNDI1NGY2M2EiLCJpYXQiOjE2NDAxMjY1NTMsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpOVFV5WXpFek5qVXROemM0TnkwME1XSTNMV0UwTjJJdE1qVmlOMkk0T0RrNFlUUmwifQ.2igeW0gK6BoHUcRdt56kc5pOuSlO0SlXNd_NwW0-kKE&masterJWTPassthrough=true
@@ -22,8 +23,16 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/58348b5cc4
 #EXTINF:-1 group-title="Fireplace" , Christmas Lights 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61846cecf4e62961d9c2cd08.m3u8?X-Plex-Token=6nibnUZUJTpjFBV-mST1
 
-#EXTINF:-1 group-title="Fireplace" , Fireplace 
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 group-title="Fireplace" ,  Fireplace - Distro
+https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
+https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+
+#EXTINF:-1 group-title="Fireplace" ,  Fireplace Holiday Edition
+https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
+
+#EXTINF:-1 group-title="Fireplace" , Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
+
 
 
 
