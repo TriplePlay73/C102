@@ -23,8 +23,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/58348b5cc4
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61846cecf4e62961d9c2cd08.m3u8?X-Plex-Token=6nibnUZUJTpjFBV-mST1
 
 #EXTINF:-1 group-title="Fireplace" , Fireplace 
-
-https://dai.google.com/linear/hls/pa/event/83L2OqtGSZ6lbWt8ODomWg/stream/a43142a5-0ed3-418f-8555-c3c827ffeedb:MRN2/variant/29c0c18607bedb06b1e33d6b692180f4/bandwidth/1291125.m3u8
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 
 
