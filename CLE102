@@ -14,7 +14,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5bf4808585
 
 
 #EXTINF:-1 group-title="Fireplace" , Festive Fireplace **
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/614501c653ceee000772b0ca/master.m3u8?
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/614501c653ceee000772b0ca/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 #EXTINF:-1 group-title="Fireplace" , Holiday Lights **
