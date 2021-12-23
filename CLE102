@@ -84,12 +84,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9ccd538661290009ecbd
 
 
 
-#EXTINF:-1 group-title="Christmas TV" ,
-Home for the Holidays 🎅 HD
+#EXTINF:-1 group-title="Christmas TV" , Home for the Holidays 🎅 HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7f8698ec435a000785810b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
 
-#EXTINF:-1 group-title="Christmas TV" , 
-Festive Fireplace 🎅 HD
+#EXTINF:-1 group-title="Christmas TV" , Festive Fireplace 🎅 HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/614501c653ceee000772b0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
 
 
