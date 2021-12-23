@@ -65,6 +65,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618ab1f17591
 #EXTINF:-1 group-title="Holiday TV" , Holiday Movie Favorites *By Lifetime
 https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
 
+#EXTINF:-1 group-title="Holiday TV" , Redbox Holiday
+https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
 #EXTINF:-1 group-title="Holiday TV" , Pluto Christmas 
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=6e272c0d-e2c7-4dc0-abee-65848eacf569&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=6e272c0d-e2c7-4dc0-abee-65848eacf569&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=96.0.4664&marketingRegion=US&serverSideAds=true&sessionID=324addec-637d-11ec-8ed3-0242ac110003&sid=324addec-637d-11ec-8ed3-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNlZTE3NTllLTQ0MzMtNDE4Yy05YTRlLWM4YjkzY2NlZmVmNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMjRhZGRlYy02MzdkLTExZWMtOGVkMy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk4LjE1Ny45Mi4xMTIiLCJjaXR5IjoiQ2xldmVsYW5kIiwicG9zdGFsQ29kZSI6IjQ0MTEzIiwiY291bnRyeSI6IlVTIiwiZG1hIjo1MTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0Ijo0MS40ODQzLCJkZXZpY2VMb24iOi04MS43MDM5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ni4wLjQ2NjQiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA2LjAtZjNlMmFjNDhkMWRiZTgxODlkYzc4NDc3NzEwOGI3MjViNGJlNmJlMiIsImNsaWVudElEIjoiNmUyNzJjMGQtZTJjNy00ZGMwLWFiZWUtNjU4NDhlYWNmNTY5IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTmV3X1lvcmsiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NXNJRHMtYXNvX01aTUkyQUhaR3BGZm1Jd0x5UFdfLWZRSWlRVW9oeXBkYXMiLCJmd1ZjSUQyQ29wcGEiOiI2ZTI3MmMwZC1lMmM3LTRkYzAtYWJlZS02NTg0OGVhY2Y1NjkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjZlMjcyYzBkLWUyYzctNGRjMC1hYmVlLTY1ODQ4ZWFjZjU2OSIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1c0lEcy1hc29fTVpNSTJBSFpHcEZmbUl3THlQV18tZlFJaVFVb2h5cGRhcyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1Q29QOW54em1ZSWlDQ1VhNzJrbVFBcjM3MF9LNWRVSmpYTVpZUVduYzkwdyJ9fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MDI0Mzc5MCwianRpIjoiMGYyYjcxZjYtNGE0Zi00NGQ3LTlkNWMtNTEwMGQ2YzAyZmU3IiwiaWF0IjoxNjQwMjE0OTkwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6Tm1VeU56SmpNR1F0WlRKak55MDBaR013TFdGaVpXVXROalU0TkRobFlXTm1OVFk1In0.jlVbLNwXqXJhozNm6l-eh9pzu0TktAhCpoisxU550oc&masterJWTPassthrough=true
 
@@ -105,6 +108,8 @@ https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/pl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-xplore-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=eda725d024765773af0276c938e37cb9&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=litton_hearst_television&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
+#EXTINF:-1 group-title="Nature", Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
 
 
@@ -172,6 +177,11 @@ https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
+#EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
 #EXTINF:-1 group-title="Westerns", FilmRise Westerns
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Westerns", Western Movie
@@ -195,6 +205,15 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index-1640127260-now.m3u8?t
 https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 #EXTINF:-1 group-title="Westerns", TVS Classic Movies (480p)  (Classic)
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 group-title="Westerns",  American Clasics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
