@@ -68,12 +68,202 @@ https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Christmas TV" , Redbox Holiday
 https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
-#EXTINF:-1 group-title="Christmas TV" , Pluto Christmas 
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=6e272c0d-e2c7-4dc0-abee-65848eacf569&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=6e272c0d-e2c7-4dc0-abee-65848eacf569&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=96.0.4664&marketingRegion=US&serverSideAds=true&sessionID=324addec-637d-11ec-8ed3-0242ac110003&sid=324addec-637d-11ec-8ed3-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNlZTE3NTllLTQ0MzMtNDE4Yy05YTRlLWM4YjkzY2NlZmVmNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzMjRhZGRlYy02MzdkLTExZWMtOGVkMy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk4LjE1Ny45Mi4xMTIiLCJjaXR5IjoiQ2xldmVsYW5kIiwicG9zdGFsQ29kZSI6IjQ0MTEzIiwiY291bnRyeSI6IlVTIiwiZG1hIjo1MTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0Ijo0MS40ODQzLCJkZXZpY2VMb24iOi04MS43MDM5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ni4wLjQ2NjQiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA2LjAtZjNlMmFjNDhkMWRiZTgxODlkYzc4NDc3NzEwOGI3MjViNGJlNmJlMiIsImNsaWVudElEIjoiNmUyNzJjMGQtZTJjNy00ZGMwLWFiZWUtNjU4NDhlYWNmNTY5IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTmV3X1lvcmsiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NXNJRHMtYXNvX01aTUkyQUhaR3BGZm1Jd0x5UFdfLWZRSWlRVW9oeXBkYXMiLCJmd1ZjSUQyQ29wcGEiOiI2ZTI3MmMwZC1lMmM3LTRkYzAtYWJlZS02NTg0OGVhY2Y1NjkiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjZlMjcyYzBkLWUyYzctNGRjMC1hYmVlLTY1ODQ4ZWFjZjU2OSIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1c0lEcy1hc29fTVpNSTJBSFpHcEZmbUl3THlQV18tZlFJaVFVb2h5cGRhcyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1Q29QOW54em1ZSWlDQ1VhNzJrbVFBcjM3MF9LNWRVSmpYTVpZUVduYzkwdyJ9fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MDI0Mzc5MCwianRpIjoiMGYyYjcxZjYtNGE0Zi00NGQ3LTlkNWMtNTEwMGQ2YzAyZmU3IiwiaWF0IjoxNjQwMjE0OTkwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6Tm1VeU56SmpNR1F0WlRKak55MDBaR013TFdGaVpXVXROalU0TkRobFlXTm1OVFk1In0.jlVbLNwXqXJhozNm6l-eh9pzu0TktAhCpoisxU550oc&masterJWTPassthrough=true
+#EXTINF:-1 group-title="Christmas TV" ,Holiday Movies 🎅 HD
+https://d2wkw6golvkrrh.cloudfront.net/amgholidaymovie/playlist.m3u8?l1br3&date1030&SSgSc&SsgEPG&catChristmas
+
+#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites by Lifetime
+https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&SsgEPG&catChristmas
 
 
-#EXTINF:-1 group-title="Christmas TV" ,  Pluto Misletoe 
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?advertisingId=&appName=web&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&app_name=web&clientDeviceType=0&clientID=678dfa8f-22f4-4c5b-894f-b196fcf21935&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=678dfa8f-22f4-4c5b-894f-b196fcf21935&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=96.0.4664&marketingRegion=US&serverSideAds=true&sessionID=8f34a716-6379-11ec-bd1a-0242ac110003&sid=8f34a716-6379-11ec-bd1a-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNlZTE3NTllLTQ0MzMtNDE4Yy05YTRlLWM4YjkzY2NlZmVmNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4ZjM0YTcxNi02Mzc5LTExZWMtYmQxYS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk4LjE1Ny45Mi4xMTIiLCJjaXR5IjoiQ2xldmVsYW5kIiwicG9zdGFsQ29kZSI6IjQ0MTEzIiwiY291bnRyeSI6IlVTIiwiZG1hIjo1MTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0Ijo0MS40ODQzLCJkZXZpY2VMb24iOi04MS43MDM5LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVuIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5Ni4wLjQ2NjQiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA2LjAtZjNlMmFjNDhkMWRiZTgxODlkYzc4NDc3NzEwOGI3MjViNGJlNmJlMiIsImNsaWVudElEIjoiNjc4ZGZhOGYtMjJmNC00YzViLTg5NGYtYjE5NmZjZjIxOTM1IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTmV3X1lvcmsiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IlhZNjM5NXNJRHMtYXNvX01aTUkyQUhaR3BGZm1Jd0x5UFdfLWZRSWlRVW9oeXBkYXMiLCJmd1ZjSUQyQ29wcGEiOiI2NzhkZmE4Zi0yMmY0LTRjNWItODk0Zi1iMTk2ZmNmMjE5MzUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjY3OGRmYThmLTIyZjQtNGM1Yi04OTRmLWIxOTZmY2YyMTkzNSIsImZtc192Y2lkMnR5cGUiOiJsaXZlcmFtcCIsImZtc19yYW1wX2lkIjoiWFk2Mzk1c0lEcy1hc29fTVpNSTJBSFpHcEZmbUl3THlQV18tZlFJaVFVb2h5cGRhcyIsImZtc19oaF9yYW1wX2lkIjoiaFk2Mzk1Q29QOW54em1ZSWlDQ1VhNzJrbVFBcjM3MF9LNWRVSmpYTVpZUVduYzkwdyJ9fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0MDI0MjIyOCwianRpIjoiMjM3ZjBhMjYtNTNmOC00ZDI5LWJiZGQtNmJhMjkwYjc1YWE5IiwiaWF0IjoxNjQwMjEzNDI4LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TmpjNFpHWmhPR1l0TWpKbU5DMDBZelZpTFRnNU5HWXRZakU1Tm1aalpqSXhPVE0xIn0.mOgvHcUaa0Mo_fNkaZJptCoYgxhRENHWa0kZVWdz2fQ&masterJWTPassthrough=true
+#EXTINF:-1 group-title="Christmas TV" ,Pluto TV Christmas 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" , Pluto TV Mistletoe 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+Home for the Holidays 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7f8698ec435a000785810b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+#EXTINF:-1 group-title="Christmas TV" , 
+Festive Fireplace 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/614501c653ceee000772b0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Crackling Fireplace 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+
+#EXTINF:-1 group-title="Christmas TV" , Holiday Lights 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Vevo Holiday 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcf059646c0cf000a293edd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" , Plex | Chritsmas Classics 🎄 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=440&l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Plex | Christmas Lights 🎄 HD
+https://ov-son.ottera.tv/son/cl/son_cl.m3u8?l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Holidays At Home 🎅 HD
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8?catSeasonal
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Gravitas Holiday 🎅 HD
+https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_GravitasMovies/playlist.m3u8?catSeasonal
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Jazz
+https://iheart-christmasjazz-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Classics
+https://iheart-ihearchristmaclassics-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas 
+https://iheart-iheartchristmas-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" , 🎄🎄 Video On Demand 🎄🎄 Holiday favorites and Christmas classics at your leisure!
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Christmas3
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY Jack Frost
+https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
+
+#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY The Snowman
+https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stream.m3u8
+
+#EXTINF:-1 group-title="Christmas TV" ,Santa and the Three Bears
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+
+
+#EXTINF:-1 group-title="Christmas TV" ,A Christmas Carol (1984) [cc]
+https://video-2.hatchfarmstudios.com/7b123a45-4120-4553-94ed-205ade2790c4/master.m3u8?d=1&b=2&ScRokuCh
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,TV: Bah Humduck! (2006)
+https://od.lk/s/MF8yNTIyMjA5ODRf/BahHumduck_2006_46m11s_CC_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,Christmas Cartoons
+https://od.lk/s/MF8yNTQ3MTcwMjBf/ChristmasCartoons_DVD-AC3-4x3_1h09m_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,A Miracle On 34th Streed (1955 TV Version)
+https://od.lk/s/MF8yNTQ3MTkxNzZf/MiracleOn34thSt_TV_1955-12-14_DVD-AC3-4x3_45m57s_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,Scrooge (1935) (Complete 77m UK Version)
+https://od.lk/s/MF8yNTQ3NDQ5NTdf/Scrooge_1935_DVD-AC3-4x3_1h17m_x264.mp4
+
+
+#EXTINF:-1 group-title="Christmas TV" ,It's A Wonderful Life (1946)
+https://od.lk/s/MF8yMjQyMzQyNDFf/Its-A-Wonderful-Life_1946_2h10m_4x3-540p.mp4
+
+
+#EXTINF:-1 group-title="Christmas TV" ,A&C Christmas Show (Color)
+https://od.lk/s/MF8yMjQxNDQyODRf/Colgate-Comedy-Hour_12-14-52_Abbott-Costello_Christmas%20Show_59m28s_Color_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,🎶 Christmas Radio 365 🎶
+https://od.lk/s/MF8yMjI2NDIxMDhf/Free2ViewTV_ChristmasRadio.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas 
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio North Pole Radio 
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Club Jam Christmas
+https://stream.revma.ihrhls.com/zc7252/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Rock 
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Classics 
+http://stream.revma.ihrhls.com/zc6137/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Country 
+http://stream.revma.ihrhls.com/zc4601/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Sacred Christmas
+https://stream.revma.ihrhls.com/zc7444/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,Seasonal Radio 
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?SeasonalRadio
+
+#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.1)
+https://s6.yesstreaming.net:17082/stream
+
+#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.2)
+http://s6.yesstreaming.net:7082/stream
+
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+
+
+
+Vevo Holiday 🎅 HD
+https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8?catSeasonal
 
 
 
