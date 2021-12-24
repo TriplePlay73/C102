@@ -238,7 +238,7 @@ http://s6.yesstreaming.net:7082/stream
 
 
 
-Vevo Holiday 🎅 HD
+#EXTINF:-1 group-title="Christmas TV" , Vevo Holiday 🎅 HD
 https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8?catSeasonal
 
 
