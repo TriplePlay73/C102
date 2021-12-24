@@ -64,9 +64,6 @@ https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlis
 #EXTINF:-1 group-title="Christmas TV" ,Holiday Movies 🎅 HD
 https://d2wkw6golvkrrh.cloudfront.net/amgholidaymovie/playlist.m3u8?l1br3&date1030&SSgSc&SsgEPG&catChristmas
 
-#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites by Lifetime
-https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&SsgEPG&catChristmas
-
 
 #EXTINF:-1 group-title="Christmas TV" ,Pluto TV Christmas 🎅 HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
