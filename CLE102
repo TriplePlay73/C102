@@ -481,15 +481,15 @@ https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/
 
 
 
-#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm
-https://stream.viloud.tv/bytBWHNZK05kWVo1QUo0aSthNzBCOEdCaWZCWi9WZFhWRmtsVjFGb3hJZHVuNUlmRmc4alFRdzZkVEpHTEZTZC1qWEdnWGlJVTFsZVFPT2k2ZXJQZE1nPT0/live.m3u8
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Brighteon
+https://rtmp-edge.brighteon.com/hls/pete-santilli-live/index.m3u8
 
 #EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Rumble
 https://live-m794n2d7.rmbl.ws/slot-39/ngrp:tfej-p4na_all/playlist.m3u8?
 
 
-#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm DLive
-https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8?mobileweb=true
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Rokfin
+https://stream.v.rokfin.com/mB6hrQSxWKPTlBovhXbx4vV801fY4alUfUj8HXsKkm6A.m3u8
 
 
 #EXTINF:-1 group-title="News" ,Infowars 1 *Direct Link
