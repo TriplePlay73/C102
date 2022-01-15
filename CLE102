@@ -416,6 +416,8 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="News" ,Americas Voice *Roku
 https://8430d785459544a5aa0fc4d83bd3097c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_AmericasVoice/playlist.m3u8?ads.wurl_channel=419&ads.wurl_name=AmericasVoice&ads.bmodel=bm1&ads.channelStore=us&ads.content=5525024e9e8054d4ad1cf9fadbfcf8c8&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=americas_voice&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5525024e9e8054d4ad1cf9fadbfcf8c8&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=americas_voice&channel_id=151908&channelStore=us
 
+#EXTINF:-1 group-title="News" ,Americas Voice *Rumble
+https://live-hr6yv36f.rmbl.ws/slot-43/ngrp:kned-apwa_all/playlist.m3u8?
 
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
 
