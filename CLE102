@@ -466,6 +466,9 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 group-title="News" , RSBN *1080
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
+#EXTINF:-1 group-title="News" , RSBN *GETTR
+https://stream.video.gettr.com/eYsOOFZFW7UBQc01DXWLiJPonxTPPJitUbcMzhIQNQG4.m3u8
+
 #EXTINF:-1 group-title="News" , Frank Speech *1080
 https://ltv-dl.frankspeech.com/hls/frank/mainchannel1/playlist.m3u8
 
