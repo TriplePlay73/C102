@@ -1,310 +1,9 @@
 #EXTM3U
-Video On Demand
 
-#EXTINF:-1 group-title="Fireplace" , Fireplace - Naturescape
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
 
-#EXTINF:-1 group-title="Fireplace" , Festive Fireplace 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/614501c653ceee000772b0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-
-#EXTINF:-1 group-title="Fireplace" , Crackling Fireplace 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-#EXTINF:-1 group-title="Fireplace" ,  Holiday Lights 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-#EXTINF:-1 group-title="Fireplace" , Plex | Christmas Lights 🎄 HD
-https://ov-son.ottera.tv/son/cl/son_cl.m3u8?l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
-
-
-#EXTINF:-1 group-title="Fireplace" ,  Fireplace - Distro
-https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
-https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
-
-#EXTINF:-1 group-title="Fireplace" , Anytime Fireplace
-https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
-
-#EXTINF:-1 group-title="Fireplace" , Yule Log *Roku
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Fireplace" ,  2h
-https://sp.rmbl.ws/s8/2/X/e/q/J/XeqJc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Fireplace" ,  7h
-https://sp.rmbl.ws/s8/2/n/U/3/P/nU3Pb.caa.1.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Fireplace" , 6h
-https://sp.rmbl.ws/s8/2/J/o/2/F/Jo2Fb.caa.1.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Fireplace" , 12h
-https://sp.rmbl.ws/s8/2/T/8/r/K/T8rKc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Fireplace" , 2h
-https://sp.rmbl.ws/s8/2/W/t/R/J/WtRJc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Fireplace" ,  4h
-https://sp.rmbl.ws/s8/2/P/3/s/Y/P3sYb.caa.mp4?u=0&b=0
-
-#****************************
-
-#EXTINF:-1 group-title="Christmas TV" , Eddie's Wonderland 
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618ab1f175913b296fbe56db.m3u8?X-Plex-Token=6nibnUZUJTpjFBV-mST1
-
-#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites By Lifetime *Roku
-https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites by Lifetime *Vizio
-https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&SsgEPG&catChristmas
-
-
-#EXTINF:-1 group-title="Christmas TV" , Redbox Holiday
-https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-#EXTINF:-1 group-title="Christmas TV" ,Holiday Movies 🎅 HD
-https://d2wkw6golvkrrh.cloudfront.net/amgholidaymovie/playlist.m3u8?l1br3&date1030&SSgSc&SsgEPG&catChristmas
-
-
-#EXTINF:-1 group-title="Christmas TV" ,Pluto TV Christmas 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-
-#EXTINF:-1 group-title="Christmas TV" , Pluto TV Mistletoe 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-
-
-#EXTINF:-1 group-title="Christmas TV" , Home for the Holidays 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7f8698ec435a000785810b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,Vevo Holiday 🎅 HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcf059646c0cf000a293edd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
-
-
-#EXTINF:-1 group-title="Christmas TV" , Plex | Chritsmas Classics 🎄 HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=440&l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,Holidays At Home 🎅 HD
-https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8?catSeasonal
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,Gravitas Holiday 🎅 HD
-https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_GravitasMovies/playlist.m3u8?catSeasonal
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Jazz
-https://iheart-christmasjazz-1-us.roku.wurl.tv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Classics
-https://iheart-ihearchristmaclassics-1-us.roku.wurl.tv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas 
-https://iheart-iheartchristmas-1-us.roku.wurl.tv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" , 🎄🎄 Video On Demand 🎄🎄 Holiday favorites and Christmas classics at your leisure!
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Christmas3
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY Jack Frost
-https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
-
-#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY The Snowman
-https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stream.m3u8
-
-#EXTINF:-1 group-title="Christmas TV" ,Santa and the Three Bears
-https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
-
-
-#EXTINF:-1 group-title="Christmas TV" ,A Christmas Carol (1984) [cc]
-https://video-2.hatchfarmstudios.com/7b123a45-4120-4553-94ed-205ade2790c4/master.m3u8?d=1&b=2&ScRokuCh
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,An American Christmas Carol
-https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,TV: Bah Humduck! (2006)
-https://od.lk/s/MF8yNTIyMjA5ODRf/BahHumduck_2006_46m11s_CC_x264.mp4
-
-#EXTINF:-1 group-title="Christmas TV" ,Christmas Cartoons
-https://od.lk/s/MF8yNTQ3MTcwMjBf/ChristmasCartoons_DVD-AC3-4x3_1h09m_x264.mp4
-
-#EXTINF:-1 group-title="Christmas TV" ,A Miracle On 34th Streed (1955 TV Version)
-https://od.lk/s/MF8yNTQ3MTkxNzZf/MiracleOn34thSt_TV_1955-12-14_DVD-AC3-4x3_45m57s_x264.mp4
-
-#EXTINF:-1 group-title="Christmas TV" ,Scrooge (1935) (Complete 77m UK Version)
-https://od.lk/s/MF8yNTQ3NDQ5NTdf/Scrooge_1935_DVD-AC3-4x3_1h17m_x264.mp4
-
-
-#EXTINF:-1 group-title="Christmas TV" ,It's A Wonderful Life (1946)
-https://od.lk/s/MF8yMjQyMzQyNDFf/Its-A-Wonderful-Life_1946_2h10m_4x3-540p.mp4
-
-
-#EXTINF:-1 group-title="Christmas TV" ,A&C Christmas Show (Color)
-https://od.lk/s/MF8yMjQxNDQyODRf/Colgate-Comedy-Hour_12-14-52_Abbott-Costello_Christmas%20Show_59m28s_Color_x264.mp4
-
-#EXTINF:-1 group-title="Christmas TV" ,🎶 Christmas Radio 365 🎶
-https://od.lk/s/MF8yMjI2NDIxMDhf/Free2ViewTV_ChristmasRadio.mp4
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas 
-http://stream.revma.ihrhls.com/zc4596/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio North Pole Radio 
-http://stream.revma.ihrhls.com/zc6734/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas R&B
-https://stream.revma.ihrhls.com/zc6136/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHR Club Jam Christmas
-https://stream.revma.ihrhls.com/zc7252/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Rock 
-http://stream.revma.ihrhls.com/zc6410/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Classics 
-http://stream.revma.ihrhls.com/zc6137/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Country 
-http://stream.revma.ihrhls.com/zc4601/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Jazz
-https://stream.revma.ihrhls.com/zc7251/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,iHR Sacred Christmas
-https://stream.revma.ihrhls.com/zc7444/hls.m3u8?CatXmas
-
-#EXTINF:-1 group-title="Christmas TV" ,Seasonal Radio 
-https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?SeasonalRadio
-
-#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.1)
-https://s6.yesstreaming.net:17082/stream
-
-#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.2)
-http://s6.yesstreaming.net:7082/stream
-
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-#EXTINF:-1 group-title="Christmas TV" ,
-
-
-
-
-
-
-#EXTINF:-1 group-title="Christmas TV" , Vevo Holiday 🎅 HD
-https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8?catSeasonal
-
-
-
-#EXTINF:-1 group-title="Christmas TV",  Vevo Holiday
-https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Westerns",  Updated 12-17-21
+#EXTINF:-1 group-title="Weather", Updated 1-26-2022
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
-
-#EXTINF:-1 group-title="Nature", Love Nature
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Nature", The Jack Hanna Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-jackhannah-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=458e79f7697a5a54ac43162f32654e7a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=litton_hearst_television&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Nature", Outside TV
-https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&content=c011a8d859c85e289f8b0170cfbab2aa&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=outsidetv&bmodel=bm1&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="Nature", XPLORE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-xplore-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=eda725d024765773af0276c938e37cb9&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=litton_hearst_television&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-#EXTINF:-1 group-title="Nature", Outdoor America
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Video On Demand", Archbishop Carlo Maria Vigano *“Let’s Respond to Corruption with Honesty, to Lies with Truth, to Self-Interest with Generous Dedication to Public Affairs”
-https://sp.rmbl.ws/s8/2/n/Z/e/O/nZeOc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Video On Demand", MUST SEE: Robert Kennedy, Jr.'s Incredible Speech About The Bill of Rights 12-5-2021
-https://sp.rmbl.ws/s8/2/F/-/w/O/F-wOc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="Video On Demand", Comedian- Jeff Allen 1h 9m 33s
-https://www.youtube.com/watch?v=EEkgTv3LEAc
-
-#EXTINF:-1 group-title="Video On Demand", Blind Joe - I Will Not Comply (Country music Video)
-https://www.youtube.com/watch?v=7G3e48wBMvk
-
-#EXTINF:-1 group-title="Video On Demand", *Must See, 10-1-21 Dr. Peter McCullough on everything Covid-19 vaccines
-https://sp.rmbl.ws/s8/2/z/u/F/w/zuFwc.caa.mp4?u=0&b=0
-
-#EXTINF:-1 group-title="The Hill", US Senate 10-28-21
-https://granicusliveus1-a.akamaihd.net/senate/G0988_005/playlist.m3u8
-
-
-#EXTINF:-1 group-title="The Hill", US HOUSE 12-14-21
-https://houseliveprod.streaming.mediaservices.windows.net/f5dc2731-b228-469a-97fc-b73bd61672b6/54b9127d-b278-4340-a93e-636f542c5966.ism/manifest(format=mpd-time-csf)
 
 #EXTINF:-1 group-title="Weather",  Fox Weather | Webstream
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -325,82 +24,6 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Weather",  WeatherSpy (720p)  (Weather)
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Westerns",  Updated 12-22-21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-#EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-
-
-#EXTINF:-1 group-title="Westerns", FilmRise Westerns
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Westerns", Western Movie
-https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 group-title="Westerns", Cinevault Westerns | HD
-https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
-#EXTINF:-1 group-title="Westerns", Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Westerns", Pluto TV Westerns
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Westerns", STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 group-title="Westerns", Redbox War & Westerns
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="Westerns", Westerns 4U
-https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
-
-#EXTINF:-1 group-title="Westerns", TVS Western Movie
-https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index-1640127260-now.m3u8?token=1ad6ccd7618c4e4e53c0432ef610c3ad
-#EXTINF:-1 group-title="Westerns", TVS Hi Tops
-https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 group-title="Westerns", TVS Classic Movies (480p)  (Classic)
-https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-
-#EXTINF:-1 group-title="Westerns",  American Clasics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-
-#EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
-https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Cleveland" , WKYC News CH 3
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
-#EXTINF:-1 group-title="Cleveland" , WEWS News CH 5
-https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
-#EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
-https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
-#EXTINF:-1 group-title="Cleveland" , TV 20 - Cleveland
-https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
-
-
-#EXTINF:-1 group-title="Cleveland", WVIZ PBS - Cleveland
-https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
 
 
 
@@ -439,17 +62,18 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 
 
-#EXTINF:-1 group-title="News", Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 
 
 #EXTINF:-1 group-title="News", Fox News Temp Link
-https://h5.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDIyIDM6NDQ6NDAgQU0maGFzaF92YWx1ZT14YW9QZmU4T2hldXg1ZU96OUFvNlRnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
 
 #EXTINF:-1 group-title="News", Fox News
 https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="News", PragerU
+https://live-35c5aeb.rmbl.ws/slot-40/ngrp:em9q-atna_all/playlist.m3u8?
 
 
 #EXTINF:-1 group-title="News", The Gateway Pundit LIVE *Rumble
@@ -466,20 +90,13 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 group-title="News" , RSBN *1080
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
-#EXTINF:-1 group-title="News" , RSBN *GETTR
-https://stream.video.gettr.com/eYsOOFZFW7UBQc01DXWLiJPonxTPPJitUbcMzhIQNQG4.m3u8
+
 
 #EXTINF:-1 group-title="News" , Frank Speech *1080
-https://ltv-dl.frankspeech.com/hls/frank/mainchannel1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="News" , The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
-
-
-
-
-
-
 
 
 
@@ -546,8 +163,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 
 http://sots.ohio.gov/live/stream_10/index.m3u8
-
-
 
 
 
@@ -1106,244 +721,25 @@ https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
 
-
-
-
-#EXTINF:-1 group-title="Kids", Updated 7.23.21
+#EXTINF:-1 group-title="Westerns",  Updated 12-17-21
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
-
-#EXTINF:-1 group-title="Kids",Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney Jr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney XD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) East HD
-https://live-cdn.pbskids.org/out/u/est.m3u8
-
-#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) Hawaii HD
-https://live-cdn.pbskids.org/out/u/hast.m3u8
-
-#EXTINF:-1 group-title="Kids", tvo KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 group-title="Kids", Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="Kids", Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="Kids", Totally-Turtles
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Dora-TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", After-School-Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Tween
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Kids", Pocketwatch 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Little-Baby-Bum
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", ABC Kids
-https://c.mjh.nz/101002210222/
-
-
-#EXTINF:-1 group-title="Kids", Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", Toon Goggles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", The LEGO Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", HappyKids.tv
-https://happykids-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Cocoro
-https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Fireman Sam
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Ketchup TV
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Yo Gabba Gabba
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
-#EXTINF:-1 group-title="Kids",  ABC ME
-https://c.mjh.nz/101002210224/
-
-#EXTINF:-1 group-title="Kids",  GIGGLE Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", FGTV Funnelvision
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",  Adult Swim live stream 
-https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
-
-#EXTINF:-1 group-title="Kids",   Rick and Morty *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Robot Chicken *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Aqua Teen Hunger Force *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Mr. Pickles *Adult Swim
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Squidbillies *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Zoo Moo (720p)  (Kids)
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",  Metalocalypse *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Samurai Jack *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  The Venture Bros. *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Dream Corp LLC *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Your Pretty Face is Going to Hell *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Last Stream on the Left *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Off The Air / Smalls *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Channel 5 *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Infomercials *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Black Jesus *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Relaxing Fish *Adult Swim
-https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids 2",   Updated 1.30.21
+#EXTINF:-1 group-title="Nature", Love Nature
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
-#EXTINF:-1 group-title="Kids 2", Classic Toons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Nature", The Jack Hanna Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-jackhannah-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=458e79f7697a5a54ac43162f32654e7a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=litton_hearst_television&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Nature", Outside TV
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&content=c011a8d859c85e289f8b0170cfbab2aa&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=outsidetv&bmodel=bm1&channel_id=151908&channelStore=us&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Nature", XPLORE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-xplore-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=eda725d024765773af0276c938e37cb9&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=litton_hearst_television&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
-#EXTINF:-1 group-title="Kids 2",TVS Pinball Network (1080p)  
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Kartoon Circus  (Kids)
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
-
-#EXTINF:-1 group-title="Kids 2",  Super Simple Songs  (Kids)
-https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Pinkfong Baby Shark  (Kids)
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  HappyKids  (Kids)
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  HappyKids Junior  (Kids)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids 2",  KidsFlix  (Kids)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
-#EXTINF:-1 group-title="Kids 2",  FGTV (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Camp Spoopy  (Kids)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 group-title="Kids 2",  The Official LEGO Channel  (Kids)
-https://legochannel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lego Channel (1080p)  (Kids)
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lego Looney Tunes (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Master Builder (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lets Play Minecraft (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Toy Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Fun Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Cute Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Brat TV (1080p)  (Kids)
-https://brat-rakuten.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Nature", Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
 
 #EXTINF:-1 group-title="Music",  Updated 1.30.21
@@ -1615,13 +1011,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playl
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1  group-title="Local Radio", Updated 1.28.21
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
@@ -1679,6 +1068,324 @@ http://18073.live.streamtheworld.com:3690/WENZFMAAC.aac?pname=StandardPlayerV4&p
 
 #EXTINF:-1  group-title="Local Radio", WTAM 1100 AM
 https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=34bf6987-2ed9-466b-a073-bb5143bf1921&clientType=web&profileid=3604227962&host=webapp.US&zip=44109&callLetters=WTAM-AM&streamid=1749&campid=header&pname=1263&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&listenerId=c3b9b1e763f89cf40dcdb007611f95ac&at=0&birthYear=null&modTime=1611779452710&aw_0_1st.skey=1611779452&us_privacy=1-N-&devicename=web-desktop&playedFrom=59&age=null&cid=index.html&territory=US&stationid=1749
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Westerns",  Updated 12-22-21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+#EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+#EXTINF:-1 group-title="Westerns", FilmRise Westerns
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Westerns", Western Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="Westerns", Cinevault Westerns | HD
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
+#EXTINF:-1 group-title="Westerns", Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Westerns", Pluto TV Westerns
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Westerns", STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 group-title="Westerns", Redbox War & Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 group-title="Westerns", Westerns 4U
+https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
+
+#EXTINF:-1 group-title="Westerns", TVS Western Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index-1640127260-now.m3u8?token=1ad6ccd7618c4e4e53c0432ef610c3ad
+#EXTINF:-1 group-title="Westerns", TVS Hi Tops
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 group-title="Westerns", TVS Classic Movies (480p)  (Classic)
+https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
+#EXTINF:-1 group-title="Westerns",  American Clasics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Cleveland" , WKYC News CH 3
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
+#EXTINF:-1 group-title="Cleveland" , WEWS News CH 5
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
+https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
+#EXTINF:-1 group-title="Cleveland" , TV 20 - Cleveland
+https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+
+#EXTINF:-1 group-title="Cleveland", WVIZ PBS - Cleveland
+https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Kids", Updated 7.23.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1 group-title="Kids",Boomerang
+https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Jr
+https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nicktoons
+https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney XD
+https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nickelodeon
+https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) East HD
+https://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) Hawaii HD
+https://live-cdn.pbskids.org/out/u/hast.m3u8
+
+#EXTINF:-1 group-title="Kids", tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 group-title="Kids", Nickelodeon
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids", Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids", Totally-Turtles
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Dora-TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", After-School-Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Tween
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Kids Animation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Kids", Pocketwatch 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Little-Baby-Bum
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", ABC Kids
+https://c.mjh.nz/101002210222/
+
+
+#EXTINF:-1 group-title="Kids", Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", The LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", HappyKids.tv
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Cocoro
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Fireman Sam
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Yo Gabba Gabba
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#EXTINF:-1 group-title="Kids",  ABC ME
+https://c.mjh.nz/101002210224/
+
+#EXTINF:-1 group-title="Kids",  GIGGLE Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", FGTV Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",  Adult Swim live stream 
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+
+#EXTINF:-1 group-title="Kids",   Rick and Morty *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Robot Chicken *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Aqua Teen Hunger Force *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Mr. Pickles *Adult Swim
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Squidbillies *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Zoo Moo (720p)  (Kids)
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",  Metalocalypse *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Samurai Jack *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  The Venture Bros. *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Dream Corp LLC *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Your Pretty Face is Going to Hell *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Last Stream on the Left *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Off The Air / Smalls *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Channel 5 *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Infomercials *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Black Jesus *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Relaxing Fish *Adult Swim
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Kids 2",   Updated 1.30.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Kids 2", Classic Toons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
+
+
+#EXTINF:-1 group-title="Kids 2",TVS Pinball Network (1080p)  
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Kartoon Circus  (Kids)
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+
+#EXTINF:-1 group-title="Kids 2",  Super Simple Songs  (Kids)
+https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Pinkfong Baby Shark  (Kids)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  HappyKids  (Kids)
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  HappyKids Junior  (Kids)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids 2",  KidsFlix  (Kids)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 group-title="Kids 2",  FGTV (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Camp Spoopy  (Kids)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 group-title="Kids 2",  The Official LEGO Channel  (Kids)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lego Channel (1080p)  (Kids)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lego Looney Tunes (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Master Builder (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lets Play Minecraft (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Toy Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Fun Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Cute Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Brat TV (1080p)  (Kids)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
 
 
 
@@ -1799,18 +1506,6 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?
 
 #EXTINF:-1 group-title="Music Video",  VH1  (Music)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3192,4 +2887,255 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 
 #EXTINF:-1 group-title="TV 18+", Rouge 
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+
+
+
+
+Video On Demand
+
+#EXTINF:-1 group-title="Fireplace" , Fireplace - Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Fireplace" , Festive Fireplace 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/614501c653ceee000772b0ca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Fireplace" , Crackling Fireplace 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+#EXTINF:-1 group-title="Fireplace" ,  Holiday Lights 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+#EXTINF:-1 group-title="Fireplace" , Plex | Christmas Lights 🎄 HD
+https://ov-son.ottera.tv/son/cl/son_cl.m3u8?l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
+
+
+#EXTINF:-1 group-title="Fireplace" ,  Fireplace - Distro
+https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
+https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+
+#EXTINF:-1 group-title="Fireplace" , Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
+
+#EXTINF:-1 group-title="Fireplace" , Yule Log *Roku
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Fireplace" ,  2h
+https://sp.rmbl.ws/s8/2/X/e/q/J/XeqJc.caa.mp4?u=0&b=0
+
+#EXTINF:-1 group-title="Fireplace" ,  7h
+https://sp.rmbl.ws/s8/2/n/U/3/P/nU3Pb.caa.1.mp4?u=0&b=0
+
+#EXTINF:-1 group-title="Fireplace" , 6h
+https://sp.rmbl.ws/s8/2/J/o/2/F/Jo2Fb.caa.1.mp4?u=0&b=0
+
+#EXTINF:-1 group-title="Fireplace" , 12h
+https://sp.rmbl.ws/s8/2/T/8/r/K/T8rKc.caa.mp4?u=0&b=0
+
+#EXTINF:-1 group-title="Fireplace" , 2h
+https://sp.rmbl.ws/s8/2/W/t/R/J/WtRJc.caa.mp4?u=0&b=0
+
+#EXTINF:-1 group-title="Fireplace" ,  4h
+https://sp.rmbl.ws/s8/2/P/3/s/Y/P3sYb.caa.mp4?u=0&b=0
+
+#****************************
+
+#EXTINF:-1 group-title="Christmas TV" , Eddie's Wonderland 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-618ab1f175913b296fbe56db.m3u8?X-Plex-Token=6nibnUZUJTpjFBV-mST1
+
+#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites By Lifetime *Roku
+https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Christmas TV" , Holiday Movie Favorites by Lifetime *Vizio
+https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8?l1br3&date1117&SsgEPG&catChristmas
+
+
+#EXTINF:-1 group-title="Christmas TV" , Redbox Holiday
+https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+#EXTINF:-1 group-title="Christmas TV" ,Holiday Movies 🎅 HD
+https://d2wkw6golvkrrh.cloudfront.net/amgholidaymovie/playlist.m3u8?l1br3&date1030&SSgSc&SsgEPG&catChristmas
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Pluto TV Christmas 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" , Pluto TV Mistletoe 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+
+#EXTINF:-1 group-title="Christmas TV" , Home for the Holidays 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7f8698ec435a000785810b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Vevo Holiday 🎅 HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcf059646c0cf000a293edd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catSeasonal
+
+
+#EXTINF:-1 group-title="Christmas TV" , Plex | Chritsmas Classics 🎄 HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=440&l1br3&date1220&PlexEPG&PlexBaseLink&catChristmas
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Holidays At Home 🎅 HD
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8?catSeasonal
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,Gravitas Holiday 🎅 HD
+https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_GravitasMovies/playlist.m3u8?catSeasonal
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Jazz
+https://iheart-christmasjazz-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas Classics
+https://iheart-ihearchristmaclassics-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeartChristmas 
+https://iheart-iheartchristmas-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" , 🎄🎄 Video On Demand 🎄🎄 Holiday favorites and Christmas classics at your leisure!
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Christmas3
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY Jack Frost
+https://cloudfront.tubi.video/bd17f7cd-a624-4747-91d0-3d8b8149c265/ftxmihnp/stream.m3u8
+
+#EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY The Snowman
+https://cloudfront.tubi.video/02b58b24-30a8-4344-a7c6-993b69bb4e8b/rpbclk3m/stream.m3u8
+
+#EXTINF:-1 group-title="Christmas TV" ,Santa and the Three Bears
+https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
+
+
+#EXTINF:-1 group-title="Christmas TV" ,A Christmas Carol (1984) [cc]
+https://video-2.hatchfarmstudios.com/7b123a45-4120-4553-94ed-205ade2790c4/master.m3u8?d=1&b=2&ScRokuCh
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,An American Christmas Carol
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,TV: Bah Humduck! (2006)
+https://od.lk/s/MF8yNTIyMjA5ODRf/BahHumduck_2006_46m11s_CC_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,Christmas Cartoons
+https://od.lk/s/MF8yNTQ3MTcwMjBf/ChristmasCartoons_DVD-AC3-4x3_1h09m_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,A Miracle On 34th Streed (1955 TV Version)
+https://od.lk/s/MF8yNTQ3MTkxNzZf/MiracleOn34thSt_TV_1955-12-14_DVD-AC3-4x3_45m57s_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,Scrooge (1935) (Complete 77m UK Version)
+https://od.lk/s/MF8yNTQ3NDQ5NTdf/Scrooge_1935_DVD-AC3-4x3_1h17m_x264.mp4
+
+
+#EXTINF:-1 group-title="Christmas TV" ,It's A Wonderful Life (1946)
+https://od.lk/s/MF8yMjQyMzQyNDFf/Its-A-Wonderful-Life_1946_2h10m_4x3-540p.mp4
+
+
+#EXTINF:-1 group-title="Christmas TV" ,A&C Christmas Show (Color)
+https://od.lk/s/MF8yMjQxNDQyODRf/Colgate-Comedy-Hour_12-14-52_Abbott-Costello_Christmas%20Show_59m28s_Color_x264.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,🎶 Christmas Radio 365 🎶
+https://od.lk/s/MF8yMjI2NDIxMDhf/Free2ViewTV_ChristmasRadio.mp4
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas 
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio North Pole Radio 
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas R&B
+https://stream.revma.ihrhls.com/zc6136/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Club Jam Christmas
+https://stream.revma.ihrhls.com/zc7252/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Rock 
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Classics 
+http://stream.revma.ihrhls.com/zc6137/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Christmas Country 
+http://stream.revma.ihrhls.com/zc4601/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHeart Radio Christmas Jazz
+https://stream.revma.ihrhls.com/zc7251/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,iHR Sacred Christmas
+https://stream.revma.ihrhls.com/zc7444/hls.m3u8?CatXmas
+
+#EXTINF:-1 group-title="Christmas TV" ,Seasonal Radio 
+https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?SeasonalRadio
+
+#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.1)
+https://s6.yesstreaming.net:17082/stream
+
+#EXTINF:-1 group-title="Christmas TV" ,Conyers OTR Seasonal (Sc.2)
+http://s6.yesstreaming.net:7082/stream
+
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+#EXTINF:-1 group-title="Christmas TV" ,
+
+
+
+
+
+
+#EXTINF:-1 group-title="Christmas TV" , Vevo Holiday 🎅 HD
+https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8?catSeasonal
+
+
+
+#EXTINF:-1 group-title="Christmas TV",  Vevo Holiday
+https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
 
