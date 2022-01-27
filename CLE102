@@ -94,7 +94,7 @@ https://live-fd164e1.rmbl.ws/slot-31/ngrp:u30y-v3ha_all/playlist.m3u8?
 https://rumble.com/vipqyr-live-now-newsmax-live-stream.html|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="News" ,NTD News
-https://www.ntd.com/live.html|autowebzoom=120scroll=50,100
+https://ntd02.akamaized.net/NTDA/index.m3u8
 
 #EXTINF:-1 group-title="News" , RT America
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
