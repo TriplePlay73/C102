@@ -68,6 +68,12 @@ https://8430d785459544a5aa0fc4d83bd3097c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="News" ,Americas Voice *Rumble
 https://live-hr6yv36f.rmbl.ws/slot-43/ngrp:kned-apwa_all/playlist.m3u8?
 
+
+#EXTINF:-1 group-title="News" ,Americas Voice *Gettr
+https://gettr.com/streaming/pqoayxb7d0|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="News", One America News Network *Temp Link
 
 
