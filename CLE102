@@ -84,6 +84,10 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D58
 #EXTINF:-1 group-title="News" ,Newsmax TV *Rumble
 https://live-fd164e1.rmbl.ws/slot-31/ngrp:u30y-v3ha_all/playlist.m3u8?
 
+#EXTINF:-1 group-title="News" ,Newsmax TV *Rumble web
+https://rumble.com/vipqyr-live-now-newsmax-live-stream.html|autowebzoom=120scroll=50,100
+
+
 
 #EXTINF:-1 group-title="News" , RT America
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
