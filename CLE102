@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Olympics 2022",
+#EXTINF:-1 group-title="Olympics 2022", Olympc Channel 
 http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8
 
 
