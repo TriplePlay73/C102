@@ -623,6 +623,10 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 group-title="USTVGO", ABC
 https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", ABC New York
+https://ustvgo.tv/abc-7-new-york
+
 #EXTINF:-1 group-title="USTVGO", ACC Network
 https://ustvgo.tv/acc-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", AMC
@@ -641,6 +645,10 @@ https://ustvgo.tv/bravo-channel-live-free|autowebzoom=120scroll=50,100
 https://ustvgo.tv/c-span|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", CBS
 https://ustvgo.tv/cbs-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", CBS New York
+https://ustvgo.tv/cbs-2-new-york
+
 #EXTINF:-1 group-title="USTVGO", CBS SPORTS
 https://ustvgo.tv/cbs-sports-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Cinemax
@@ -653,6 +661,10 @@ https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
 https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", The CW
 https://ustvgo.tv/the-cw-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", The CW New York
+https://ustvgo.tv/the-cw-11-new-york/
+
 #EXTINF:-1 group-title="USTVGO", Destination America
 https://ustvgo.tv/destination-america|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Disney Channel
@@ -675,6 +687,11 @@ https://ustvgo.tv/espnews|autowebzoom=120scroll=50,100
 https://ustvgo.tv/food-network-live-free|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", FOX
 https://ustvgo.tv/fox-hd-live-streaming|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", FOX Newy York
+https://ustvgo.tv/fox-5-new-york/
+
+
 #EXTINF:-1 group-title="USTVGO", Fox Business
 https://ustvgo.tv/fox-business-live-streaming-free|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Fox News
@@ -711,8 +728,8 @@ https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
 https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", NAT GEO WILD
 https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", NFL Network
-https://ustvgo.tv/nfl-network-live-free|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="USTVGO", NFL RedZone
 https://ustvgo.tv/nfl-redzone|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Nickelodeon
