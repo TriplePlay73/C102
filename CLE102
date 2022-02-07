@@ -11,12 +11,7 @@ https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=c39c1981a0a25ceb8deef626de550d56&platform=web&content_type=livefeed&content_rating=TVPG&is_roku_lat=1&studio_id=usatoday&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
-#EXTINF:-1 group-title="Olympics 2022",  Playboy
-http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Olympics 2022",  Private TV
-http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 #EXTINF:-1 group-title="Westerns",  Updated 12-17-21
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
@@ -135,8 +130,6 @@ https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 #EXTINF:-1 group-title="News", Fox News
 https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="News", Fox News
-https://www.livenewsmag.com/fox-news-live-stream|autowebzoom=120scroll=50,100
 
 
 
@@ -3214,6 +3207,11 @@ https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4c
 
 
 
+#EXTINF:-1 group-title="x",  Playboy
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
+
+#EXTINF:-1 group-title="x",  Private TV
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 
