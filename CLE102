@@ -130,13 +130,13 @@ https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 
 
 #EXTINF:-1 group-title="News", Fox News Temp Link
-https://h1.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNy8yMDIyIDM6NDM6MTUgQU0maGFzaF92YWx1ZT1sayt2VkVQWVJaaTlkaUpoSjRvWHJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 
 #EXTINF:-1 group-title="News", Fox News
 https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
 
-
-
+#EXTINF:-1 group-title="News", Fox News
+https://www.livenewsmag.com/fox-news-live-stream|autowebzoom=120scroll=50,100
 
 
 
