@@ -1,0 +1,83 @@
+#extm3u
+
+
+
+
+#EXTINF:-1 group-title="News" ,Americas Voice *Roku
+https://8430d785459544a5aa0fc4d83bd3097c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_AmericasVoice/playlist.m3u8?ads.wurl_channel=419&ads.wurl_name=AmericasVoice&ads.bmodel=bm1&ads.channelStore=us&ads.content=5525024e9e8054d4ad1cf9fadbfcf8c8&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=americas_voice&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5525024e9e8054d4ad1cf9fadbfcf8c8&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=americas_voice&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="News" ,Americas Voice *Rumble
+https://live-hr6yv36f.rmbl.ws/slot-43/ngrp:kned-apwa_all/playlist.m3u8?
+
+
+#EXTINF:-1 group-title="News" ,Americas Voice *Gettr
+https://gettr.com/streaming/pqoayxb7d0|autowebzoom=120scroll=50,100
+
+
+
+
+
+#EXTINF:-1 group-title="News" ,Newsmax TV *Direct Link
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?CMCD=cid%3D%22newsmaxlive%22%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
+
+
+
+#EXTINF:-1 group-title="News" ,Newsmax TV *Rumble
+https://live-fd164e1.rmbl.ws/slot-31/ngrp:u30y-v3ha_all/playlist.m3u8?
+
+#EXTINF:-1 group-title="News" ,Newsmax TV *Rumble web
+https://rumble.com/vipqyr-live-now-newsmax-live-stream.html|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="News" ,Alex Jones *Down
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="News" , Live From America
+https://live-fd164e1.rmbl.ws/slot-23/ngrp:6wt1-vmr5_all/playlist.m3u8?
+
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Brighteon
+https://rtmp-edge.brighteon.com/hls/pete-santilli-live/index.m3u8
+
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Rumble
+https://live-m794n2d7.rmbl.ws/slot-39/ngrp:tfej-p4na_all/playlist.m3u8?
+
+
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Rokfin
+https://stream.v.rokfin.com/mB6hrQSxWKPTlBovhXbx4vV801fY4alUfUj8HXsKkm6A.m3u8
+
+
+#EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily * Dlive
+https://live.prd.dlive.tv/hls/live/dlive-52122962.m3u8?web=true
+
+
+
+#EXTINF:-1 group-title="News" , Sky News Radio -AU
+https://ais-arn.streamguys1.com/au_033/playlist.m3u8?streamid=8319&zip=44144&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&listenerId=6d9e22455c83ad9253c133fd8e580a22&modTime=1623533734085&pname=OrganicWeb&profileid=1551770094&territory=US&uid=d174b15b-46d3-4ac6-a679-f9d33f94b2b2&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1623533734&terminalid=159&companionAds=true&playedFrom=60&us_privacy=1-N-&callLetters=KDNT-FL&devicename=web-mobile&stationid=8319&dist=iheart&aw_0_1st.ccaud=
+
+
+#EXTINF:-1 group-title="News" , Sky News Extra -AU
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?__nn__=5663227763001&hdnea=st=1623531600~exp=1623535200~acl=/hls/live/2002689/*~hmac=a028e43ee4683c901502dd24d7d6993b636c7dbda5cc3b4b8670af2428c9b1a8
+#EXTINF:-1 group-title="News" , Sky News Extra 2 -AU
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?__nn__=5663227763001&hdnea=st=1623533400~exp=1623537000~acl=/hls/live/2002690/*~hmac=8ba10a9a3825dc05d64844304077ba2e5535f4a7a7598358b2cc7880a6c49c5c
+#EXTINF:-1 group-title="News" , Sky News Extra 3 -AU
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
+#EXTINF:-1 group-title="News" ,C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="News" ,C Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News" ,C Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/index_50_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News" ,C Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/index_50_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title="News" ,C Span *low quility
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+
