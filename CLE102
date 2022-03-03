@@ -59,6 +59,8 @@ https://1117825885.rsc.cdn77.org/1117825885/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
 
+#EXTINF:-1 group-title="USTVGO", HLN
+https://ustvgo.tv/hln|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="News" ,C Span
