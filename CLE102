@@ -644,6 +644,497 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playl
 
 
 
+#EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Cleveland" , WKYC News CH 3
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
+#EXTINF:-1 group-title="Cleveland" , WEWS News CH 5
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+#EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
+https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
+#EXTINF:-1 group-title="Cleveland" , TV 20 - Cleveland
+https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+
+#EXTINF:-1 group-title="Cleveland", WVIZ PBS - Cleveland
+https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
+
+
+
+#EXTINF:-1  group-title="Local Radio", Updated 1.28.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1  group-title="Local Radio", 92.3
+https://22203.live.streamtheworld.com/WKRKFMAAC_SC?sbmid=259c873c-b99d-47be-a0af-a32bdb35f1fd&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+
+#EXTINF:-1  group-title="Local Radio", 93.1 WZAK **d**o*w**n
+https://14153.live.streamtheworld.com/WZAKFMAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1  group-title="Local Radio", 94.9 WQMX
+http://17333.live.streamtheworld.com/WQMXFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=ab45f8e9-5514-4be5-c2ca-8e2c54447ab6 
+#EXTINF:-1  group-title="Local Radio", 96..5 Kiss FM
+https://ample.revma.ihrhls.com/zc1729/43_17z684qjpds3y02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WAKS-FM&streamid=1729&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727922601&aw_0_1st.skey=1611727922&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1729
+
+
+
+#EXTINF:-1  group-title="Local Radio", 97.5 WONE**d**o*w**n
+http://17553.live.streamtheworld.com/WONEFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=155cfa58-957d-4631-9cdc-111ad9afda09
+
+
+
+
+#EXTINF:-1  group-title="Local Radio", 98.5 WNCX
+https://22203.live.streamtheworld.com/WNCXFMAAC_SC?sbmid=b1cc4c48-1787-4baf-bfcd-fdf1dd3f5028&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+#EXTINF:-1  group-title="Local Radio", 99.5 WGAR
+https://ample.revma.ihrhls.com/zc1733/24_1xg0xfvz2uykl02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WGAR-FM&streamid=1733&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611788246433&aw_0_1st.skey=1611788246&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1733
+#EXTINF:-1  group-title="Local Radio", 100.7 WMMS
+https://ample.revma.ihrhls.com/zc1741/11_13wyblfgttmxu02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMMS-FM&streamid=1741&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611728008221&aw_0_1st.skey=1611728008&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1741
+
+
+
+#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK**d**o*w**n
+https://14223.live.streamtheworld.com/WDOKFMAAC_SC?sbmid=5290f878-76a9-4c12-804a-65532edd93ed&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+
+
+
+#EXTINF:-1  group-title="Local Radio", Q104 **d**o*w**n
+https://17643.live.streamtheworld.com/WQALFMAAC_SC?sbmid=259d668e-4ad4-4962-9756-1ba7e38c00c2&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+
+
+
+#EXTINF:-1  group-title="Local Radio", Magic 105.7
+https://ample.revma.ihrhls.com/zc1737/2_1s0gedjcvcuc802/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMJI-FM&streamid=1737&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1737
+#EXTINF:-1  group-title="Local Radio", 106.5 The Lake
+https://ample.revma.ihrhls.com/zc4958/20_zuztq4795pfs02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WHLK-FM&streamid=4958&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=4958
+
+
+
+#EXTINF:-1  group-title="Local Radio", Z-107.9**d**o*w**n
+http://18073.live.streamtheworld.com:3690/WENZFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&tdsdk=js-2.9&banners=300x250&st=6d808641-53ab-45e2-8d0f-c15ea8dbd27e&sbmid=fd063053-bfc0-417a-83a9-43a69d01d4c9
+
+
+
+#EXTINF:-1  group-title="Local Radio", WTAM 1100 AM
+https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=34bf6987-2ed9-466b-a073-bb5143bf1921&clientType=web&profileid=3604227962&host=webapp.US&zip=44109&callLetters=WTAM-AM&streamid=1749&campid=header&pname=1263&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&listenerId=c3b9b1e763f89cf40dcdb007611f95ac&at=0&birthYear=null&modTime=1611779452710&aw_0_1st.skey=1611779452&us_privacy=1-N-&devicename=web-desktop&playedFrom=59&age=null&cid=index.html&territory=US&stationid=1749
+
+
+
+
+#EXTINF:-1 group-title="Music Video",  Updated 12-17-21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+#EXTINF:-1 group-title="Music Video",  Vevo Pop
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/e0be8bdf-8fb5-41db-a406-3cd3b9ebe74b-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0e7eed8336ed577b850fb1a69410d745&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo R&B
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=19c5617306ed5122bbb34a7fab11865c&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo Hip-Hop
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=861b55144d585dac9eb7538a9498948f&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo 2K
+https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=9c10a24504a65937a98c87492bef5028&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '90s
+https://na.linear.zype.com/fa0b5352-42cd-4899-ab88-745633e427a3/b6bea188-fb89-4d1e-a82a-be36765c5455-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=fc10a0d717735932a88db28bab1fdfaf&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '80s
+https://na.linear.zype.com/7cb77774-2454-b6c3-d9f4-7aa073c19fec/d5464fb0-08e7-4fab-8dd3-6f9fd4a2217e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b01bc7f354e95dd7bfcdc550269e78e3&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '70s
+https://na.linear.zype.com/257c843a-7f56-4b2c-bdcd-63ce5f56e1b7/a3dcf47a-9df4-4254-bce1-0cd569b378c7-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=c0dc91adadea5075bd0ade842dda91ac&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",   Loop Music Videos
+https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mHLguq7KAeUAboPmP8KS&channelId=60cab54031ae01002cf7bb31
+
+#EXTINF:-1 group-title="Music Video",  Loop Hottest
+https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8?ads.wurl_channel=779&ads.wurl_name=LoopHottest&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=43c6f5fd43a15f4493fad5051a49d149&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=43c6f5fd43a15f4493fad5051a49d149&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop 80s
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8?ads.wurl_channel=782&ads.wurl_name=Loop80s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9b3ae6a49fe35d1bb8714fcd36b3e928&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9b3ae6a49fe35d1bb8714fcd36b3e928&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop 90s
+https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8?ads.wurl_channel=783&ads.wurl_name=Loop90s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=5535a5ff8eb35498a962d6f91c1df0ea&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5535a5ff8eb35498a962d6f91c1df0ea&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop Hip Hop
+https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8?ads.wurl_channel=781&ads.wurl_name=LoopHipHop&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=045011263e665b64a2b7555477c0306b&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=045011263e665b64a2b7555477c0306b&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop Party
+https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8?ads.wurl_channel=780&ads.wurl_name=LoopParty&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3cd40990b0d55e688323c23604632d89&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3cd40990b0d55e688323c23604632d89&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  YO' MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  Yo! MTV 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=8c49ad00fb2f544f94b7b41e43ab9027&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=179fa69997fe5860be326e17384508ad&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  MTV Block Party 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=cc22deddb2eb526ca02d003e5116d5dc&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  Circle
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00432-circle-circle-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=740f6b19f38e56b98d54decbaf604348&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=circle&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  Vevo Country
+https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0d686f34a8895272bab07d328cd6a31e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop Country
+https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8?ads.wurl_channel=784&ads.wurl_name=LoopCountry&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3d88322cc29d582b8e45c3c1c9cd7f8e&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3d88322cc29d582b8e45c3c1c9cd7f8e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  The Country Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=61afa9a5d60d51afb3d239bc4bfa23f6&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=cinedigm&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",   CMT MUSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  CMC-USA Country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Vivaldi TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=a63a7294876051a4b9247e175b575611&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=G&is_roku_lat=1&studio_id=thematv&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=2f88e2609ff457eea6c56f4ee615699c&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Jazz&Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=cde22d46daf25dbeacdee251099decf3&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=ad750603c5e05201b1e9ac9b3f77abea&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  tingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 group-title="Music Video",  CMC-TV
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D
+
+#EXTINF:-1 group-title="Music Video",  VH1  (Music)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+
+#EXTINF:-1 group-title="Music Video",  Vevo Holiday
+https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+
+
+#EXTINF:-1 group-title="Kids", Updated 7.23.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+#EXTINF:-1 group-title="Kids", Rev and Roll
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&is_roku_lat=1&platform=web&content=2a793427a46b5228a7b1ed7b508dfbec&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=TVY&channelStore=us&bmodel=bm1&tags=cat-butterflies%2Ccat-robots%2Ccat-kids-linear%2Ccat-ages-4-6&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Kids", Kids Bop
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbop-kidzbop-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&content=57549c1813c55499bef7a27281a7f9ca&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=kidzbop&bmodel=bm1&channelStore=us&tags=cat-ages-7-9%2Ccat-butterflies%2Ccat-robots%2Ccat-kids-linear&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Kids",Boomerang
+https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Jr
+https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nicktoons
+https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney XD
+https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Nickelodeon
+https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) East HD
+https://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) Hawaii HD
+https://live-cdn.pbskids.org/out/u/hast.m3u8
+
+#EXTINF:-1 group-title="Kids", tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 group-title="Kids", Nickelodeon
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids", Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids", Totally-Turtles
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Dora-TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", After-School-Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Tween
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Kids Animation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Kids", Pocketwatch 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", Little-Baby-Bum
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Kids", ABC Kids
+https://c.mjh.nz/101002210222/
+
+
+#EXTINF:-1 group-title="Kids", Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Kids", The LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", HappyKids.tv
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Cocoro
+https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Fireman Sam
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Yo Gabba Gabba
+https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#EXTINF:-1 group-title="Kids",  ABC ME
+https://c.mjh.nz/101002210224/
+
+#EXTINF:-1 group-title="Kids",  GIGGLE Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", FGTV Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",  Adult Swim live stream 
+https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+
+#EXTINF:-1 group-title="Kids",   Rick and Morty *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Robot Chicken *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Aqua Teen Hunger Force *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Mr. Pickles *Adult Swim
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Squidbillies *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Zoo Moo (720p)  (Kids)
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",  Metalocalypse *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Samurai Jack *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  The Venture Bros. *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Dream Corp LLC *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Your Pretty Face is Going to Hell *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+
+#EXTINF:-1 group-title="Kids", Last Stream on the Left *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Off The Air / Smalls *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Channel 5 *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Infomercials *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Black Jesus *Adult Swim
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 group-title="Kids",  Relaxing Fish *Adult Swim
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Kids 2",   Updated 1.30.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Kids 2", Classic Toons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
+
+
+#EXTINF:-1 group-title="Kids 2",TVS Pinball Network (1080p)  
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Kartoon Circus  (Kids)
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+
+#EXTINF:-1 group-title="Kids 2",  Super Simple Songs  (Kids)
+https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Pinkfong Baby Shark  (Kids)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  HappyKids  (Kids)
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  HappyKids Junior  (Kids)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids 2",  KidsFlix  (Kids)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 group-title="Kids 2",  FGTV (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Camp Spoopy  (Kids)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 group-title="Kids 2",  The Official LEGO Channel  (Kids)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lego Channel (1080p)  (Kids)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lego Looney Tunes (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Master Builder (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Lets Play Minecraft (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Toy Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Fun Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Cute Zone (Bumblebee)  (Kids)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids 2",  Brat TV (1080p)  (Kids)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  group-title="Local Police, EMS,& Fire", Updated 1.28.21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Police West
+https://broadcastify.cdnstream1.com/25008
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Fire and EMS Live Audio Feed
+https://broadcastify.cdnstream1.com/23058
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Police and Metro Housing Authority
+https://broadcastify.cdnstream1.com/11446
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio State Highway Patrol District 3 & 10
+https://broadcastify.cdnstream1.com/5164
+#EXTINF:-1  group-title="Local Police, EMS,& Fire", WestCom Fire and Westshore PD -Bay Village, Fairview Park, Rocky River, Westlake, Fairview Park and North Olmsted.
+https://broadcastify.cdnstream1.com/15234
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cuyahoga County Skywarn Live Audio Feed 146.7600 MHZ
+https://listen.broadcastify.com/6y9sn0hvtgx1z8c.mp3
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",LEARA 146.88 MHz Repeater Live Audio Feed
+https://broadcastify.cdnstream1.com/33282
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Amateur DRM Digital TG 3139 Ohio Statewide
+https://broadcastify.cdnstream1.com/34239
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Parma, Parma Hts, and Brook Park Police / Fire
+https://broadcastify.cdnstream1.com/24062
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cuyahoga Valley Public Safety Live Audio Feed
+https://broadcastify.cdnstream1.com/31032
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Garfield and Maple Heights Police 
+https://broadcastify.cdnstream1.com/21419
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Hillcrest Police Departments Dispatch Live Audio Feed
+https://broadcastify.cdnstream1.com/27974
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",South Euclid, Cleveland Heights, Richmond Heights, and University Heights Police Dispatch Live Audio Feed
+https://broadcastify.cdnstream1.com/31282
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Shaker Heights Police Dispatch Live Audio Feed
+https://broadcastify.cdnstream1.com/24080
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Shaker Heights, University Heights and Cleveland Heights Fire Dispatch Live Audio Feed
+https://broadcastify.cdnstream1.com/29943
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Geauga and Portage Counties Fire / EMS Live Audio Feed
+https://broadcastify.cdnstream1.com/173
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio Turnpike Maintenance - East Live Audio Feed
+https://broadcastify.cdnstream1.com/28615
+#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio Turnpike Maintenance - West Live Audio Feed
+https://broadcastify.cdnstream1.com/28596
+
+
+
+
+
 
 
 
@@ -988,72 +1479,6 @@ https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1  group-title="Local Radio", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-
-#EXTINF:-1  group-title="Local Radio", 92.3
-https://22203.live.streamtheworld.com/WKRKFMAAC_SC?sbmid=259c873c-b99d-47be-a0af-a32bdb35f1fd&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-
-#EXTINF:-1  group-title="Local Radio", 93.1 WZAK **d**o*w**n
-https://14153.live.streamtheworld.com/WZAKFMAAC.aac?dist=onlineradiobox
-
-#EXTINF:-1  group-title="Local Radio", 94.9 WQMX
-http://17333.live.streamtheworld.com/WQMXFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=ab45f8e9-5514-4be5-c2ca-8e2c54447ab6 
-#EXTINF:-1  group-title="Local Radio", 96..5 Kiss FM
-https://ample.revma.ihrhls.com/zc1729/43_17z684qjpds3y02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WAKS-FM&streamid=1729&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727922601&aw_0_1st.skey=1611727922&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1729
-
-
-
-#EXTINF:-1  group-title="Local Radio", 97.5 WONE**d**o*w**n
-http://17553.live.streamtheworld.com/WONEFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=155cfa58-957d-4631-9cdc-111ad9afda09
-
-
-
-
-#EXTINF:-1  group-title="Local Radio", 98.5 WNCX
-https://22203.live.streamtheworld.com/WNCXFMAAC_SC?sbmid=b1cc4c48-1787-4baf-bfcd-fdf1dd3f5028&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-#EXTINF:-1  group-title="Local Radio", 99.5 WGAR
-https://ample.revma.ihrhls.com/zc1733/24_1xg0xfvz2uykl02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WGAR-FM&streamid=1733&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611788246433&aw_0_1st.skey=1611788246&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1733
-#EXTINF:-1  group-title="Local Radio", 100.7 WMMS
-https://ample.revma.ihrhls.com/zc1741/11_13wyblfgttmxu02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMMS-FM&streamid=1741&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611728008221&aw_0_1st.skey=1611728008&us_privacy=1-N-&devicename=web-desktop&playedFrom=6&age=null&territory=US&stationid=1741
-
-
-
-#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK**d**o*w**n
-https://14223.live.streamtheworld.com/WDOKFMAAC_SC?sbmid=5290f878-76a9-4c12-804a-65532edd93ed&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-
-
-
-#EXTINF:-1  group-title="Local Radio", Q104 **d**o*w**n
-https://17643.live.streamtheworld.com/WQALFMAAC_SC?sbmid=259d668e-4ad4-4962-9756-1ba7e38c00c2&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
-
-
-
-#EXTINF:-1  group-title="Local Radio", Magic 105.7
-https://ample.revma.ihrhls.com/zc1737/2_1s0gedjcvcuc802/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WMJI-FM&streamid=1737&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=1737
-#EXTINF:-1  group-title="Local Radio", 106.5 The Lake
-https://ample.revma.ihrhls.com/zc4958/20_zuztq4795pfs02/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=66d213bb-d5a1-467f-8d69-459bc83eaf6f&clientType=web&profileid=1482098655&host=webapp.US&zip=44109&callLetters=WHLK-FM&streamid=4958&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1611727338756&aw_0_1st.skey=1611727338&us_privacy=1-N-&devicename=web-desktop&playedFrom=138&age=null&territory=US&stationid=4958
-
-
-
-#EXTINF:-1  group-title="Local Radio", Z-107.9**d**o*w**n
-http://18073.live.streamtheworld.com:3690/WENZFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&tdsdk=js-2.9&banners=300x250&st=6d808641-53ab-45e2-8d0f-c15ea8dbd27e&sbmid=fd063053-bfc0-417a-83a9-43a69d01d4c9
-
-
-
-#EXTINF:-1  group-title="Local Radio", WTAM 1100 AM
-https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=34bf6987-2ed9-466b-a073-bb5143bf1921&clientType=web&profileid=3604227962&host=webapp.US&zip=44109&callLetters=WTAM-AM&streamid=1749&campid=header&pname=1263&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&listenerId=c3b9b1e763f89cf40dcdb007611f95ac&at=0&birthYear=null&modTime=1611779452710&aw_0_1st.skey=1611779452&us_privacy=1-N-&devicename=web-desktop&playedFrom=59&age=null&cid=index.html&territory=US&stationid=1749
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="Westerns",  Updated 3-2-2022
@@ -1104,439 +1529,8 @@ https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 
 
 
-#EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
-
-#EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
-https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Cleveland" , WKYC News CH 3
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
-#EXTINF:-1 group-title="Cleveland" , WEWS News CH 5
-https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
-#EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
-https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
-#EXTINF:-1 group-title="Cleveland" , TV 20 - Cleveland
-https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
-
-
-#EXTINF:-1 group-title="Cleveland", WVIZ PBS - Cleveland
-https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Kids", Updated 7.23.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-#EXTINF:-1 group-title="Kids", Rev and Roll
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&is_roku_lat=1&platform=web&content=2a793427a46b5228a7b1ed7b508dfbec&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=TVY&channelStore=us&bmodel=bm1&tags=cat-butterflies%2Ccat-robots%2Ccat-kids-linear%2Ccat-ages-4-6&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Kids", Kids Bop
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbop-kidzbop-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&content=57549c1813c55499bef7a27281a7f9ca&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=kidzbop&bmodel=bm1&channelStore=us&tags=cat-ages-7-9%2Ccat-butterflies%2Ccat-robots%2Ccat-kids-linear&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Kids",Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney Jr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney XD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) East HD
-https://live-cdn.pbskids.org/out/u/est.m3u8
-
-#EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) Hawaii HD
-https://live-cdn.pbskids.org/out/u/hast.m3u8
-
-#EXTINF:-1 group-title="Kids", tvo KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 group-title="Kids", Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="Kids", Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="Kids", Totally-Turtles
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=57f25284-2bbf-4382-97b5-374c48c211dd&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=d634ddf1-3f62-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Dora-TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=f752b032-4170-40a1-81e5-c54d126684d2&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=169936bf-3f63-11eb-b132-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=17129030-00b6-4ed2-8fb4-126c546b6a17&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=75ecb45e-3f63-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", After-School-Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=388c7865-e4c6-41c0-9544-7c1f0e4da592&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=c1a7320a-3f63-11eb-b866-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Tween
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=98231740-b7e4-4f2b-811e-2dead6067100&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=0d17676a-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Kids Animation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=9efc1658-0651-4336-92ac-4aef70a08eaa&clientModelNumber=na&deviceDNT=false&deviceId=9efc1658-0651-4336-92ac-4aef70a08eaa&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.141&marketingRegion=US&serverSideAds=true&sessionID=dfa14202-5a9f-11eb-a8d7-0242ac110002&sid=dfa14202-5a9f-11eb-a8d7-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Kids", Pocketwatch 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=e3d9f6b6-c4b1-401b-a3b6-e3d872fde962&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=58fe7192-3f64-11eb-91f7-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", Little-Baby-Bum
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=c22bc029-7985-4230-9341-beb87d5952b4&deviceLat=41.4843&deviceLon=-81.7039&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=87.0.4280.88&includeExtendedEvents=false&marketingRegion=US&sid=fccb41f8-3f64-11eb-a113-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="Kids", ABC Kids
-https://c.mjh.nz/101002210222/
-
-
-#EXTINF:-1 group-title="Kids", Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", Toon Goggles
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", Battery Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-#EXTINF:-1 group-title="Kids", The LEGO Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", HappyKids.tv
-https://happykids-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Cocoro
-https://coco-samsung.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Fireman Sam
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=a00c105ace6a51b291823a9bced29e2e&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Ketchup TV
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Yo Gabba Gabba
-https://dai2.xumo.com/xumocdn/p=roku&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&coppa=true&is_roku_lat=1&platform=web&content=cb1fd62048065a46bb57d1ccd52c14df&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=bm1&tags=ROKU_CONTENT_TAGS&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
-#EXTINF:-1 group-title="Kids",  ABC ME
-https://c.mjh.nz/101002210224/
-
-#EXTINF:-1 group-title="Kids",  GIGGLE Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", FGTV Funnelvision
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",  Adult Swim live stream 
-https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
-
-#EXTINF:-1 group-title="Kids",   Rick and Morty *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Robot Chicken *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Aqua Teen Hunger Force *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Mr. Pickles *Adult Swim
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Squidbillies *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Zoo Moo (720p)  (Kids)
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",  Metalocalypse *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Samurai Jack *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  The Venture Bros. *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Dream Corp LLC *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Your Pretty Face is Going to Hell *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-
-#EXTINF:-1 group-title="Kids", Last Stream on the Left *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Off The Air / Smalls *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Channel 5 *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Infomercials *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Black Jesus *Adult Swim
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 group-title="Kids",  Relaxing Fish *Adult Swim
-https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Kids 2",   Updated 1.30.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Kids 2", Classic Toons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
-
-
-#EXTINF:-1 group-title="Kids 2",TVS Pinball Network (1080p)  
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Kartoon Circus  (Kids)
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
-
-#EXTINF:-1 group-title="Kids 2",  Super Simple Songs  (Kids)
-https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Pinkfong Baby Shark  (Kids)
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  HappyKids  (Kids)
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  HappyKids Junior  (Kids)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids 2",  KidsFlix  (Kids)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
-#EXTINF:-1 group-title="Kids 2",  FGTV (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Camp Spoopy  (Kids)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 group-title="Kids 2",  The Official LEGO Channel  (Kids)
-https://legochannel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lego Channel (1080p)  (Kids)
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lego Looney Tunes (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Master Builder (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Lets Play Minecraft (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Toy Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Fun Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Cute Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids 2",  Brat TV (1080p)  (Kids)
-https://brat-rakuten.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Music Video",  Updated 12-17-21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-#EXTINF:-1 group-title="Music Video",  Vevo Pop
-https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/e0be8bdf-8fb5-41db-a406-3cd3b9ebe74b-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0e7eed8336ed577b850fb1a69410d745&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo R&B
-https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=19c5617306ed5122bbb34a7fab11865c&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo Hip-Hop
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=861b55144d585dac9eb7538a9498948f&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo 2K
-https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=9c10a24504a65937a98c87492bef5028&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo '90s
-https://na.linear.zype.com/fa0b5352-42cd-4899-ab88-745633e427a3/b6bea188-fb89-4d1e-a82a-be36765c5455-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=fc10a0d717735932a88db28bab1fdfaf&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo '80s
-https://na.linear.zype.com/7cb77774-2454-b6c3-d9f4-7aa073c19fec/d5464fb0-08e7-4fab-8dd3-6f9fd4a2217e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b01bc7f354e95dd7bfcdc550269e78e3&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Vevo '70s
-https://na.linear.zype.com/257c843a-7f56-4b2c-bdcd-63ce5f56e1b7/a3dcf47a-9df4-4254-bce1-0cd569b378c7-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=c0dc91adadea5075bd0ade842dda91ac&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",   Loop Music Videos
-https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mHLguq7KAeUAboPmP8KS&channelId=60cab54031ae01002cf7bb31
-
-#EXTINF:-1 group-title="Music Video",  Loop Hottest
-https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8?ads.wurl_channel=779&ads.wurl_name=LoopHottest&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=43c6f5fd43a15f4493fad5051a49d149&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=43c6f5fd43a15f4493fad5051a49d149&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop 80s
-https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8?ads.wurl_channel=782&ads.wurl_name=Loop80s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9b3ae6a49fe35d1bb8714fcd36b3e928&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9b3ae6a49fe35d1bb8714fcd36b3e928&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop 90s
-https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8?ads.wurl_channel=783&ads.wurl_name=Loop90s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=5535a5ff8eb35498a962d6f91c1df0ea&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5535a5ff8eb35498a962d6f91c1df0ea&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop Hip Hop
-https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8?ads.wurl_channel=781&ads.wurl_name=LoopHipHop&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=045011263e665b64a2b7555477c0306b&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=045011263e665b64a2b7555477c0306b&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop Party
-https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8?ads.wurl_channel=780&ads.wurl_name=LoopParty&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3cd40990b0d55e688323c23604632d89&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3cd40990b0d55e688323c23604632d89&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  YO' MTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  Yo! MTV 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=8c49ad00fb2f544f94b7b41e43ab9027&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=179fa69997fe5860be326e17384508ad&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  MTV Block Party
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  MTV Block Party 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=cc22deddb2eb526ca02d003e5116d5dc&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  MTV Spankin New
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  Live Music Replay
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  Circle
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00432-circle-circle-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=740f6b19f38e56b98d54decbaf604348&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=circle&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",  Vevo Country
-https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0d686f34a8895272bab07d328cd6a31e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop Country
-https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8?ads.wurl_channel=784&ads.wurl_name=LoopCountry&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3d88322cc29d582b8e45c3c1c9cd7f8e&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3d88322cc29d582b8e45c3c1c9cd7f8e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  The Country Network
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=61afa9a5d60d51afb3d239bc4bfa23f6&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=cinedigm&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",   CMT MUSIC
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
-
-#EXTINF:-1 group-title="Music Video",  CMC-USA Country
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:-1 group-title="Music Video",  Vivaldi TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=a63a7294876051a4b9247e175b575611&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=G&is_roku_lat=1&studio_id=thematv&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",  QwestTV Classical
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=2f88e2609ff457eea6c56f4ee615699c&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",  QwestTV Jazz&Beyond
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=cde22d46daf25dbeacdee251099decf3&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",  QwestTV Mix
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=ad750603c5e05201b1e9ac9b3f77abea&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="Music Video",  tingray Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
-#EXTINF:-1 group-title="Music Video",  CMC-TV
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D
-
-#EXTINF:-1 group-title="Music Video",  VH1  (Music)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-
-#EXTINF:-1 group-title="Music Video",  Vevo Holiday
-https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
-
-
-
-
-
-
-#EXTINF:-1  group-title="Local Police, EMS,& Fire", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Police West
-https://broadcastify.cdnstream1.com/25008
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Fire and EMS Live Audio Feed
-https://broadcastify.cdnstream1.com/23058
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Police and Metro Housing Authority
-https://broadcastify.cdnstream1.com/11446
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio State Highway Patrol District 3 & 10
-https://broadcastify.cdnstream1.com/5164
-#EXTINF:-1  group-title="Local Police, EMS,& Fire", WestCom Fire and Westshore PD -Bay Village, Fairview Park, Rocky River, Westlake, Fairview Park and North Olmsted.
-https://broadcastify.cdnstream1.com/15234
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cuyahoga County Skywarn Live Audio Feed 146.7600 MHZ
-https://listen.broadcastify.com/6y9sn0hvtgx1z8c.mp3
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",LEARA 146.88 MHz Repeater Live Audio Feed
-https://broadcastify.cdnstream1.com/33282
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Amateur DRM Digital TG 3139 Ohio Statewide
-https://broadcastify.cdnstream1.com/34239
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Parma, Parma Hts, and Brook Park Police / Fire
-https://broadcastify.cdnstream1.com/24062
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Cuyahoga Valley Public Safety Live Audio Feed
-https://broadcastify.cdnstream1.com/31032
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Garfield and Maple Heights Police 
-https://broadcastify.cdnstream1.com/21419
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Hillcrest Police Departments Dispatch Live Audio Feed
-https://broadcastify.cdnstream1.com/27974
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",South Euclid, Cleveland Heights, Richmond Heights, and University Heights Police Dispatch Live Audio Feed
-https://broadcastify.cdnstream1.com/31282
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Shaker Heights Police Dispatch Live Audio Feed
-https://broadcastify.cdnstream1.com/24080
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Shaker Heights, University Heights and Cleveland Heights Fire Dispatch Live Audio Feed
-https://broadcastify.cdnstream1.com/29943
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Geauga and Portage Counties Fire / EMS Live Audio Feed
-https://broadcastify.cdnstream1.com/173
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio Turnpike Maintenance - East Live Audio Feed
-https://broadcastify.cdnstream1.com/28615
-#EXTINF:-1  group-title="Local Police, EMS,& Fire",Ohio Turnpike Maintenance - West Live Audio Feed
-https://broadcastify.cdnstream1.com/28596
 
 
 
