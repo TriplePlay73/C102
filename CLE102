@@ -269,6 +269,17 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV",  Movie Kingdom *Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
 
+
+#EXTINF:-1 group-title="TV",  Redbox 1
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 group-title="TV",Redbox 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 group-title="TV",  Redbox 3
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+
+
+
 #EXTINF:-1 group-title="TV",  RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV", Dark Matter TV
