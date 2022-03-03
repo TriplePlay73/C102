@@ -172,180 +172,203 @@ https://ustvgo.tv/the-weather-channel-live-streaming-free|autowebzoom=120scroll=
 
 
 
-#EXTINF:-1 group-title="TV",  Updated 2-6-2022
+#EXTINF:-1 group-title="TV",  Updated 3-2-2022
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
-#EXTINF:-1 group-title="TV", Movies Favorites *By Lifetime
-https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
 
 
-
-
-
-#EXTINF:-1 group-title="TV", TNT East (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="TV", TNT West (720p)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-
-
-
-#EXTINF:-1 group-title="TV", TBS East (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="TV", TBS West (720p) 
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="TV", The CW
 https://ustvgo.tv/the-cw-live-streaming-free|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="TV", AMC Presents
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", Rush by AMC
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", IFC Film Picks
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", Slightly Off by IFC
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", Absolute Reality by We TV
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TV", Charge HD
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1 group-title="TV", Electric Now HD
-https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-
-
-
-#EXTINF:-1 group-title="TV", Comet TV HD
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-
-#EXTINF:-1 group-title="TV", Pop HD
-http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="TV", Pop HD
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TV", Hallmark Movies & More
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
-
-
+#EXTINF:-1 group-title="TV", The CW New York
+https://ustvgo.tv/the-cw-11-new-york|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Freeform
+https://ustvgo.tv/freeform-channel-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV",FXX
+https://ustvgo.tv/fxx|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", TNT East (720p) 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="TV", TNT West (720p)
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="TV", ION Plus HD
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
-
-#EXTINF:-1 group-title="TV",  &Flix *Movies
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 group-title="TV",  Skills + Thrills | Channel 1*
-https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=undefined&ads.targetopt=1&ads.plex_token=Hxxs36dTRWK1K6knFZMF&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F94.0.4606.81%20Safari%2F537.36&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
-
-#EXTINF:-1 group-title="TV",  Skills + Thrills | Ch.2 | +1h*
-https://d52b00c640c34d7e9ea9b89430bbaae7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.bmodel=bm1&ads.channelStore=us&ads.content=033f6b475bcc5f96b4f3261b3b439e4d&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=96922739-9ad5-5c74-854d-94b58992bde5&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F94.0.4606.81+Safari%2F537.36&is_lat=1&bmodel=bm1&content=033f6b475bcc5f96b4f3261b3b439e4d&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=96922739-9ad5-5c74-854d-94b58992bde5&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TV14&studio_id=ae&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="TV", Skills + Thrills | Ch.3 | +2h*
-https://aenetworks-skills-thrills-1-us.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="TV", TBS East (720p) 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="TV", TBS West (720p) 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="TV", BBC America
+https://ustvgo.tv/bbc-america-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", POP
+https://ustvgo.tv/pop|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Electric Now HD
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1 group-title="TV", Charge HD
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="TV", Comet TV HD
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 group-title="TV", CMT
+https://ustvgo.tv/cmt|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", NAT GEO WILD
+https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Syfy
+https://ustvgo.tv/syfy-channel-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", TruTV
+https://ustvgo.tv/trutv|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", TLC
+https://ustvgo.tv/tlc-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Sundance TV
+https://ustvgo.tv/sundance-tv|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", TV Land
+https://ustvgo.tv/tv-land-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", We TV
+https://ustvgo.tv/we-tv|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", ABC
+https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", ABC New York
+https://ustvgo.tv/abc-7-new-york|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", CBS
+https://ustvgo.tv/cbs-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", CBS New York
+https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", FOX
+https://ustvgo.tv/fox-hd-live-streaming|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", FOX Newy York
+https://ustvgo.tv/fox-5-new-york|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", NBC  LX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TV", HGTV
+https://ustvgo.tv/hgtv-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", DIY
+https://ustvgo.tv/diy|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="TV",  This Old House HD
 https://3c5730ca3bb44fa5839cb6432158751c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_ThisOldHouse/playlist.m3u8?ads.wurl_channel=318&ads.wurl_name=ThisOldHouse&ads.bmodel=bm1&ads.channelStore=us&ads.content=edc923b4793f58ba97bc92035d2229fd&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=toh&ads.rdid=e1346f15-f569-555e-99e3-558574eb0d54&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&bmodel=bm1&content=edc923b4793f58ba97bc92035d2229fd&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=e1346f15-f569-555e-99e3-558574eb0d54&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=toh&channel_id=151908&channelStore=us
-
 #EXTINF:-1 group-title="TV",  This Old House Classic
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
-
+#EXTINF:-1 group-title="TV", Destination America
+https://ustvgo.tv/destination-america|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Travel
+https://ustvgo.tv/travel-channel-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV",  Skills + Thrills | Channel 1*
+https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=undefined&ads.targetopt=1&ads.plex_token=Hxxs36dTRWK1K6knFZMF&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F94.0.4606.81%20Safari%2F537.36&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
+#EXTINF:-1 group-title="TV",  Skills + Thrills | Ch.2 | +1h*
+https://d52b00c640c34d7e9ea9b89430bbaae7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.bmodel=bm1&ads.channelStore=us&ads.content=033f6b475bcc5f96b4f3261b3b439e4d&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=96922739-9ad5-5c74-854d-94b58992bde5&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F94.0.4606.81+Safari%2F537.36&is_lat=1&bmodel=bm1&content=033f6b475bcc5f96b4f3261b3b439e4d&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=96922739-9ad5-5c74-854d-94b58992bde5&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TV14&studio_id=ae&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="TV", Skills + Thrills | Ch.3 | +2h*
+https://aenetworks-skills-thrills-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV",  Antiques Roadshow UK
 https://e38d59024a5f47f088425240fac80d81.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AntiquesRoadshowUK/playlist.m3u8?ads.wurl_channel=905&ads.wurl_name=AntiquesRoadshowUK&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7621860c34c65549ae30e334f355a3d4&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7621860c34c65549ae30e334f355a3d4&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
 
+#EXTINF:-1 group-title="TV", OWN
+https://ustvgo.tv/own|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Science
+https://ustvgo.tv/science|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Oxygen
+https://ustvgo.tv/oxygen|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", AMG-TV 
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 group-title="TV", Court TV HD
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 group-title="TV", Law & Crime *Direct
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
+#EXTINF:-1 group-title="TV", Cinemax
+https://ustvgo.tv/cinemax|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Starz
+https://ustvgo.tv/starz-channel-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Hallmark Channel
+https://ustvgo.tv/hallmark-channel-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Hallmark Movies & Mysteries
+https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Lifetime
+https://ustvgo.tv/lifetime-channel-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV",, Lifetime Movies
+https://ustvgo.tv/lifetime-movies|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Movie Favorites *By Lifetime
+https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="TV", IFC Film Picks
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV", Slightly Off by IFC
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV", AMC
+https://ustvgo.tv/amc-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Animal Planet
+https://ustvgo.tv/animal-planet-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", AMC Presents
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV", Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV",  Popcorn Flix
+https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=60089d8df682a3002c348297/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 group-title="TV", Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 group-title="TV", Crackle
+https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
+#EXTINF:-1 group-title="TV",  MovieSphere | HD
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV",  Movie Kingdom *Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
+
+#EXTINF:-1 group-title="TV",  RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV", Dark Matter TV
+https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV", Midnight Pulp HD
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+
+#EXTINF:-1 group-title="TV", FX
+https://ustvgo.tv/fx-channel-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", FXM
+https://ustvgo.tv/fxm|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Absolute Reality by We TV
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="TV", Bravo
+https://ustvgo.tv/bravo-channel-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", MTV
+https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="TV", E!
+https://ustvgo.tv/eonline|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV",#EXTINF:-1 group-title="TV", Comedy Central
+https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV",   Kevin Hart's LOL! Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+#EXTINF:-1 group-title="TV",  It's Showtimw At The Apollo
+https://dai2.xumo.com/xumocdn/DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+#EXTINF:-1 group-title="TV", Comedy Dynamics
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/512x288_875600/chunklist.m3u8
+#EXTINF:-1 group-title="TV", Food Network
+https://ustvgo.tv/food-network-live-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Journy
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+#EXTINF:-1 group-title="TV", Bon Appetit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=dbe618e5fa3158b4ba5c68f5805dd42d&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=conde_nast&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="TV", Buzzr HD
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USTVGO", GSN
+https://ustvgo.tv/gsn|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", MotorTrend
+https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="TV", Power Nation
 https://058a64454ed94c49b2afec7aaab9a695.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RTMTVChannel/playlist.m3u8?ads.wurl_channel=483&ads.wurl_name=RTMTVChannel&ads.bmodel=bm1&ads.channelStore=us&ads.content=4b78d64e46215bcd8d80e826c8a9ca96&ads.content_rating=TVG&ads.tags=cat-cars&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=rtm&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=4b78d64e46215bcd8d80e826c8a9ca96&platform=web&tags=cat-cars&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=rtm&channel_id=151908&channelStore=us
 
 
-#EXTINF:-1 group-title="TV",   Kevin Hart's LOL! Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-
-
-
-#EXTINF:-1 group-title="TV", Bon Appetit
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=dbe618e5fa3158b4ba5c68f5805dd42d&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=conde_nast&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
-
-#EXTINF:-1 group-title="TV", TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="TV", The Asylum Movies HD
-https://asylum-stirr.amagi.tv/playlist1080p.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="TV", Circle HD 
-https://circle-roku.amagi.tv/playlistR1080p.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TV", Victor Valley TV-3 | Movies HD 
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="TV", AMG-TV 
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="TV", Court TV HD
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
-
-
-
-
-#EXTINF:-1 group-title="TV", Buzzr HD
-https://buzzrota-web.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV", YouToo America HD
-https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1928000.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="TV", WATC-57 Too | Classic TV HD
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/chunklist_w1236601238.m3u8
-
-
-#EXTINF:-1 group-title="TV", Victorville CA HD
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b3500000.m3u8
-
-
-#EXTINF:-1 group-title="TV", NBCLX HD
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 group-title="TV", Z Living HD
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="TV", Boomerang
+https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Cartoon Network
+https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Nickelodeon
+https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Nicktoons
+https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", DisneyJr
+https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", DisneyXD
+https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TV", PBS
+https://ustvgo.tv/pbs-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="TV", PBS | KET HD
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_DVR.m3u8
 
@@ -353,87 +376,12 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_
 
 
 
-#EXTINF:-1 group-title="TV", The Film Detective HD
-https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
-
-
-
-#EXTINF:-1 group-title="TV", RetroCrush TV HD
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-
-
-#EXTINF:-1 group-title="TV", Midnight Pulp HD
-https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-
-
-
-#EXTINF:-1 group-title="TV",  It's Showtimw At The Apollo
-https://dai2.xumo.com/xumocdn/DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="TV",  The Price Is Right
-https://thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
-
-
-
-
-#EXTINF:-1 group-title="TV", Lone Star
-https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
-
-
-#EXTINF:-1 group-title="TV",  Popcorn Flix
-https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=60089d8df682a3002c348297/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/1920x1080_5055600/index.m3u8
-
-
-#EXTINF:-1 group-title="TV", Popcorn Flix Action
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV", Crackle
-https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
-
-
-#EXTINF:-1 group-title="TV",  MovieSphere | HD
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV",  RunTime Free Movies
-https://ammoruntime-plex.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV", Dark Matter TV
-https://dmtv-plex.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV", TWiT 
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TV", Comedy Dynamics
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/512x288_875600/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="TV",  Movie Kingdom *Distro
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
 
 
 
 
 
-#EXTINF:-1 group-title="TV", Journy
-https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="TV", Law & Crime *Direct
-https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV", University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w470525938.m3u8
 
 
 #EXTINF:-1 group-title="TV2", TVS Family Channel (360p)  (Family)
