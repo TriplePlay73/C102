@@ -156,7 +156,8 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="USTVGO", The Weather Channel
+https://ustvgo.tv/the-weather-channel-live-streaming-free|autowebzoom=120scroll=50,100
 
 
 
@@ -1089,7 +1090,7 @@ https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=nu
 
 
 
-#EXTINF:-1 group-title="Westerns",  Updated 12-22-21
+#EXTINF:-1 group-title="Westerns",  Updated 3-2-2022
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
@@ -1125,6 +1126,11 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 group-title="Westerns",  American Clasics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
+
+#EXTINF:-1 group-title="Westerns", The Film Detective HD
+https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
+#EXTINF:-1 group-title="Westerns", Lone Star
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 
 
 
