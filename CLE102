@@ -56,6 +56,9 @@ https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF:-1 group-title="News" , RT America
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
+#EXTINF:-1 group-title="News" , RT America *Rumble
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8?
+
 #EXTINF:-1 group-title="News" , RSBN 
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
