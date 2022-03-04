@@ -696,8 +696,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 #EXTINF:-1  group-title="Local Radio", 92.3
 https://22203.live.streamtheworld.com/WKRKFMAAC_SC?sbmid=259c873c-b99d-47be-a0af-a32bdb35f1fd&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
 
-#EXTINF:-1  group-title="Local Radio", 93.1 WZAK **d**o*w**n
-https://14153.live.streamtheworld.com/WZAKFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1  group-title="Local Radio", 93.1 WKRK 3.3.22
+https://22203.live.streamtheworld.com/WKRKFMAAC_SC?sbmid=689fe719-5f36-4e10-ad11-9788be9689ee&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:0f9bf518-f5ac-4b89-b329-a15d4ea64978
+
+#EXTINF:-1  group-title="Local Radio", 93.1 WZAK
+https://26183.live.streamtheworld.com/WZAKFMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%2C300x50%2C320x50&burst-time=15&sbmid=fb16c89a-2588-40ad-cb6d-52b5d7261b3f
+
+
+
 
 #EXTINF:-1  group-title="Local Radio", 94.9 WQMX
 http://17333.live.streamtheworld.com/WQMXFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=ab45f8e9-5514-4be5-c2ca-8e2c54447ab6 
@@ -706,8 +712,9 @@ https://ample.revma.ihrhls.com/zc1729/43_17z684qjpds3y02/playlist.m3u8?gender=nu
 
 
 
-#EXTINF:-1  group-title="Local Radio", 97.5 WONE**d**o*w**n
-http://17553.live.streamtheworld.com/WONEFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=155cfa58-957d-4631-9cdc-111ad9afda09
+#EXTINF:-1  group-title="Local Radio", 97.5 WONE 3.3.22
+http://15113.live.streamtheworld.com/WONEFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-041&dist=triton-web&tdsdk=js-2.9&banners=300x250&burst-time=15&sbmid=637616b2-6118-4eb6-c776-571ab693f854
+
 
 
 
@@ -721,14 +728,16 @@ https://ample.revma.ihrhls.com/zc1741/11_13wyblfgttmxu02/playlist.m3u8?gender=nu
 
 
 
-#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK**d**o*w**n
-https://14223.live.streamtheworld.com/WDOKFMAAC_SC?sbmid=5290f878-76a9-4c12-804a-65532edd93ed&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
+#EXTINF:-1  group-title="Local Radio", Star 102.1 WDOK 3.3.22
+https://17653.live.streamtheworld.com/WDOKFMAAC_SC?sbmid=df49c730-ef3a-4c4e-9810-981dd70f0a72&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:0f9bf518-f5ac-4b89-b329-a15d4ea64978
 
 
+#EXTINF:-1  group-title="Local Radio", Star 102.1 ??
+https://ais-sa1.streamon.fm/7700_128k.mp3
 
-#EXTINF:-1  group-title="Local Radio", Q104 **d**o*w**n
-https://17643.live.streamtheworld.com/WQALFMAAC_SC?sbmid=259d668e-4ad4-4962-9756-1ba7e38c00c2&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:1ddea5c1-a1e5-460c-9058-9496d113492f
 
+#EXTINF:-1  group-title="Local Radio", Q104  3.3.22
+https://18373.live.streamtheworld.com/WQALFMAAC_SC?sbmid=5f417e45-afe6-4eaa-a80b-e651c02c2b3a&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:0f9bf518-f5ac-4b89-b329-a15d4ea64978
 
 
 #EXTINF:-1  group-title="Local Radio", Magic 105.7
@@ -738,8 +747,8 @@ https://ample.revma.ihrhls.com/zc4958/20_zuztq4795pfs02/playlist.m3u8?gender=nul
 
 
 
-#EXTINF:-1  group-title="Local Radio", Z-107.9**d**o*w**n
-http://18073.live.streamtheworld.com:3690/WENZFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&tdsdk=js-2.9&banners=300x250&st=6d808641-53ab-45e2-8d0f-c15ea8dbd27e&sbmid=fd063053-bfc0-417a-83a9-43a69d01d4c9
+#EXTINF:-1  group-title="Local Radio", Z-107.9   3.3.22
+http://17633.live.streamtheworld.com/WENZFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-041&tdsdk=js-2.9&banners=300x250&burst-time=15&sbmid=536d13a4-2a02-4f05-adcc-72bbe8014aa4
 
 
 
