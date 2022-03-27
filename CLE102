@@ -35,8 +35,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 #EXTINF:-1 group-title="News" ,Americas Voice *Samsung
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
 
-#EXTINF:-1 group-title="News" , Ohio News 24 *https://newson.us/
-https://vinson-newson-vsms.triple-it.nl/ON04_1648403273_daf8de15065f666f1e5adeb5282c52d1674e74682a39a79b8c63d94f602a77c9.m3u8?a=b
+
 
 #EXTINF:-1 group-title="News", One America News Network
 https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
