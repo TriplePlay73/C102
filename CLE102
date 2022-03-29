@@ -691,8 +691,6 @@ https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=
 #EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
 
-#EXTINF:-1 group-title="Cleveland" , Fox 8
-https://dcs-live.mp.lura.live/server/play/673eLb4cJradhmyA/manifest.m3u8?encp=e3UcLJjZeICh9d1DKT9btA:Ix9-C8Q_oO-4zfkbbxRG2GUlcXOypfEVJmMbrD_ZWpDK4n3AfdxDyJAhlgYQcsJRD-tA_NlEbtv8VGUhn2bDkRdmSF3Gd-WMmdDV3jgcgZoIFC1VpveF1d4OMXn_RvQC1ZGtSNBnAorRpeL3_cpD7WSYq9Ja7OkPpWbSdzOf0quhSynsQ4Dm-z8_IFr2zIsdEMwYI_tE-QGMfcfAfM77a33OQcZVtAeTa_aIs28Oq_aYGVSNt1OM6a1pIUQHxBoBM7y63ble5UkVsv-eIZJZkaHtSY-DpveOoZ7Nvgb-r0H72GKKgSxIrHbsWhkT_rA9bQ9dvsxQ8z8vfUqKEjGh9k1c89hq9yA_mxmvv1ldXUu3f8PnpyBqAhpQxwbsa_JFcd_EqlQBoxULl8F395R-_6WNy3wCLwPMG_QJ24vJ2mfLH7OGB0I3QlDAr8cWIrveAgO4YNfWhyB3iYeVPwLL_vul40eb2xtR74wWDPIoIC0aLmUykCPRNiaGoyp6LqC210ZSgNlLTiPdTAs6Ft0VYcNoByxM6GVrK08JOmibJET7xsGy5QOviNKlXQvAB6nzGz97IfJv8dsyREkJ__ZQrtU-qu66sNty4QGZb0G7v5UA2Yw8hwOLzMU_4o8WT89kLgwVvdBLyKjYi4DaWaAUm4lIIvG_dI_Nr2TBHw-CkUWORLdYbo_k-HrMdMzVwKzMQDC9XL6s-8J9syzeH-awTcB8ZSUFwhtvF2WW814hQE0&anvtrid=3f1ec41162e4b0bc0cfe92fcfac66dda&anvauth=tb=0~te=1648331481~sgn=a9cd82447f088a0b4eaec7c015dd12101f4ab3df48c87e04e5e72f56b8760e5d&t=1648331391&_vpng=0
 
 
 #EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
@@ -3179,6 +3177,12 @@ https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=c39c1981a0a25ceb8deef626de550d56&platform=web&content_type=livefeed&content_rating=TVPG&is_roku_lat=1&studio_id=usatoday&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
+#EXTINF:-1 group-title="SPORT" , ESPN
+https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
+
+
+#EXTINF:-1 group-title="SPORT" ,SK 
+http://init.cheches.info/hls/104.m3u8
 
 
 
