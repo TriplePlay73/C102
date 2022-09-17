@@ -73,11 +73,19 @@ https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="News" , RSBN 
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
+https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8?
+
+
+#EXTINF:-1 group-title="News" , Lindell TV Live 1
+https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/playlist.m3u8?
+
+#EXTINF:-1 group-title="News" , Lindell TV Live 2
+https://frnksocial.mmdlive.lldns.net/frnksocial/fdc4ddd878764582aa2d72dad787c4ab/playlist.m3u8?
 
 #EXTINF:-1 group-title="News" , Lindell TV Live 
-https://cdn12.frankspeech.com/hls/frank/mainchannel2/chunklist_b2928000.m3u8
+https://frnksocial.mmdlive.lldns.net/frnksocial/61016efa7eea46cb99bbd84dfc442720/playlist.m3u8?
 
+#EXTINF:-1 group-title="News" ,Frank
 #https://home.frankspeech.com/?frank_pass=true|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="News" , Sky News Australia
