@@ -1361,8 +1361,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="USTVGO" Updated Febuary 2022
+#EXTINF:-1 group-title="USTVGO",  Updated 10-02-2022
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
@@ -1403,6 +1402,15 @@ https://ustvgo.tv/cinemax|autowebzoom=120scroll=50,100
 https://ustvgo.tv/cmt|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Cartoon Network
 https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO", CNBC
+https://ustvgo.tv/cnbc|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="USTVGO", CNN
+https://ustvgo.tv/cnn-live-streaming-free|autowebzoom=120scroll=50,100 
+
+
+
 #EXTINF:-1 group-title="USTVGO", Comedy Central
 https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", The CW
@@ -1462,6 +1470,11 @@ https://ustvgo.tv/hgtv-live-streaming-free|autowebzoom=120scroll=50,100
 https://ustvgo.tv/hln|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Hallmark Movies & Mysteries
 https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO",  ION (WPXN) New York
+https://ustvgo.tv/ion-wpxn-new-york|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="USTVGO", Lifetime
 https://ustvgo.tv/lifetime-channel-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Lifetime Movies
@@ -1470,10 +1483,17 @@ https://ustvgo.tv/lifetime-movies|autowebzoom=120scroll=50,100
 https://ustvgo.tv/mlb-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", MotorTrend
 https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
+
+MSNBC Live Streaming Free
+https://ustvgo.tv/msnbc|autowebzoom=120scroll=50,100
+
 #EXTINF:-1 group-title="USTVGO", MTV
 https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", NAT GEO WILD
 https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", NBC
+https://ustvgo.tv/nbc|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="USTVGO", NFL RedZone
@@ -1494,6 +1514,11 @@ https://ustvgo.tv/oxygen|autowebzoom=120scroll=50,100
 https://ustvgo.tv/pbs-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", POP
 https://ustvgo.tv/pop|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO", ReelzChannel Live Stream
+https://ustvgo.tv/reelzchannel-live-stream|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="USTVGO", Science
 https://ustvgo.tv/science|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", SEC Network
@@ -1506,6 +1531,12 @@ https://ustvgo.tv/sundance-tv|autowebzoom=120scroll=50,100
 https://ustvgo.tv/syfy-channel-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", TBS
 https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO", TeenNick Live Stream
+https://ustvgo.tv/teennick-live-stream|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="USTVGO", TLC
 https://ustvgo.tv/tlc-live-free|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO", Travel
@@ -1524,8 +1555,83 @@ https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
 https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="USTVGO-VPN", Updated 10-02-2022
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
+
+#EXTINF:-1 group-title="USTVGO-VPN", A&E
+https://ustvgo.tv/ae-networks-live-streaming-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", BET|autowebzoom=120scroll=50,100
+https://ustvgo.tv/bet 
+
+#EXTINF:-1 group-title="USTVGO-VPN", CBS 2 New York
+https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", Discovery Channel
+https://ustvgo.tv/discovery-channel-live|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", ESPN
+https://ustvgo.tv/espn-live|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", Fox Sports 1
+https://ustvgo.tv/fox-sports-1|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", HBO
+https://ustvgo.tv/hbo|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", History Channel
+https://ustvgo.tv/history-channel-live|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", Investigation Discovery
+https://ustvgo.tv/investigation-discovery-live-streaming-free|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", National Geographic
+https://ustvgo.tv/national-geographic-live|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", NBA TV
+https://ustvgo.tv/nba-tv|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", NBC 4 New York
+https://ustvgo.tv/nbc-4-new-york|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", NBC Sports
+https://ustvgo.tv/nbcsn|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", NFL Network
+https://ustvgo.tv/nfl-network-live-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", Paramount Network
+https://ustvgo.tv/paramount-network|autowebzoom=120scroll=50,100 
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", Showtime
+https://ustvgo.tv/showtime|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", TCM
+https://ustvgo.tv/tcm|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO-VPN", Tennis Channel
+https://ustvgo.tv/tennis-channel-live-free|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", TNT
+https://ustvgo.tv/tnt|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", USA Network
+https://ustvgo.tv/usa-network-live|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTVGO-VPN", VH1
+https://ustvgo.tv/vh1|autowebzoom=120scroll=50,100
 
 
 
