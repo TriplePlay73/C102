@@ -1564,7 +1564,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 https://ustvgo.tv/ae-networks-live-streaming-free|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="USTVGO-VPN", BET
-https://ustvgo.tv/bet 
+https://ustvgo.tv/bet|autowebzoom=120scroll=50,100 
 
 #EXTINF:-1 group-title="USTVGO-VPN", CBS 2 New York
 https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
