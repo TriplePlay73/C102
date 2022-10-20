@@ -688,7 +688,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playl
 
 
 
-#EXTINF:-1 group-title="Cleveland" , Updated 08.21.21
+#EXTINF:-1 group-title="Cleveland" , Updated 10.20.2022
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
@@ -696,29 +696,36 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 #EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
 
+#EXTINF:-1 group-title="Cleveland" , CH 3 News ~ autoweb
+https://www.wkyc.com/watch|autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="Cleveland" , CH 3 News ~ m3u8
+https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
 
-#EXTINF:-1 group-title="Cleveland" , WKYC News CH 3
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live-2000.m3u8
-#EXTINF:-1 group-title="Cleveland" , WEWS News CH 5
-https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&m.sound=normal&pos=midroll&expand=ad_live&m.sound=muted&m.playback=autoplay&ad.sz=1x1000&ad.cust_params=fname%3Dlive%26categories%3Dandnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%2Cgood-morning-cleveland%2Clivestream%2Cnoon%2C5-oclock-news%2Cnews%2Cwatch-online%2Cnewsnet5%2C11-pm-news%2C6-pm-news%2Cakron%26refdomain%3Dnews5cleveland.com%26iframed%3D0%26kw%3Dnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%2Cgood%20morning%20cleveland%2Clivestream%2Cnoon%2C5%20oclock%20news%2Cnews%2Cwatch%20online%2Cnewsnet5%2C11%20pm%20news%2C6%20pm%20news%2Cakron%26pxconfig%3Dweb-live%26player_width%3D1280%26player_height%3D720%26ip%3D[Insert_IP]%26ua%3D[Insert_UA]&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
-#EXTINF:-1 group-title="Cleveland" , WEWS  CH 5
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 group-title="Cleveland" , CH 5 News ~ autoweb
+https://www.cleveland19.com/livestream|autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="Cleveland" , CH 5 News ~ m3u8
+https://content-ause2-up-1.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c/d.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F&pbs=f9a05eb6029445cf99199a0e68d8a07f
 
+#EXTINF:-1 group-title="Cleveland" , CH  8 News ~ autoweb
+https://fox8.com/on-air/live-streaming|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="Cleveland" , WOIO News CH 19
-https://dai2-playlistserver.aws.syncbak.com/playlist/18549125/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0OTEyNSIsIm1kNSI6ImE3Mjk2ZWZiNGFmMmEyYWNkMjcwYWFkNDFiOTdjMzJmIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.QcB650_IlvlPrNqfAb2WLS1ZuI-xEVLEE_fcP1naVdQ
-
-
+#EXTINF:-1 group-title="Cleveland" , CH 19 News ~ autoweb
+https://www.news5cleveland.com/live|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="Cleveland" , TV 20 - Cleveland
-https://t07360-lh.akamaihd.net/i/t07360a_1@800131/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+https://ctyclevelandtv20.secure.footprint.net/egress/bhandler/ctyclevelandtv20/streama/manifest.m3u8
 
 
-#EXTINF:-1 group-title="Cleveland", WVIZ PBS - Cleveland
-https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
+
+#EXTINF:-1 group-title="Cleveland", CH 25 | PBS ~ autoweb
+https://video.ideastream.org/livestream|autowebzoom=120scroll=50,100
+
+
+
+
 
 
 
