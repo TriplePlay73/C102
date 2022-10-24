@@ -68,7 +68,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/pl
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 #EXTINF:-1 group-title="News" , Press TV
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="News" , Al Jazeera EN
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
