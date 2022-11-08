@@ -102,11 +102,14 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 group-title="News" ,Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-#EXTINF:-1 group-title="News" ,NTD News
+#EXTINF:-1 group-title="News" ,NTD News East
 https://ntd02.akamaized.net/NTDA/index.m3u8
 
-#EXTINF:-1 group-title="News" ,NTD News *Direct
-https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 group-title="News" ,NTD News West
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+
+#EXTINF:-1 group-title="News" ,NTD News UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 
 #EXTINF:-1 group-title="News" ,Newsmax TV 720 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
