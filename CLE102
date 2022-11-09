@@ -106,7 +106,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #EXTINF:-1 group-title="News" , The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8?did=018945f0-6205-4145-87be-c7b66a54c1fb&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.104+Mobile+Safari%2F537.36&us_privacy=1---&dnt=1&content_id=5e273ed2f074740001ce550f&content_title=The+First+TV+LIVE&content_episode=2&content_season=1&device_type=&device_model=&device_make=Web&device_ifa=&cb=tf509166489&app_name=TheFirstTV&app_id=&app_bundle=com.thefirsttv.live&app_domain=com.thefirsttv
 
-#EXTINF:-1 group-title="News" , NewMax *Dr=irect
+#EXTINF:-1 group-title="News" , NewMax *Drirect
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
 
