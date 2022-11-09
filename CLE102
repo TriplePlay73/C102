@@ -7,7 +7,7 @@ https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8?
 
 #EXTINF:-1 group-title="Election TV 2022" ,  NTD 2022
-https://vs1.youmaker.com/assets/a345a035-fecb-42e9-bd3f-c37f70c1e0e4/hls_720p/playlist.m3u8
+https://ntd02.akamaized.net/NTDA/index.m3u8
 
 #EXTINF:-1 group-title="Election TV 2022" , Lindell-TV Live
 https://rumble.com/live-hls-dvr/1n822q/playlist.m3u8?
@@ -29,9 +29,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D58
 #EXTINF:-1 group-title="Election TV 2022" ,   CNN HD *Direct
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="Election TV 2022" , Fox News * 4 hour link 10:25 pm
-https://h1.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIyIDExOjM0OjU2IFBNJmhhc2hfdmFsdWU9NnFKYXA5djg0bmVaeXFCcVo2V1dzUT09JnZhbGlkbWludXRlcz0yNDA=
-
+#EXTINF:-1 group-title="Election TV 2022" , Fox News * 4 hour link 11:35 pm
+https://h2.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIyIDEyOjM5OjE5IEFNJmhhc2hfdmFsdWU9VjBMMWNmRG93cnJwVnRndGdWUnVnZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 group-title="Election TV 2022" , One America News Network * 4 hour linl 10:25 pm
 https://h4.ustvgo.la/OAN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIyIDExOjM2OjE2IFBNJmhhc2hfdmFsdWU9STBteUhqT29XTlVESUlpZkVxMDR6UT09JnZhbGlkbWludXRlcz0yNDA=
