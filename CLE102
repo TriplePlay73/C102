@@ -1,6 +1,32 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="AZ",  1
+https://cdn3.wowza.com/5/b20zTGtHK2o2SGJk/CdnOrigin/Cam11.stream/playlist.m3u8?hdnts=st=1668122447~exp=1668124247~hmac=22d38f0b62e8507fa1d008e3d8a3f2d1b0dbae8e40f3638e615e74357ae3bcac
+
+#EXTINF:-1 group-title="AZ",  2
+https://cdn3.wowza.com/5/dHhSdGJud2xEZ0lt/CdnOrigin/Cam3.stream/playlist.m3u8?hdnts=st=1668122512~exp=1668124312~hmac=c355a62c6e5bd5dd1635feb90cc8dcf1249f149132f2dbff0ba6766decabe233
+
+#EXTINF:-1 group-title="AZ",  3
+https://cdn3.wowza.com/5/dHhSdGJud2xEZ0lt/CdnOrigin/Cam9.stream/playlist.m3u8?hdnts=st=1668122611~exp=1668124411~hmac=39dd761402f085404af1c162316d1a9e944ce9aa830cbb6360016b2d0c2ce1c4
+
+#EXTINF:-1 group-title="AZ",  4
+https://cdn3.wowza.com/5/b20zTGtHK2o2SGJk/CdnOrigin/Cam8.stream/playlist.m3u8?hdnts=st=1668122643~exp=1668124443~hmac=bc6c4ab4db9560d65be11b46bdbd51a5289201df38e79dafdde34a75c2dc2ed1
+
+#EXTINF:-1 group-title="AZ",  5
+https://cdn3.wowza.com/5/b20zTGtHK2o2SGJk/CdnOrigin/Cam5.stream/playlist.m3u8?hdnts=st=1668122677~exp=1668124477~hmac=d803b25e9b957857f5e8b932a9d28acbfe736cd905ce5461bf02119d10320c07
+
+#EXTINF:-1 group-title="AZ",  6
+https://cdn3.wowza.com/5/dHhSdGJud2xEZ0lt/CdnOrigin/Cam1.stream/playlist.m3u8?hdnts=st=1668122714~exp=1668124514~hmac=1ceb41f774a64406276f0a9b92089c8dd770fa6832718aec578af39a1f4b26c0
+
+#EXTINF:-1 group-title="AZ",  7
+https://cdn3.wowza.com/5/dHhSdGJud2xEZ0lt/CdnOrigin/Cam6.stream/playlist.m3u8?hdnts=st=1668122744~exp=1668124544~hmac=7138d4170f45a6a0bb76e316d52bc23dfbf3fbb8b81ecba1269fb022d43ff146
+
+#EXTINF:-1 group-title="AZ",  8
+https://cdn3.wowza.com/5/dHhSdGJud2xEZ0lt/CdnOrigin/Cam4.stream/playlist.m3u8?hdnts=st=1668122774~exp=1668124574~hmac=159dace3ae84e4ba93c15f347c8335bd7f1dedc32079e04511082ddc479c3f7b
+
+#EXTINF:-1 group-title="AZ",  9
+https://cdn3.wowza.com/5/b20zTGtHK2o2SGJk/CdnOrigin/Cam2.stream/playlist.m3u8?hdnts=st=1668122803~exp=1668124603~hmac=1e9c459b444d7751ce4e24ffbcc287e2f087680af7c69f0e016fcc70dea86ea8
 
 
 
