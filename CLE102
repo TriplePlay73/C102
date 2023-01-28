@@ -11,8 +11,6 @@
 #EXTINF:-1 group-title="Fireplace", Stingray Fireplace
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eMEUsniiieW3P_rhWVW6
 
-#EXTINF:-1 group-title="", house
-https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ZZsqYK3y5hUQzSTCB0C9VR5pz_WbBDbPSW0kyaQKI67veBRnXRNUJH35PsvF8pLX3vOPW4tSUd2ECy-mVNwq4Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="Nature", Updated 12-17-21
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb/variant.m3u8?url=15c6a0e3d22867604deb11506ae2919c-3e9619651de2d8b74d92499da000418d31a72a9d4e049dfe98fa92337fb78257ce30c4d2dd385fbcce13b45a1e45b0678d30f5804c2939c4743f2d04bf3692a64d1574b57d46c9f58d0fd78c0b3f76f48bd3f26529865fe78c9f476b93453adaf8612aa5a631238be38ec61776dab45eaae7fbebe141e14318c302d2a7fa18086f2750989b15dd6fbfbce0a3d8409a78f6fde3f44982c69f02d9eccdb2033b8234492eee2032413ce5a6b22d91d08653f3996e59289e33b142f261609d3e3a92225e8862fd412bc1a8a1213bc5bb3f13a8216a95d4f2361d49c61339838c12e4b8247ce3f112a0154704165aa7b0fdc3b61145e93d944d7e39889d327da14077a12b751c8d0120e9dc18f950d4767b16eb97b1d1f46520b2af374dfb5d0568e90d61c76513a05897e603ec759af5e76f69360b2957c7569abd8e27462eabb82e51f038163585d44e05a2e38d3a41597d364c2e746ef16943dec47f498a07ca7e9c3be34e1a002c1073a5e7fbc8045ae67899281e096f42ac821d7019c95cd2c6c2c5e457b4ad8ace1f46a0c44d9c01dd0851e5adee106a61686cb9b31206588b266311d26b5b39cc5fbd1fca55e99f3e5ce783c92c4e030bcbe268f983707e1bdc3c8c4cea7c5b61ce5e602c173881f803e4f8441cb7544d65f9c7a395f8b342b3ab109d7f410685e246204d91d610ebb4878518dba2a81f4e9c37f11757c476e3c50ae7a5b9b635da7f01cdb52472eb3afb32c4df509281bab3fc64d1516b4a668f33de0f47bc1757dcda52ddb5b3f2bdf70306602c2822b379cdb5c70f1d9615bdab67ce64898d5ca0eea03978673f88d25832546e8cedcd981e20f59529e1ef35e6d91399332a8662da8f6235a8d11acf044cf3260aa97505be79c25951168fb77a49d3467bbaea5ef01ef5284d3d6d8ff4e9965e2615284ccb1b230165fbcba2388e8de7de4fa014deb9630f24252d3c2405d9fc0c9c31443c5ff596bc3520611c20664c3ef28999fccd3cbc891c227c14991084e4d00303aac3f37f7c8d88d353eb6ad1eb3daf02e4c997f50c7e4791eb6aa4d0081f859946140c4058defaf6395f22e31c28aeb23245198e2773d09b99ade48dac7a787287a9630c36574ee117d61251f41fd348d458482468d928cfcd8cd9623a36a17a67b45b59ba387b7c110c9853c9be6ec08b80f73fa3da753551371adf07201cbbaf0d14cfb4ef8b446073595431c31ccf77640fb215e5efbe501c1ff00e80828309ed5653b436b485560e074396cc850ecc8289da947ebd257d7d8fc56ab8fde44071c4cbb6c56e2a465090fa1e9b05af3d9c109fe253db9ea915449344931d06ce80a9e3148e87fa0b6c7550222a8be2cb9b5ee3255f46f7ef0caf8f8e073d91b80455bf30b3cf23be80562f381e9165507ac0ec57d62d28aec648b5b40f53e2f1ddacdb2d64da7b929b2ed431ec3c383b36f6db3a8d9b3609a47c2400fdbaeffd6838fc50b99e5c8ebdbec3618b69da59a8a5a462d7edd9f58520cab602b47eca4975db00bc4822037b82fa024d5079fbdbd8556a59fdcfe6987f0074a944bcc7347de4c84e550a751ca432e61ea393bc05b98b09315c1e875c07056b46a0f4776f29493514da2f7d0c289e8fd120c183e05cb30b808d31eb587dddcc2893c9a81dd5ce4759a121aa7a85fd24723c66e8c3bc456e9d475dac39149a53b2167e45f321fb6b95aab90cb38eefb5c3c2f03f6657970dcc82ac9fdd2578d6c2dbcdbea30173a8f98de5e68b332ae36f5ddda9668930a6221c6521e56c6d48d9bb05ea08f89e03a4254d2d8b7a3357f1440f2d5f59d5f4fd8115e44d0a5c85107a752487ce8e30df5779f6388db0cc5d23798ed2ba94fe5142137177de37c42b6358ae1860275ad38e145721a55da00c219862ddf9922664fad27d635333ee8d5ec00ef1e41d5674cf3e69e646a4c971c00497e60eb93d6f7f75fb254afcfcb1f067b40794051dd1a750b7af8fb50508e87e150eb294933cce498991d54d53a5a9bccef99845670b7954ce26638a9f569f9c490faee296d10f0cdfcc6c5c70d67f05549fbde19d383454fa0f6418229ce87840fa3b37788b42f55c3be2094d7d924e15e11bfce96afc464514e384424d6469fec2b4f2a315ddbc265da7cd4ebc7bfb321470030ba0d05aff302fe856bc8b5f563e879806466bf827e33aaec58cefd6ba116535c4664994911e1d01e39af72eb99b5ead2657e33b54ebfa8fa2025b8df6fc5026bc14&x-plex-token=RgR4ucCXi1Sz87CZ9sDP
@@ -62,19 +60,6 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="News" , Brighteon
 https://rtmp-edge.brighteon.com/hls/brighteones-live/index.m3u8
 
-#EXTINF:-1 group-title="News", One America News Network
-https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="News", Fox News Temp Link
-https://h1.ustvgo.la/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDIyIDEwOjA2OjQwIFBNJmhhc2hfdmFsdWU9dnpjZ2hHZ094U3RXd2xLTlBWdU9mZz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:-1 group-title="News", Fox News
-https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="News", Fox Business
-https://ustvgo.tv/fox-business-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="News" ,Fox News HD *Audio
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 
@@ -146,8 +131,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D58
 ##https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
 
-##EXTINF:-1 group-title="News" ,C Span
-https://ustvgo.tv/c-span|autowebzoom=120scroll=50,100
 
 EXTINF:-1 group-title="News" ,Fox News Now *Tubi
 https://lnc-fox-news-now.tubi.video/index.m3u8
@@ -163,8 +146,6 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
-#EXTINF:-1 group-title="News",  CNN
-https://ustvgo.tv/cnn-live-streaming-free|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Viloud
 https://stream.viloud.tv/aS84Z2RzNHIzZURiQkp0cEgxa081NjNMSVNZc2l2TEhkTEQ4VU5obCs1WkdzVEpscXQ1UmFkeU9BNk1uWU5ReC15NXNFVXVBT283ODdsSi9zNXNhMVFRPT0/live.m3u8
@@ -216,14 +197,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 
 
 
-#EXTINF:-1 group-title="TV", The CW
-https://ustvgo.tv/the-cw-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", The CW New York
-https://ustvgo.tv/the-cw-11-new-york|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Freeform
-https://ustvgo.tv/freeform-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV",FXX
-https://ustvgo.tv/fxx|autowebzoom=120scroll=50,100
+
 #EXTINF:-1 group-title="TV", TNT East (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="TV", TNT West (720p)
@@ -234,58 +208,35 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="TV", TBS West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="TV", BBC America
-https://ustvgo.tv/bbc-america-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", POP
-https://ustvgo.tv/pop|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="TV", Electric Now HD
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="TV", Charge HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 group-title="TV", Comet TV HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 group-title="TV", CMT
-https://ustvgo.tv/cmt|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", NAT GEO WILD
-https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Syfy
-https://ustvgo.tv/syfy-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", TruTV
-https://ustvgo.tv/trutv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", TLC
-https://ustvgo.tv/tlc-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Sundance TV
-https://ustvgo.tv/sundance-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", TV Land
-https://ustvgo.tv/tv-land-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", We TV
-https://ustvgo.tv/we-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", ABC
-https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", ABC New York
-https://ustvgo.tv/abc-7-new-york|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", CBS
-https://ustvgo.tv/cbs-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", CBS New York
-https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", FOX
-https://ustvgo.tv/fox-hd-live-streaming|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", FOX Newy York
-https://ustvgo.tv/fox-5-new-york|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="TV", NBC  LX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="TV", HGTV
-https://ustvgo.tv/hgtv-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", DIY
-https://ustvgo.tv/diy|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="TV",  This Old House HD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=md9VV6aBBqypVuhYwD2D
 #EXTINF:-1 group-title="TV",  This Old House Classic
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
-#EXTINF:-1 group-title="TV", Destination America
-https://ustvgo.tv/destination-america|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Travel
-https://ustvgo.tv/travel-channel-live-free|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="TV", Modern Marvels
+https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.bmodel=bm7&ads.channelStore=us&ads.content=4f3b4b68a6f45f17ad67903fe6826cbb&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=educational&ads.is_lat=1&ads.platform=web&ads.studio_id=ae_mg&ads.rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F109.0&is_lat=1&bmodel=bm7&content=4f3b4b68a6f45f17ad67903fe6826cbb&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&genre=educational&content_rating=TV14&studio_id=ae_mg&channel_id=151908&channelStore=us
+
+
+
 #EXTINF:-1 group-title="TV",  Skills + Thrills | Channel 1*
 https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=undefined&ads.targetopt=1&ads.plex_token=Hxxs36dTRWK1K6knFZMF&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F94.0.4606.81%20Safari%2F537.36&ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https%3A%2F%2Fapp.plex.tv&ads.gdpr=0&ads.consent=0&ads.device_type=desktop&ads.device_id_type=
 #EXTINF:-1 group-title="TV",  Skills + Thrills | Ch.2 | +1h*
@@ -295,30 +246,19 @@ https://aenetworks-skills-thrills-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV",  Antiques Roadshow UK
 https://e38d59024a5f47f088425240fac80d81.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AntiquesRoadshowUK/playlist.m3u8?ads.wurl_channel=905&ads.wurl_name=AntiquesRoadshowUK&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7621860c34c65549ae30e334f355a3d4&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7621860c34c65549ae30e334f355a3d4&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
 
-#EXTINF:-1 group-title="TV", OWN
-https://ustvgo.tv/own|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Science
-https://ustvgo.tv/science|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Oxygen
-https://ustvgo.tv/oxygen|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="TV", AMG-TV 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:-1 group-title="TV", Court TV HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
 #EXTINF:-1 group-title="TV", Law & Crime *Direct
 https://lawcrime.s.llnwi.net/h72/lawcrimech2/720p-playlist.m3u8
-#EXTINF:-1 group-title="TV", Cinemax
-https://ustvgo.tv/cinemax|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Starz
-https://ustvgo.tv/starz-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Hallmark Channel
-https://ustvgo.tv/hallmark-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Hallmark Movies & Mysteries
-https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Lifetime
-https://ustvgo.tv/lifetime-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV",, Lifetime Movies
-https://ustvgo.tv/lifetime-movies|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="TV", Movie Favorites *By Lifetime
 https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
 
@@ -326,10 +266,10 @@ https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV", Slightly Off by IFC
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="TV", AMC
-https://ustvgo.tv/amc-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Animal Planet
-https://ustvgo.tv/animal-planet-live|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="TV", AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV", Rush by AMC
@@ -363,30 +303,29 @@ https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV", Midnight Pulp HD
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
-#EXTINF:-1 group-title="TV", FX
-https://ustvgo.tv/fx-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", FXM
-https://ustvgo.tv/fxm|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="TV", Absolute Reality by We TV
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="TV", Bravo
-https://ustvgo.tv/bravo-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", MTV
-https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="TV", TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="TV", E!
-https://ustvgo.tv/eonline|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV",#EXTINF:-1 group-title="TV", Comedy Central
-https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
+
+
+
+
+
 #EXTINF:-1 group-title="TV",   Kevin Hart's LOL! Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 #EXTINF:-1 group-title="TV",  It's Showtimw At The Apollo
 https://dai2.xumo.com/xumocdn/DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
 #EXTINF:-1 group-title="TV", Comedy Dynamics
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/512x288_875600/chunklist.m3u8
-#EXTINF:-1 group-title="TV", Food Network
-https://ustvgo.tv/food-network-live-free|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="TV", Journy
 https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
 #EXTINF:-1 group-title="TV", Bon Appetit
@@ -394,30 +333,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/p
 
 #EXTINF:-1 group-title="TV", Buzzr HD
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV", GSN
-https://ustvgo.tv/gsn|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", MotorTrend
-https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="TV", Power Nation
 https://058a64454ed94c49b2afec7aaab9a695.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RTMTVChannel/playlist.m3u8?ads.wurl_channel=483&ads.wurl_name=RTMTVChannel&ads.bmodel=bm1&ads.channelStore=us&ads.content=4b78d64e46215bcd8d80e826c8a9ca96&ads.content_rating=TVG&ads.tags=cat-cars&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=rtm&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=4b78d64e46215bcd8d80e826c8a9ca96&platform=web&tags=cat-cars&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=rtm&channel_id=151908&channelStore=us
 
 
-#EXTINF:-1 group-title="TV", Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", DisneyJr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", DisneyXD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="TV", PBS
-https://ustvgo.tv/pbs-live|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="TV", PBS | KET HD
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_DVR.m3u8
 
@@ -455,8 +380,7 @@ https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Weather", The Weather Channel
-https://ustvgo.tv/the-weather-channel-live-streaming-free|autowebzoom=120scroll=50,100
+
 
 
 
@@ -858,23 +782,7 @@ https://na.linear.zype.com/7cb77774-2454-b6c3-d9f4-7aa073c19fec/d5464fb0-08e7-4f
 #EXTINF:-1 group-title="Music Video",  Vevo '70s
 https://na.linear.zype.com/257c843a-7f56-4b2c-bdcd-63ce5f56e1b7/a3dcf47a-9df4-4254-bce1-0cd569b378c7-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=c0dc91adadea5075bd0ade842dda91ac&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
 
-#EXTINF:-1 group-title="Music Video",   Loop Music Videos
-https://loopmusic-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-loopmusic-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mHLguq7KAeUAboPmP8KS&channelId=60cab54031ae01002cf7bb31
 
-#EXTINF:-1 group-title="Music Video",  Loop Hottest
-https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8?ads.wurl_channel=779&ads.wurl_name=LoopHottest&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=43c6f5fd43a15f4493fad5051a49d149&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=43c6f5fd43a15f4493fad5051a49d149&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop 80s
-https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8?ads.wurl_channel=782&ads.wurl_name=Loop80s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9b3ae6a49fe35d1bb8714fcd36b3e928&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9b3ae6a49fe35d1bb8714fcd36b3e928&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop 90s
-https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8?ads.wurl_channel=783&ads.wurl_name=Loop90s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=5535a5ff8eb35498a962d6f91c1df0ea&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5535a5ff8eb35498a962d6f91c1df0ea&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop Hip Hop
-https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8?ads.wurl_channel=781&ads.wurl_name=LoopHipHop&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=045011263e665b64a2b7555477c0306b&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=045011263e665b64a2b7555477c0306b&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="Music Video",  Loop Party
-https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8?ads.wurl_channel=780&ads.wurl_name=LoopParty&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3cd40990b0d55e688323c23604632d89&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3cd40990b0d55e688323c23604632d89&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
 
 #EXTINF:-1 group-title="Music Video",  YO' MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
@@ -906,8 +814,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00432-circle-circle-rokuus/playlist
 #EXTINF:-1 group-title="Music Video",  Vevo Country
 https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0d686f34a8895272bab07d328cd6a31e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
 
-#EXTINF:-1 group-title="Music Video",  Loop Country
-https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8?ads.wurl_channel=784&ads.wurl_name=LoopCountry&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3d88322cc29d582b8e45c3c1c9cd7f8e&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3d88322cc29d582b8e45c3c1c9cd7f8e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
 
 #EXTINF:-1 group-title="Music Video",  The Country Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=61afa9a5d60d51afb3d239bc4bfa23f6&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=cinedigm&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
@@ -955,26 +861,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u
 #EXTINF:-1 group-title="Kids", Kids Bop
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbop-kidzbop-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&content=57549c1813c55499bef7a27281a7f9ca&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=kidzbop&bmodel=bm1&channelStore=us&tags=cat-ages-7-9%2Ccat-butterflies%2Ccat-robots%2Ccat-kids-linear&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
 
-#EXTINF:-1 group-title="Kids",Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="Kids",Disney Jr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney XD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="Kids",Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="Kids", PBS Kids (Geo-USA) East HD
 https://live-cdn.pbskids.org/out/u/est.m3u8
@@ -1405,277 +1292,23 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 
 
-#EXTINF:-1 group-title="USTVGO",  Updated 10-02-2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
-
-
-#EXTINF:-1 group-title="USTVGO", ABC
-https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", ABC New York
-https://ustvgo.tv/abc-7-new-york|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", ACC Network
-https://ustvgo.tv/acc-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", AMC
-https://ustvgo.tv/amc-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Animal Planet
-https://ustvgo.tv/animal-planet-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", BBC America
-https://ustvgo.tv/bbc-america-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Big Ten Network
-https://ustvgo.tv/big-ten-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Bravo
-https://ustvgo.tv/bravo-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", C-SPAN
-https://ustvgo.tv/c-span|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CBS
-https://ustvgo.tv/cbs-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", CBS New York
-https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", CBS SPORTS
-https://ustvgo.tv/cbs-sports-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Cinemax
-https://ustvgo.tv/cinemax|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CMT
-https://ustvgo.tv/cmt|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO", CNBC
-https://ustvgo.tv/cnbc|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CNN
-https://ustvgo.tv/cnn-live-streaming-free|autowebzoom=120scroll=50,100 
-
-
-
-#EXTINF:-1 group-title="USTVGO", Comedy Central
-https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", The CW
-https://ustvgo.tv/the-cw-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", The CW New York
-https://ustvgo.tv/the-cw-11-new-york|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", Destination America
-https://ustvgo.tv/destination-america|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DisneyJr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DisneyXD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DIY
-https://ustvgo.tv/diy|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", E!
-https://ustvgo.tv/eonline|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPN2
-https://ustvgo.tv/espn2-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPNU
-https://ustvgo.tv/espnu|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPNews
-https://ustvgo.tv/espnews|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Food Network
-https://ustvgo.tv/food-network-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FOX
-https://ustvgo.tv/fox-hd-live-streaming|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", FOX Newy York
-https://ustvgo.tv/fox-5-new-york|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO", Fox Business
-https://ustvgo.tv/fox-business-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Fox News
-https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Freeform
-https://ustvgo.tv/freeform-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Fox Sports 2
-https://ustvgo.tv/fox-sports-2|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FX
-https://ustvgo.tv/fx-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FXM
-https://ustvgo.tv/fxm|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FXX
-https://ustvgo.tv/fxx|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", GSN
-https://ustvgo.tv/gsn|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Hallmark Channel
-https://ustvgo.tv/hallmark-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", HGTV
-https://ustvgo.tv/hgtv-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", HLN
-https://ustvgo.tv/hln|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Hallmark Movies & Mysteries
-https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO",  ION (WPXN) New York
-https://ustvgo.tv/ion-wpxn-new-york|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO", Lifetime
-https://ustvgo.tv/lifetime-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Lifetime Movies
-https://ustvgo.tv/lifetime-movies|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", MLB Network
-https://ustvgo.tv/mlb-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", MotorTrend
-https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
-
-MSNBC Live Streaming Free
-https://ustvgo.tv/msnbc|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO", MTV
-https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", NAT GEO WILD
-https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="USTVGO", NBC
-https://ustvgo.tv/nbc|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTVGO", NFL RedZone
-https://ustvgo.tv/nfl-redzone|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", One America News Network
-https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", OWN
-https://ustvgo.tv/own|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Olympic Channel
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Oxygen
-https://ustvgo.tv/oxygen|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", PBS
-https://ustvgo.tv/pbs-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", POP
-https://ustvgo.tv/pop|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="USTVGO", ReelzChannel Live Stream
-https://ustvgo.tv/reelzchannel-live-stream|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTVGO", Science
-https://ustvgo.tv/science|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", SEC Network
-https://ustvgo.tv/sec-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Starz
-https://ustvgo.tv/starz-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Sundance TV
-https://ustvgo.tv/sundance-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Syfy
-https://ustvgo.tv/syfy-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TBS
-https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTVGO", TeenNick Live Stream
-https://ustvgo.tv/teennick-live-stream|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTVGO", TLC
-https://ustvgo.tv/tlc-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Travel
-https://ustvgo.tv/travel-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TruTV
-https://ustvgo.tv/trutv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TV Land
-https://ustvgo.tv/tv-land-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", The Weather Channel
-https://ustvgo.tv/the-weather-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", We TV
-https://ustvgo.tv/we-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", WWE Network
-https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", YES Network
-https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTVGO-VPN", Updated 10-02-2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
 
-#EXTINF:-1 group-title="USTVGO-VPN", A&E
-https://ustvgo.tv/ae-networks-live-streaming-free|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="USTVGO-VPN", BET
-https://ustvgo.tv/bet|autowebzoom=120scroll=50,100 
 
-#EXTINF:-1 group-title="USTVGO-VPN", CBS 2 New York
-https://ustvgo.tv/cbs-2-new-york|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", Discovery Channel
-https://ustvgo.tv/discovery-channel-live|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", ESPN
-https://ustvgo.tv/espn-live|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", Fox Sports 1
-https://ustvgo.tv/fox-sports-1|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", HBO
-https://ustvgo.tv/hbo|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", History Channel
-https://ustvgo.tv/history-channel-live|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", Investigation Discovery
-https://ustvgo.tv/investigation-discovery-live-streaming-free|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", National Geographic
-https://ustvgo.tv/national-geographic-live|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", NBA TV
-https://ustvgo.tv/nba-tv|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", NBC 4 New York
-https://ustvgo.tv/nbc-4-new-york|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", NBC Sports
-https://ustvgo.tv/nbcsn|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", NFL Network
-https://ustvgo.tv/nfl-network-live-free|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", Paramount Network
-https://ustvgo.tv/paramount-network|autowebzoom=120scroll=50,100 
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", Showtime
-https://ustvgo.tv/showtime|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", TCM
-https://ustvgo.tv/tcm|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO-VPN", Tennis Channel
-https://ustvgo.tv/tennis-channel-live-free|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", TNT
-https://ustvgo.tv/tnt|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", USA Network
-https://ustvgo.tv/usa-network-live|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTVGO-VPN", VH1
-https://ustvgo.tv/vh1|autowebzoom=120scroll=50,100
 
 
 
@@ -3334,8 +2967,6 @@ http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8
 #EXTINF:-1 group-title="Olympics 2022", Olympc Channel 
 http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8
 
-#EXTINF:-1 group-title="Olympics 2022", Olympc Channel 
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="Olympics 2022", USA Today 2022 Winter Games
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=c39c1981a0a25ceb8deef626de550d56&platform=web&content_type=livefeed&content_rating=TVPG&is_roku_lat=1&studio_id=usatoday&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
