@@ -229,9 +229,31 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp
 
 
 
-#EXTINF:-1 group-title="TV", NBC  LX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="TV", Hallmark Movies & More dummy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
+#EXTINF:-1 group-title="TV", Hallmark Movies & More
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
+
+
+
+
+#EXTINF:-1 group-title="TV", Slightly Off IFC
+https://69c5398a50774cad9a6adceb3f65f2cd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCSlightlyOff/playlist.m3u8?ads.wurl_channel=564&ads.wurl_name=AMCSlightlyOff&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vFyCuRbJsYcfJFsiXPvz&ads.plex_id=5fc705eea2236e002d69f5ae&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="TV", Movie Favorites by Lifetime
+https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TV", Movie Favorites Presented By Lifetime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1e47ef0f132afc3afbab2.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
+
+#EXTINF:-1 group-title="TV", Perform Presented By Lifetime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1ddfaf0f132afc3afbaae.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
+
+
+#EXTINF:-1 group-title="TV", Cops
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
 
 
 
@@ -275,7 +297,10 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV", Slightly Off by IFC
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-
+#EXTINF:-1 group-title="TV", Stories by AMC
+https://amc-amcpresents-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1,AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV", AMC Presents
@@ -288,6 +313,8 @@ https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 group-title="TV", Crackle
 https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
+#EXTINF:-1 group-title="TV", Crackle Spotlight (Geo)
+https://crackle-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV",  MovieSphere | HD
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV",  Movie Kingdom *Distro
@@ -319,8 +346,7 @@ https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV", TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=f0abcf35f14759eaac2cbade2af04776&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=tmz&channelStore=us&tags=ROKU_CONTENT_TAGS
-
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
 
 
 
