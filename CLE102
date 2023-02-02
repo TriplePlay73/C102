@@ -229,8 +229,7 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp
 
 
 
-#EXTINF:-1 group-title="TV", Hallmark Movies & More dummy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV", Hallmark Movies & More
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
@@ -245,8 +244,6 @@ https://aenetworks-holidaymoviefavorites-1-us-logo.vizio.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="TV", Movie Favorites Presented By Lifetime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1e47ef0f132afc3afbab2.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
 
 #EXTINF:-1 group-title="TV", Perform Presented By Lifetime
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1ddfaf0f132afc3afbaae.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
@@ -254,6 +251,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1ddfaf0f1
 
 #EXTINF:-1 group-title="TV", Cops
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+
+#EXTINF:-1 group-title="TV", Cops (CA~LG)
+https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV", Cops (GB~LG)
+https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
+
+
+
 
 
 
