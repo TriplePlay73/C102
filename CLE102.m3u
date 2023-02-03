@@ -314,7 +314,7 @@ https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", Stories by AMC
 https://amc-amcpresents-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1,AMC Thrillers
+#EXTINF:-1 group-title="TV", AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 
