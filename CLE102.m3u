@@ -34,7 +34,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fd
 #EXTINF:-1 group-title="Nature", PBS Nature
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ffqsmzkYxsd_Wya624oJ
 
-#EXTINF:-1 group-title="Nature", Real Wild
+#EXTINF:-1 group-title="Nature",  Real Wild
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63584a0cf8e2be1350f802a4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jdKJwVDmyz7bz6HQvyEj
 
 
