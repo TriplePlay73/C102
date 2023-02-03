@@ -8,8 +8,6 @@
 
 ## OG LIST BELOW
 
-#EXTINF:-1 group-title="Fireplace", Stingray Fireplace
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eMEUsniiieW3P_rhWVW6
 
 
 #EXTINF:-1 group-title="Nature", Updated 12-17-21
@@ -134,9 +132,6 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 ##EXTINF:-1 group-title="News" , Newsmax TV Direct
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
-
-## Newsmax TV 720 *
-##https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
 
 
@@ -2839,6 +2834,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 
 
 Video On Demand
+#EXTINF:-1 group-title="Fireplace", Stingray Fireplace
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eMEUsniiieW3P_rhWVW6
+
 
 #EXTINF:-1 group-title="Fireplace" , Fireplace - Naturescape
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
