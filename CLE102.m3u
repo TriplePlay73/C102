@@ -373,7 +373,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CD
 
 
 #EXTINF:-1 group-title="TV", Journy
-https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojourny/CDN/playlist.m3u8
+
+
 #EXTINF:-1 group-title="TV", Bon Appetit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=dbe618e5fa3158b4ba5c68f5805dd42d&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=conde_nast&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F97.0.4692.99+Safari%2F537.36&is_lat=1&channel_id=151908
 
@@ -1449,6 +1451,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Westerns", Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
