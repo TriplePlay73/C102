@@ -272,8 +272,8 @@ https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV",  This Old House HD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=md9VV6aBBqypVuhYwD2D
-#EXTINF:-1 group-title="TV",  This Old House Classic
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
+##EXTINF:-1 group-title="TV",  This Old House Classic
+##https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
 
 #EXTINF:-1 group-title="TV", Modern Marvels
 https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.bmodel=bm7&ads.channelStore=us&ads.content=4f3b4b68a6f45f17ad67903fe6826cbb&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=educational&ads.is_lat=1&ads.platform=web&ads.studio_id=ae_mg&ads.rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F109.0&is_lat=1&bmodel=bm7&content=4f3b4b68a6f45f17ad67903fe6826cbb&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&genre=educational&content_rating=TV14&studio_id=ae_mg&channel_id=151908&channelStore=us
@@ -322,8 +322,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="TV",  Popcorn Flix
 https://popcornflix-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=60089d8df682a3002c348297/hls/amagi_hls_data_crackleAA-popcornflix-plex/CDN/1920x1080_5055600/index.m3u8
-#EXTINF:-1 group-title="TV", Popcorn Flix Action
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
 #EXTINF:-1 group-title="TV", Crackle
 https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=NCwqhyAx9LFYTHzrM8SV&channelId=5fd2759bc8634d002d9ff9bc&caid=&coppa=0/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/1280x720_2780800/index.m3u8
 #EXTINF:-1 group-title="TV", Crackle Spotlight (Geo)
@@ -334,11 +333,11 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/e9b4093a41/%2b0000/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=75.188.185.189&ads.width=697&ads.height=392&ads.deviceId=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.contentid=22731&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fmovie-kingdom&ads.rnd=jmii&ads.content_duration=3600&ads.episode_id=15662&ads.show_id=538&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.geo=US&ads.lat=41.445301&ads.long=-81.699097&ads.app_version=202012151338&ads.deviceMake=Web&ads.env_i=898281b2-6dae-4b9e-a4d8-08f4c6ef1d46&ads.env_u=106f6d0e-8d9f-411d-bf8a-89474cee1f71&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=510&ads.geoType=2
 
 
-#EXTINF:-1 group-title="TV",  Redbox 1
+#EXTINF:-1 group-title="TV",  Redbox Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="TV",Redbox 2
+#EXTINF:-1 group-title="TV",Redbox Comedy
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="TV",  Redbox 3
+#EXTINF:-1 group-title="TV",  Redbox Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 
@@ -460,8 +459,7 @@ https://eaaa414db25b43a1b6bee085c61ea487.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 group-title="Weather", Updated 1-26-2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Weather",  Fox Weather | Webstream
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -489,8 +487,7 @@ https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Music",  Updated 1.30.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -759,8 +756,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playl
 
 
 #EXTINF:-1 group-title="Cleveland" , Updated 10.20.2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cleveland" ,  West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
@@ -794,8 +790,7 @@ https://ctyclevelandtv20.secure.footprint.net/egress/bhandler/ctyclevelandtv20/s
 
 
 #EXTINF:-1  group-title="Local Radio", Updated 3.3.2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1  group-title="Local Radio", 92.3
@@ -861,8 +856,7 @@ https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=nu
 
 
 #EXTINF:-1 group-title="Music Video",  Updated 12-17-21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -983,8 +977,7 @@ https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4c
 
 
 #EXTINF:-1 group-title="Kids", Updated 7.23.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids", Rev and Roll
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8?p=roku&rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=true&is_roku_lat=1&platform=web&content=2a793427a46b5228a7b1ed7b508dfbec&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=TVY&channelStore=us&bmodel=bm1&tags=cat-butterflies%2Ccat-robots%2Ccat-kids-linear%2Ccat-ages-4-6&studio_id=wildbrain&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
@@ -1135,7 +1128,9 @@ https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 
 
 #EXTINF:-1 group-title="Kids 2",   Updated 1.30.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Kids 2", Classic Toons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
@@ -1209,8 +1204,7 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1  group-title="Local Police, EMS,& Fire", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1  group-title="Local Police, EMS,& Fire",Cleveland Police West
@@ -1271,8 +1265,7 @@ https://broadcastify.cdnstream1.com/28596
 
 
 #EXTINF:-1 group-title="TV2" Updated 3-2-2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV2", TVS Family Channel (360p)  (Family)
@@ -1453,7 +1446,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 
 
 #EXTINF:-1 group-title="Westerns",  Updated 3-2-2022
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
@@ -1516,7 +1510,8 @@ https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 
 
 #EXTINF:-1 group-title="PBS-Ohio", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="PBS-Ohio",WVIZ PBS - Cleveland
 https://wvizdt.lls.cdn.pbs.org/wvizdt/58a3da14-85c6-4760-807e-9ec6807d89c4/primary.m3u8
@@ -1535,8 +1530,7 @@ https://woubdt.lls.cdn.pbs.org/woubdt/4dc91f2b-0076-46d9-ba82-0c9130cde12c/prima
 
 
 #EXTINF:-1 group-title="Sports",  Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -1554,7 +1548,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 
 #EXTINF:-1 group-title="Pluto TV",  Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Pluto TV",  The Price is right
@@ -1650,7 +1645,8 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 
 #extinf:-1,group-title="STIRR", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
 
 #extinf:-1,group-title="STIRR", National Feed
 https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
@@ -1828,8 +1824,7 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 
 #EXTINF:-1  group-title="Roku TV", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -1987,8 +1982,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuweatherspy/CDN
 
 
 #EXTINF:-1  group-title="Redbox TV", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -2179,8 +2173,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playl
 
 
 #EXTINF:-1  group-title="Xumo Tv", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1  group-title="Xumo Tv", NBC News Now
@@ -2288,8 +2281,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.
 
 
 #EXTINF:-1  group-title="Bumblebee Tv", Updated 1.28.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -2423,8 +2415,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5f10f6c04a9f7c7c27570dd3/
 
 
 #EXTINF:-1 group-title="PLEX USA", Updated 03.09.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 
@@ -2708,8 +2699,7 @@ https://vidaprimo-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="PLEX Australia", Updated 03.09.21
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
-
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PLEX Australia", Nosey
 https://nosey-2.plex.wurl.com/manifest/playlist.m3u8
@@ -2967,7 +2957,7 @@ https://iheart-iheartchristmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Christmas TV" , 🎄🎄 Video On Demand 🎄🎄 Holiday favorites and Christmas classics at your leisure!
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Christmas3
-
+##https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Christmas TV" ,VOD FAMILY Jack Frost
@@ -3110,11 +3100,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-rok
 
 
 #EXTINF:-1 group-title="SPORT" , ESPN
-https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
+
 
 
 #EXTINF:-1 group-title="SPORT" ,SK 
-http://init.cheches.info/hls/104.m3u8
+
 
 
 
@@ -3123,5 +3113,3 @@ https://www.filmon.com/tv/sex-ed-3-heterosexual|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="x",  
 
-#EXTINF:-1 group-title="x" , RT America feed out 3-2-22
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
