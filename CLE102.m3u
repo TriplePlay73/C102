@@ -358,7 +358,15 @@ https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV", TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_tmz_001.m3u8?ads.caid=TMZ&ads.csid=samsungtvplus_ca_tmz_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-2&ads._fw_content_genre=popculture&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=181&ads.xumo_contentName=TMZ&ads.xumo_providerId=181&ads.xumo_providerName=TMZ&ads.xumo_channelId=9991523&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 group-title="TV", Rakuten Viki (US)
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", Vizio Kick Back (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
+
+
 
 
 
