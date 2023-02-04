@@ -1454,6 +1454,9 @@ https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Westerns", Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Westerns", Cowboy Way
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cowboy-Way.m3u8
+
 #EXTINF:-1 group-title="Westerns",  Redbox- War and Westerns
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
