@@ -1496,7 +1496,8 @@ https://tfd-distro.amagi.tv/indexfd_1280x720l.m3u8
 #EXTINF:-1 group-title="Westerns", Lone Star
 https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
 
-
+#EXTINF:-1 group-title="Westerns", Go See Westerns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
 
 
 
