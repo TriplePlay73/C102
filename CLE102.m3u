@@ -865,7 +865,7 @@ https://ample.revma.ihrhls.com/zc1749/25_1ss1k2106dpr102/playlist.m3u8?gender=nu
 
 
 
-#EXTINF:-1 group-title="Music Video",  Updated 12-17-21
+#EXTINF:-1 group-title="Music Video",  Updated 02-05-23
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
@@ -886,14 +886,19 @@ https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg0
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
-#EXTINF:-1 group-title="Music Video", Now 80s
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Music Video", Qwest Mix
-https://qwest-mix-lg.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Music Video", Trace Urban (UK)
+#EXTINF:-1 group-title="Music Video", Now 70's 
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music Video", Now 80's 
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music Video", Now 90's 
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Music Video", Trace Urban 
 https://trace-urban-lg-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music Video",  Vevo Pop
@@ -939,6 +944,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 
 #EXTINF:-1 group-title="Music Video",  MTV Spankin New
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video", Qwest Mix
+https://qwest-mix-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music Video",  Live Music Replay
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
