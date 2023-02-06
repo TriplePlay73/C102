@@ -778,6 +778,9 @@ https://www.wkyc.com/watch|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="Cleveland" , CH 3 News ~ m3u8
 https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
 
+#EXTINF:-1 group-title="Cleveland" , CH 5 News ~ m3u8
+https://content.uplynk.com/channel/bb325641f6c243fdabebf1e3ade0634c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.news5cleveland.com%2F
+
 #EXTINF:-1 group-title="Cleveland" , CH 5 News ~ autoweb
 https://www.news5cleveland.com/live|autowebzoom=120scroll=50,100
 
