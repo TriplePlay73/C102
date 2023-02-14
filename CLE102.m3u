@@ -64,17 +64,6 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="News" , FOX News
 https://daddylivehd.sx/stream/stream-347.php|autowebzoom=120scroll=50,100
 
-
-#EXTINF:-1 group-title="News" , Headline News
-https://daddylivehd.sx/stream/stream-323.php|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="News" , BBC NEWS
-https://daddylivehd.sx/stream/stream-349.php|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="News" , Sky Sports News UK
-https://daddylivehd.sx/stream/stream-366.php|autowebzoom=120scroll=50,100
-
 #EXTINF:-1 group-title="News" , RT America
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
@@ -178,6 +167,13 @@ https://lnc-nbc-news-now.tubi.video/master_1.m3u8
 
 #EXTINF:-1 group-title="News", News Now by Fox
 https://lnc-fox-live-now.tubi.video/index_1.m3u8
+
+#EXTINF:-1 group-title="News" , Headline News
+https://daddylivehd.sx/stream/stream-323.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="News" , Sky Sports News UK
+https://daddylivehd.sx/stream/stream-366.php|autowebzoom=120scroll=50,100
+
 
 #EXTINF:-1 group-title="News" , Brighteon
 https://rtmp-edge.brighteon.com/hls/brighteones-live/index.m3u8
