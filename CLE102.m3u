@@ -154,9 +154,12 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 
+https://5ebe68a67ff3c.streamlock.net/live/stream_10/playlist.m3u8
+
+#EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 01
 https://5ebe6889de541.streamlock.net/live/stream_01/playlist.m3u8
 
-#EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 2
+#EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 124
 https://5ebe69095e213.streamlock.net/live/stream_124/playlist.m3u8
 
 
