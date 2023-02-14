@@ -156,7 +156,9 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 
 https://5ebe6889de541.streamlock.net/live/stream_01/playlist.m3u8
 
-##http://sots.ohio.gov/live/stream_10/index.m3u8
+#EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 2
+https://5ebe69095e213.streamlock.net/live/stream_124/playlist.m3u8
+
 
 #EXTINF:-1 group-title="News", One America News Network PLUS
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
