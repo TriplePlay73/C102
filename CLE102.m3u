@@ -53,7 +53,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist
 
 
 
-#EXTINF:-1 group-title="News" , Updated 3-2-2022
+#EXTINF:-1 group-title="News" , Updated 2-13-2023
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
 
@@ -61,19 +61,25 @@ https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" ,Americas Voice *Samsung
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
 
-#EXTINF:-1 group-title="News" , Brighteon
-https://rtmp-edge.brighteon.com/hls/brighteones-live/index.m3u8
+#EXTINF:-1 group-title="News" , FOX News
+https://daddylivehd.sx/stream/stream-347.php|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="News" , Headline News
+https://daddylivehd.sx/stream/stream-323.php|autowebzoom=120scroll=50,100
 
+
+#EXTINF:-1 group-title="News" , BBC NEWS
+https://daddylivehd.sx/stream/stream-349.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="News" , Sky Sports News UK
+https://daddylivehd.sx/stream/stream-366.php|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="News" , RT America
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-
 #EXTINF:-1 group-title="News" , RT America *Rumble
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8?
-
 
 #EXTINF:-1 group-title="News" , RT Documrntry Channel
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -86,7 +92,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="News" , RSBN 
 https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8?
-
 
 #EXTINF:-1 group-title="News" , Lindell TV Live 1
 https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/playlist.m3u8?
@@ -109,12 +114,12 @@ https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/
 #EXTINF:-1 group-title="News" , NewMax *Drirect
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
-
-
 #EXTINF:-1 group-title="News" ,Newsy 
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
 #EXTINF:-1 group-title="News" ,Global News Canada
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
 #EXTINF:-1 group-title="News" ,Euronews 
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
@@ -130,31 +135,22 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 ##EXTINF:-1 group-title="News" , Newsmax TV Direct
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8?CMCD=br%3D589600%2Ccid%3D%22newsmaxlive%22%2Cd%3D6%2Cot%3Dm%2Csid%3D%22b1ca9055-9227-44ae-87aa-32053b47d461%22%2Csf%3Dh
 
-
-
-
 EXTINF:-1 group-title="News" ,Fox News Now *Tubi
 https://lnc-fox-news-now.tubi.video/index.m3u8
 
 #EXTINF:-1 group-title="News" ,Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 
-
 #EXTINF:-1 group-title="News", CNN Temp Link
-
 
 #EXTINF:-1 group-title="News" ,CNN HD *Direct
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-
-
 #EXTINF:-1 group-title="News" , Pete Santilli @ 9am & 6pm Daily *Sunday 6pm Viloud
 https://stream.viloud.tv/aS84Z2RzNHIzZURiQkp0cEgxa081NjNMSVNZc2l2TEhkTEQ4VU5obCs1WkdzVEpscXQ1UmFkeU9BNk1uWU5ReC15NXNFVXVBT283ODdsSi9zNXNhMVFRPT0/live.m3u8
 
-
 #EXTINF:-1 group-title="News" ,Infowars 1 *Direct Link
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-
 
 #EXTINF:-1 group-title="News" ,American Journal *Direct Link
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
@@ -162,11 +158,8 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1 group-title="News" ,Owen Shroyer *Direct Link
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="News" ,Sky News | HD
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-
 
 #EXTINF:-1 group-title="News" , VoA TV (1080p)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
@@ -174,11 +167,8 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 group-title="News" ,Ohio Channel Broadcast 
 http://sots.ohio.gov/live/stream_10/index.m3u8
 
-
-
 #EXTINF:-1 group-title="News", One America News Network PLUS
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="News",  ABC News
 https://lnc-abc-news.tubi.video/index_1.m3u8
@@ -188,6 +178,9 @@ https://lnc-nbc-news-now.tubi.video/master_1.m3u8
 
 #EXTINF:-1 group-title="News", News Now by Fox
 https://lnc-fox-live-now.tubi.video/index_1.m3u8
+
+#EXTINF:-1 group-title="News" , Brighteon
+https://rtmp-edge.brighteon.com/hls/brighteones-live/index.m3u8
 
 
 
