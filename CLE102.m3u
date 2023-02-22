@@ -80,7 +80,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="News" , RSBN 
-https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8?
+https://rumble.com/live-hls-dvr/27wvv2/playlist.m3u8?
+##https://live-b9exd20e.rmbl.ws/slot-45/ngrp:qg50-kxfa_all/playlist.m3u8?
 
 #EXTINF:-1 group-title="News" , Lindell TV Live 1
 https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/playlist.m3u8?
