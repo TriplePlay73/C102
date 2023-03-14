@@ -56,7 +56,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist
 #EXTINF:-1 group-title="News" , Updated 2-13-2023
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="News" , ONE AMERICA NEWS
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
 
 #EXTINF:-1 group-title="News" ,Americas Voice *Samsung
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?
@@ -217,10 +218,15 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 #EXTINF:-1 group-title="TV", TBS West (720p) 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-
+#EXTINF:-1 group-title="TV", Destination America 
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/400
 
 #EXTINF:-1 group-title="TV", Electric Now HD
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+
+#EXTINF:-1 group-title="TV", POP
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/337
+
 #EXTINF:-1 group-title="TV", Charge HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 group-title="TV", Comet TV HD
