@@ -276,8 +276,15 @@ https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
 https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="TV", FOOD NETWORK
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/391
+
+#EXTINF:-1 group-title="TV",  COOKING CHANNEL HD
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/404
 
 
+#EXTINF:-1 group-title="TV",  ANIMAL PLANET
+http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/430
 
 
 #EXTINF:-1 group-title="TV",  This Old House HD
