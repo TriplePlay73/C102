@@ -23,8 +23,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-sams
 https://indigenius-toowild-1-ie.lg.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Nature", Wild Earth
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=akyrdQtKX1dtSKc9muDL
+#EXTINF:-1 group-title="Nature", WildEarth
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=vFyCuRbJsYcfJFsiXPvz
 
 #EXTINF:-1 group-title="Nature", Better Life Nature Channel	
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
