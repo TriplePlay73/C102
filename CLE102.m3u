@@ -61,6 +61,12 @@ https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
 http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/42270
 
 #EXTINF:-1 group-title="News" , ONE AMERICA NEWS
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 group-title="News" , ONE AMERICA NEWS
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="News" , ONE AMERICA NEWS
 http://185.191.124.105:25461/Jackweed/KfjtxuMnwP/343
 
 #EXTINF:-1 group-title="News" ,Americas Voice *Samsung
